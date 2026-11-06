@@ -4516,7 +4516,7 @@ package com.bh.model {
             var rewardCoins:int=int(settled.rewardCoins),rewardXp:int=int(settled.rewardXp);
             coins+=rewardCoins;xp+=rewardXp;
             var levelUp:Object=rewardXp>0?applyLevelProgress(rewardXp):null;
-            var summary:Object={competition:"POST SEASON",leagueIndex:postSeason.leagueIndex,season:postSeason.season,teamName:teamName,teamCity:teamCity,teamAccent:teamAccent,heroName:String(mainPlayer().name),opponent:opponent,boxScore:boxScore?JSON.parse(JSON.stringify(boxScore)):[],atBats:attempts,win:win,draw:draw,homeScore:homeScore,awayScore:awayScore,hits:hits,homeRuns:homeRuns,rbi:rbi,rewardCoins:rewardCoins,rewardXp:rewardXp,game:progress.game,wins:progress.heroWins,losses:progress.rivalWins,rank:postSeason.rank,seasonComplete:postSeason.status!="active",promoted:false,league:String(LEAGUES[int(postSeason.leagueIndex)]),levelUp:levelUp,level:level,levelProgress:levelProgress,levelTarget:levelXpTarget(),maxEnergy:maxEnergy,homeLine:homeLine?homeLine.concat():[],awayLine:awayLine?awayLine.concat():[],round:round,roundName:PostSeason.ROUND_NAMES[round],postStatus:postSeason.status,seriesComplete:progress.seriesComplete};
+            var summary:Object={competition:"POST SEASON",leagueIndex:postSeason.leagueIndex,season:postSeason.season,teamName:teamName,teamCity:teamCity,teamAccent:teamAccent,heroName:String(mainPlayer().name),opponent:opponent,boxScore:boxScore?JSON.parse(JSON.stringify(boxScore)):[],atBats:attempts,win:win,draw:draw,homeScore:homeScore,awayScore:awayScore,hits:hits,awayHits:int(scoreData&&scoreData.awayHits!==undefined?int(scoreData.awayHits):0),homeRuns:homeRuns,rbi:rbi,rewardCoins:rewardCoins,rewardXp:rewardXp,game:progress.game,wins:progress.heroWins,losses:progress.rivalWins,rank:postSeason.rank,seasonComplete:postSeason.status!="active",promoted:false,league:String(LEAGUES[int(postSeason.leagueIndex)]),levelUp:levelUp,level:level,levelProgress:levelProgress,levelTarget:levelXpTarget(),maxEnergy:maxEnergy,homeLine:homeLine?homeLine.concat():[],awayLine:awayLine?awayLine.concat():[],round:round,roundName:PostSeason.ROUND_NAMES[round],postStatus:postSeason.status,seriesComplete:progress.seriesComplete};
             summary.scoring=settled;
             summary.walkOff=scoreData?Boolean(scoreData.walkOff):false;
             summary.fixtureKey=key;
@@ -4859,6 +4859,7 @@ package com.bh.model {
                 homeScore:homeScore,
                 awayScore:awayScore,
                 hits:hits,
+                awayHits:int(scoreData&&scoreData.awayHits!==undefined?int(scoreData.awayHits):0),
                 homeRuns:homeRuns,
                 rbi:rbi,
                 rewardCoins:rewardCoins,

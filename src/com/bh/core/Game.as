@@ -3492,6 +3492,7 @@ package com.bh.core {
 
             var scoreData:Object=scoring.snapshot();
             scoreData.walkOff=walkOff;
+            scoreData.awayHits=opponentHits;
             scoreData.fixtureKey=GameData.specialMatch?String(GameData.specialMatch.key):"";
             var summary:Object =
                 (GameData.postSeasonMode?GameData.completePostSeasonGame:GameData.completeSeasonGame)(
