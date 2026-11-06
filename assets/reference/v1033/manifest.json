@@ -1,0 +1,88 @@
+{
+  "file": "skills.png",
+  "size": [
+    1448,
+    1086
+  ],
+  "alpha": [
+    0,
+    255
+  ],
+  "sha256": "1b03e21344a5cfc09fffa295894167deaf873278e8738cd2867651da723cf0c3",
+  "sourceBytesPreserved": true,
+  "frames": {
+    "BATTING_EYE": [
+      39,
+      107,
+      300,
+      245
+    ],
+    "POWER_HITTER": [
+      374,
+      63,
+      325,
+      301
+    ],
+    "CLUTCH": [
+      744,
+      85,
+      324,
+      270
+    ],
+    "SPEEDSTER": [
+      1086,
+      65,
+      334,
+      292
+    ],
+    "PATIENT_HITTER": [
+      41,
+      424,
+      302,
+      260
+    ],
+    "LINE_DRIVE": [
+      362,
+      456,
+      362,
+      185
+    ],
+    "TEAM_SPIRIT": [
+      735,
+      387,
+      342,
+      299
+    ],
+    "LUCKY_SWING": [
+      1109,
+      406,
+      313,
+      278
+    ],
+    "CONTACT_MASTER": [
+      33,
+      710,
+      329,
+      312
+    ],
+    "SLUGGER": [
+      362,
+      707,
+      362,
+      313
+    ],
+    "BASE_RUNNER": [
+      739,
+      752,
+      345,
+      255
+    ],
+    "DEFENSE_CAPTAIN": [
+      1122,
+      705,
+      275,
+      318
+    ]
+  },
+  "note": "Reconstructed skill atlas. PNG copied without image editing. Rectangles inspected from alpha and used by native copyPixels only."
+}

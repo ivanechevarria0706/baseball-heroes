@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-13",
+  "observed": [
+    "RUNNING: cuatro estrellas encendidas, STEP 5 activo, 1245/1350; LONG RUN añade 600 Mastery y el premio muestra cinco estrellas y 2 SKILL POINTS.",
+    "Final de liga, 00:11.5: STRETCHING ya está en MASTER, doce estrellas, 615/1125. Walking Lunge añade 600 Mastery; energía 17→22 y popup 5 ENERGY.",
+    "Final de liga, 00:21.8: RUNNING ya está en MASTER, doce estrellas, 870/1125. Long Run añade 600; energía 22→27 y popup 5 ENERGY.",
+    "Final de liga, 00:33: LIFTING tiene nueve estrellas, STEP 10 activo y 3090/3600."
+  ],
+  "references": {
+    "step5": {
+      "path": "reference_visual/gameplays_20260924/primer_lugar-0028.jpg",
+      "sha256": "3f741c44703ff9a93fa75a7c1c3e5e9eb247490a7e9bd5d6296465bde26b12a4"
+    },
+    "star": {
+      "path": "reference_visual/gameplays_20260924/primer_lugar-0052.jpg",
+      "sha256": "12ccd091d084d8d45a0cee31ee8ac694fa408c23178da7914a779f99cb26c69f"
+    },
+    "master": {
+      "path": "reference_visual/mastery_20261013/final-19.0.png",
+      "sha256": "40fa9bcd21a777b9fc8ec53cf34c41592d68534a6b23f88ad1201324abacb7f5"
+    }
+  },
+  "inferred": [
+    "Después de MASTER, cada barra de 1125 concede 5 ENERGY; los restos 90 y 345 coinciden con la proporción de las barras vistas después. No se recupera código de servidor."
+  ],
+  "thresholds": [
+    1350,
+    1350,
+    1350,
+    1350,
+    1350,
+    1800,
+    2250,
+    2700,
+    3150,
+    3600,
+    4050,
+    4500
+  ],
+  "threshold_evidence": {
+    "5": "1350 observado",
+    "10": "3600 observado",
+    "1-4": "1350 conservado del remake, sin confirmación",
+    "6-9,11-12": "interpolación de +450, pendiente de confirmación",
+    "MASTER": "1125 observado"
+  },
+  "reconstructed": [
+    "Dos SKILL POINTS por estrella conserva la regla del remake; el premio de la quinta estrella sí se observa.",
+    "La última estrella otorga 2 puntos; la primera energía llega al llenar una barra de MASTER. El premio exacto de entrar en MASTER no está demostrado.",
+    "Ventana reconstruida, con arte del entrenador ya disponible; no incluye compartir en Facebook."
+  ],
+  "preserved": [
+    "Precios, XP, Mastery por sesión y descansos de las 18 actividades.",
+    "Estrellas ganadas bajo la regla antigua de 1350 y proporción de avance. Migración sin premios retroactivos.",
+    "Cabeza 0.8.6, cabello, pichadas, partido, cartas, servidor y guardado v23 / SQLite v4."
+  ],
+  "pending": [
+    "Curva completa de Mastery y premio exacto de la última estrella.",
+    "Fichas originales de cartas observadas, siguiente bloque previsto.",
+    "Puestos cuarto y quinto de entrenamiento aún sin identificar."
+  ]
+}

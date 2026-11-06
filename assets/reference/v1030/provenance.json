@@ -1,0 +1,31 @@
+{
+  "tool": "image_gen built-in",
+  "type": "reconstructed artwork, not recovered original sprites",
+  "referenceRoles": "Supporting visual references only; originals retained unchanged",
+  "jobs": [
+    {
+      "name": "home-equipment",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent ground-dressing sprite for a small 2D baseball Facebook game. Reference image is supporting visual reference only: reproduce the flat Flash-era cartoon rendering of the loose equipment on the grass in the lower middle, not the screenshot or its interface. Draw one wide horizontal arrangement of six separated small objects: a slim silver baseball bat lying horizontally at upper centre, a second silver bat horizontally at middle right, one dark purple cleat at middle left, one small navy sports glove at lower centre, an open brown baseball mitt at lower right, and one white baseball with red stitching at lower left. Keep their shapes simple, recognisable and chunky at small game size, crisp near-black outlines, flat shaded fills with only one highlight, slight top-down view matching the screenshot's field. No people, no grass or ground plate, no lettering, no interface, no enclosing border. Landscape composition, complete objects with generous transparent margins and lots of transparent space between objects. Actual transparent background; no checkerboard, no glow or photorealistic texture.",
+      "referenced_image_paths": [
+        "C:/Users/ivane/Documents/Baseball Heroes/baseball_heroes_remake_phase8Y_result_match_presentation/reference_visual/initial_audit_20261015/frame-0398.jpg"
+      ],
+      "transparent_background": true
+    },
+    {
+      "name": "home-duffel",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent 2D cartoon equipment-bag sprite. The reference image is supporting style and object reference only: the compact blue-gray baseball duffel on the ground just to the right of the hero's feet. Reconstruct that bag alone, fully visible: squat rectangular navy blue and slate-gray fabric body, rounded ends, black carrying handles and shoulder strap, light gray piping, small side pocket, thick near-black outlines, a single pale highlight on the upper edge, flat Flash game cartoon fills and a slight three-quarter view. Keep it readable at roughly 70 by 45 game pixels. No hero, limbs, equipment protruding from it, logos, text, background, platform, shadows extending far from the bag, or extra objects. Entire bag and strap inside the canvas with transparent margins. Actual transparent background, no checkerboard.",
+      "referenced_image_paths": [
+        "C:/Users/ivane/Documents/Baseball Heroes/baseball_heroes_remake_phase8Y_result_match_presentation/reference_visual/head_shapes_20261006/reference.png"
+      ],
+      "transparent_background": true
+    },
+    {
+      "name": "home-mission",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent 2D game mission emblem. Supporting reference image shows the desired flat cartoon illustration and the red flame icon on the left rail of HOME. Reconstruct a bold upright red-orange flame badge with three flame tips, golden yellow inner flame, an ivory inner highlight and a compact white-and-gold baseball diamond emblem in the centre. Thick near-black outline with a narrow ivory outer rim, saturated flat Flash-era cartoon colours, clean hard edges and at most one highlight per fill. Readable as a small 60 by 70 pixel game button. The central emblem has no letters. No text, logo, people, box, background or other objects. Complete icon centred with generous transparent margins, actual transparent background, no checkerboard and no blur.",
+      "referenced_image_paths": [
+        "C:/Users/ivane/Documents/Baseball Heroes/baseball_heroes_remake_phase8Y_result_match_presentation/reference_visual/initial_audit_20261015/frame-0398.jpg"
+      ],
+      "transparent_background": true
+    }
+  ]
+}

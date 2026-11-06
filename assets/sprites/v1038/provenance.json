@@ -1,0 +1,216 @@
+{
+  "tool": "built-in image_gen",
+  "prompts": {
+    "male": "Use case: stylized-concept. Asset type: transparent game sprite atlas, eight original customizable HERO characters for our baseball game. The input image is STYLE REFERENCE ONLY: match its beautifully finished chibi proportions, large almond eyes with white sclera, heavy angular eyebrows, bold clean black outlines, small triangular nose, confident grin, tiny compact torso, short legs and large black cleats with two white bands. These are original selectable hero designs, NOT the two MLB players. A cohesive flat 2D cel illustration, hard edged two-tone shadows, no 3D, no realistic faces. EXACT layout: four equal columns and two equal rows, 8 COMPLETE full body male characters, each centered entirely in its cell, generous transparent gutters, transparent background, no labels/text/frame/grid. Identical white baseball uniform with dark navy blue short sleeves and trim, plain shirt without logo/letters, black belt and black/white cleats. NO cap, helmet, eyewear, beard, mustache or jewelry. Each character stands with feet apart, one fist on hip, other hand holding a baseball at waist height; NO bats, gloves or other props near heads. Hair MUST be a separate recognizable dark PURPLE material, approximately #593477, with purple lighter cel accents (for runtime recoloring); outlines remain almost black #121219. Skin a consistent warm PEACH #f9b780 with a darker peach shadow. Eyes brown. Eight DISTINCT integrated head/hair silhouettes fitting scalp perfectly, no gaps: reading order 1. short side swept wavy quiff, 2. tidy cropped hair, 3. spiky up swept hair, 4. loose long fringe, 5. short tight curls, 6. combed back undercut, 7. center parted medium waves, 8. neat short braids. All youthful adult men, original faces, some round chin and some angular chin. Head including hair approximately upper 52% of character height and compact body below. ALL EIGHT must have their entire hair and shoes safely INSIDE their own cell, at least 4% cell height clear transparent margin top and bottom, no overlap. Make it visually match the approved reference as closely as possible, polished and game ready.",
+    "female": "Use case: stylized-concept. Asset type: transparent game sprite atlas, eight original customizable HERO characters for our baseball game. The input image is STYLE REFERENCE ONLY: match its beautifully finished chibi proportions, large almond eyes with white sclera, heavy angular eyebrows, bold clean black outlines, small triangular nose, confident grin, tiny compact torso, short legs and large black cleats with two white bands. These are original selectable hero designs, NOT the two MLB players. A cohesive flat 2D cel illustration, hard edged two-tone shadows, no 3D, no realistic faces. EXACT layout: four equal columns and two equal rows, 8 COMPLETE full body female characters, each centered entirely in its cell, generous transparent gutters, transparent background, no labels/text/frame/grid. Identical white baseball uniform with dark navy blue short sleeves and trim, plain shirt without logo/letters, black belt and black/white cleats. NO cap, helmet, eyewear, beard, mustache or jewelry. Each character stands with feet apart, one fist on hip, other hand holding a baseball at waist height; NO bats, gloves or other props near heads. Hair MUST be a separate recognizable dark PURPLE material, approximately #593477, with purple lighter cel accents (for runtime recoloring); outlines remain almost black #121219. Skin a consistent warm PEACH #f9b780 with a darker peach shadow. Eyes brown. Eight DISTINCT integrated head/hair silhouettes fitting scalp perfectly, no gaps: reading order 1. short side swept pixie cut, 2. neat chin-length bob, 3. spiky short quiff, 4. long loose fringe and shoulder-length hair, 5. tight curly bob, 6. combed back short ponytail, 7. center parted shoulder-length waves, 8. neat short braids. All youthful adult women, original faces, some round chin and some angular chin. Head including hair approximately upper 52% of character height and compact body below. ALL EIGHT must have their entire hair and shoes safely INSIDE their own cell, at least 4% cell height clear transparent margin top and bottom, no overlap. Make it visually match the approved reference as closely as possible, polished and game ready. Feminine original faces with expressive almond eyes, slightly softer brows and discreet eyelashes; same baseball uniform and fully clothed athletic proportions. The background must be genuinely transparent with no smoke, backdrop, glow or cast shadows.",
+    "heads": "Use case: stylized-concept. Create a production transparent sprite sheet of SIXTEEN ORIGINAL BASEBALL HERO HEADS ONLY, for a modular video game character creator. Input images 1 and 2 are style and identity references. Reproduce their character face and hair styles very closely. Exact 4 columns x 4 rows uniform grid, generous TRANSPARENT gutters, NO BODY, NO NECK, NO UNIFORM, NO PROPS, no baseballs, no cap/helmet, no eyewear, no jewelry, no labels/text. ONLY complete floating heads including both ears, all hair, eyebrows, eyes, nose, smiling mouth and chin. Each head entirely INSIDE its cell with transparent margin all around. Match the very polished classic chibi cartoon visual style: big almond shaped white eyes with brown irises, angular brows, heavy near black ink, tiny nose, hard edged two tone peach skin, flat cel shaded PURPLE hair #593477 for recoloring. No 3D/realism/soft painting. Consistent head proportions; straight frontal faces. Each chin has a clean closed outline. All skin consistent warm peach #f9b780, shadow orange peach; hair dark purple with purple highlights; black outlines stay #121219. Rows 1-2 are men, reading order: 1 side swept wavy quiff, 2 tidy cropped hair, 3 spiky upswept hair, 4 long loose fringe, 5 short tight curls, 6 combed back undercut, 7 center parted medium waves, 8 neat short braids. Rows 3-4 are women with slightly softer brows and discreet lashes: 9 short side swept pixie, 10 chin length bob, 11 spiky short quiff, 12 loose fringe and shoulder length hair, 13 tight curly bob, 14 combed back ponytail, 15 center parted waves, 16 neat short braids. Hair is integrated perfectly with each scalp, no wig gap. Some men have round jaws, others angular jaws, original selectable cartoon faces. Identical scale for every head, no overlapping cells, NO shadow/glow/backdrop. Genuine transparent background. CRITICAL TECHNICAL CORRECTION: use a SQUARE 1:1 canvas, a spacious 4x4 atlas. Every head must occupy AT MOST 70% of both width AND height of its cell. Keep at least 15% empty transparent margin on EVERY side of EVERY head. Four fully empty horizontal transparent gutters across the entire width, and vertical gutters across the entire height. Do NOT let hair of a later row touch the chin of the row above. Make all heads SMALLER to create generous spacing. Entire silhouettes must be separated and safe for rectangular frame crops.",
+    "tool": "built-in image_gen",
+    "images": {
+      "male": "exec-13f61747-789a-4a0b-8460-d190f9e7af0a.png",
+      "female": "exec-75bc953d-6d14-4a77-8ad3-006c56d30c38.png",
+      "heads": "exec-8d40d708-a241-41ca-a8eb-57f90a66c6df.png"
+    }
+  },
+  "sourceBytesPreserved": true,
+  "files": {
+    "male": {
+      "file": "assets/sprites/v1038/male.png",
+      "sha256": "650bba3e979851a3350c9f2536792a428191e5cfa74fe5ec1ff80064eddaa275",
+      "width": 1536,
+      "height": 1024
+    },
+    "female": {
+      "file": "assets/sprites/v1038/female.png",
+      "sha256": "5c654883faff256da37070d8193f5c8139b646ca1ac470bd94477672cf473bed",
+      "width": 1536,
+      "height": 1024
+    },
+    "heads": {
+      "file": "assets/sprites/v1038/heads.png",
+      "sha256": "9e1d83bbe2054902959f20a2c2318ca82505ab1e94e2802c2345f35a1d724a5a",
+      "width": 1254,
+      "height": 1254
+    },
+    "body": {
+      "file": "assets/sprites/v1038/body.png",
+      "sha256": "03d13f19cd0e044c11491679023be919356d0e4dbcaebd6b51097cf825f4e128",
+      "width": 1254,
+      "height": 1254,
+      "rect": [
+        218,
+        193,
+        818,
+        992
+      ]
+    }
+  },
+  "heads": [
+    {
+      "style": 0,
+      "rect": [
+        31,
+        64,
+        271,
+        265
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 1,
+      "rect": [
+        355,
+        88,
+        241,
+        243
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 2,
+      "rect": [
+        646,
+        59,
+        265,
+        271
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 3,
+      "rect": [
+        954,
+        81,
+        274,
+        249
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 4,
+      "rect": [
+        40,
+        371,
+        247,
+        243
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 5,
+      "rect": [
+        357,
+        367,
+        246,
+        247
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 6,
+      "rect": [
+        642,
+        375,
+        282,
+        240
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 7,
+      "rect": [
+        975,
+        380,
+        243,
+        233
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 8,
+      "rect": [
+        34,
+        651,
+        260,
+        252
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 9,
+      "rect": [
+        332,
+        667,
+        295,
+        232
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 10,
+      "rect": [
+        653,
+        659,
+        264,
+        244
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 11,
+      "rect": [
+        947,
+        665,
+        289,
+        257
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 12,
+      "rect": [
+        27,
+        949,
+        281,
+        224
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 13,
+      "rect": [
+        329,
+        931,
+        280,
+        241
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 14,
+      "rect": [
+        638,
+        953,
+        295,
+        225
+      ],
+      "seamAlpha": 0
+    },
+    {
+      "style": 15,
+      "rect": [
+        978,
+        951,
+        234,
+        229
+      ],
+      "seamAlpha": 0
+    }
+  ],
+  "bodyGeneration": {
+    "prompt": "Use case: stylized-concept. Game sprite asset for a modular chibi baseball hero. Make ONE HEADLESS BODY ONLY, from a short visible neck stump to the shoes, no head, NO hair, no floating face. Style input reference is approved finished cartoon game art. Tiny compact athletic torso, short legs and chunky large black cleats with two white bands. White baseball jersey and white pants, dark NAVY BLUE sleeves and socks, black belt with silver square buckle. A short peach skin neck stump extending 10% above the shirt collar, clean simple neckline to mount a separate oversized cartoon head. Hands bare peach skin, both fists resting confidently on hips; no bat, baseball, glove, helmet, goggles or any prop. Straight front pose, feet shoulder width apart. Crisp bold black outlines, flat two tone hard cel shading and confident polished chibi 2D style. No logo, lettering, numbers or text. SQUARE transparent canvas, single body centered with generous transparent margins all around, from neck stump to complete shoes. Head must be completely absent, no silhouette placeholder circle. Body width about 70% of canvas, height about 75%, no shadows or glow. Transparent background.",
+    "source": "C:/Users/ivane/.codex/generated_images/01a07abc-56cb-7b01-b15e-24cbeb8004e9/exec-bbf1386a-9789-4321-b97d-81f924456f81.png",
+    "tool": "built-in image_gen"
+  },
+  "integration": "Sixteen complete native head/hair windows, original standing body, runtime material recoloring; created identity shared by HOME, portraits and batting.",
+  "approvedMLBPairUnchanged": true
+}

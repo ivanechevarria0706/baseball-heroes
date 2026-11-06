@@ -1,0 +1,64 @@
+{
+  "video": "reference_visual/facebook_play_20261012/gameplay.mp4",
+  "sha256": "6374fef7fd8c81beed07bd838c7ccdb68ed34afcbf0081ca9b437623abb1c7f1",
+  "frames": [
+    "frame-0220.0.png",
+    "frame-0228.0.png"
+  ],
+  "observedPacks": [
+    {
+      "id": "C",
+      "price": "5,000 Coins",
+      "grades": "NORMAL / RARE",
+      "lockEvidence": "Sin candado visible"
+    },
+    {
+      "id": "B++",
+      "price": "45 Credits",
+      "grades": "RARE / ELITE",
+      "lockEvidence": "Disponible en la liga A del video; límite inferior desconocido"
+    },
+    {
+      "id": "B",
+      "price": "10,000 Coins",
+      "grades": "NORMAL / RARE",
+      "lockEvidence": "DOUBLE-A"
+    },
+    {
+      "id": "B+",
+      "price": "15,000 Coins",
+      "grades": "NORMAL / RARE / ELITE",
+      "lockEvidence": "DOUBLE-A"
+    },
+    {
+      "id": "A",
+      "price": "30,000 Coins",
+      "grades": "NORMAL / RARE / ELITE",
+      "lockEvidence": "TRIPLE-A"
+    },
+    {
+      "id": "A+",
+      "price": "45,000 Coins",
+      "grades": "NORMAL / RARE / ELITE / HERO",
+      "lockEvidence": "TRIPLE-A"
+    },
+    {
+      "id": "A++",
+      "price": "80 Credits",
+      "grades": "ELITE / HERO",
+      "lockEvidence": "DOUBLE-A"
+    }
+  ],
+  "notRecovered": [
+    "Grade probability weights",
+    "B++ minimum league below the observed Single-A",
+    "Original packet artwork"
+  ],
+  "remakeDecisions": [
+    "Keep starter C lesson at 6,000 Coins; regular C costs 5,000 after tutorial",
+    "Normalize old 60/25/12/3 weights over each observed grade range",
+    "B++ remains available at Rookie while its original lower unlock is unconfirmed",
+    "Legacy S pack API keeps 72 Credits; no unobserved S tile in the seven-pack shop",
+    "Preserve owned and already pending B/C HERO cards; limit only new random draws"
+  ]
+}

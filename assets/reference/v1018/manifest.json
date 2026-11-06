@@ -1,0 +1,736 @@
+{
+  "release": "1.0.18",
+  "technique": "original-pixel extraction and compositing; no image generation",
+  "frames": {
+    "energy": [
+      4,
+      4,
+      26,
+      31
+    ],
+    "coin": [
+      260,
+      4,
+      41,
+      34
+    ],
+    "cash": [
+      516,
+      4,
+      31,
+      27
+    ],
+    "scout": [
+      772,
+      4,
+      80,
+      63
+    ],
+    "build": [
+      4,
+      132,
+      86,
+      60
+    ],
+    "chest": [
+      260,
+      132,
+      95,
+      69
+    ],
+    "play": [
+      516,
+      132,
+      164,
+      78
+    ],
+    "helmet": [
+      772,
+      132,
+      44,
+      40
+    ],
+    "modes": [
+      4,
+      260,
+      139,
+      120
+    ],
+    "batter": [
+      260,
+      260,
+      83,
+      50
+    ],
+    "shop": [
+      516,
+      260,
+      44,
+      40
+    ],
+    "gear_glove": [
+      772,
+      260,
+      27,
+      41
+    ],
+    "gear_shoes": [
+      4,
+      388,
+      45,
+      25
+    ],
+    "gear_belt": [
+      260,
+      388,
+      44,
+      18
+    ],
+    "gear_goggles": [
+      516,
+      388,
+      47,
+      22
+    ],
+    "gear_bat": [
+      772,
+      388,
+      53,
+      38
+    ],
+    "gear_helmet": [
+      4,
+      516,
+      44,
+      40
+    ],
+    "portrait0": [
+      260,
+      516,
+      133,
+      120
+    ],
+    "portrait1": [
+      516,
+      516,
+      131,
+      120
+    ],
+    "portrait2": [
+      772,
+      516,
+      117,
+      120
+    ],
+    "portrait3": [
+      4,
+      644,
+      136,
+      118
+    ],
+    "portrait4": [
+      260,
+      644,
+      125,
+      120
+    ],
+    "portrait5": [
+      516,
+      644,
+      133,
+      120
+    ],
+    "portrait6": [
+      772,
+      644,
+      117,
+      120
+    ],
+    "portrait7": [
+      4,
+      772,
+      113,
+      120
+    ],
+    "portrait8": [
+      260,
+      772,
+      105,
+      120
+    ],
+    "portrait9": [
+      516,
+      772,
+      108,
+      120
+    ],
+    "portrait10": [
+      772,
+      772,
+      123,
+      120
+    ],
+    "portrait11": [
+      4,
+      900,
+      107,
+      120
+    ],
+    "portrait12": [
+      260,
+      900,
+      103,
+      120
+    ],
+    "portrait13": [
+      516,
+      900,
+      109,
+      120
+    ],
+    "portrait14": [
+      772,
+      900,
+      102,
+      120
+    ],
+    "portrait15": [
+      4,
+      1028,
+      113,
+      120
+    ],
+    "portrait16": [
+      260,
+      1028,
+      103,
+      120
+    ],
+    "portrait17": [
+      516,
+      1028,
+      100,
+      120
+    ],
+    "portrait18": [
+      772,
+      1028,
+      105,
+      120
+    ],
+    "portrait19": [
+      4,
+      1156,
+      107,
+      120
+    ],
+    "portrait20": [
+      260,
+      1156,
+      108,
+      120
+    ],
+    "portrait21": [
+      516,
+      1156,
+      100,
+      120
+    ],
+    "portrait22": [
+      772,
+      1156,
+      107,
+      120
+    ],
+    "portrait23": [
+      4,
+      1284,
+      106,
+      120
+    ],
+    "portrait24": [
+      260,
+      1284,
+      101,
+      120
+    ],
+    "portrait25": [
+      516,
+      1284,
+      103,
+      120
+    ],
+    "portrait26": [
+      772,
+      1284,
+      98,
+      120
+    ],
+    "portrait27": [
+      4,
+      1412,
+      107,
+      120
+    ],
+    "portrait28": [
+      260,
+      1412,
+      103,
+      120
+    ],
+    "portrait29": [
+      516,
+      1412,
+      93,
+      120
+    ],
+    "portrait30": [
+      772,
+      1412,
+      97,
+      120
+    ],
+    "portrait31": [
+      4,
+      1540,
+      97,
+      120
+    ]
+  },
+  "provenance": {
+    "energy": {
+      "source": "reference_visual/initial_audit_20261015/frame-0078.jpg",
+      "window": [
+        216,
+        1,
+        242,
+        32
+      ],
+      "alpha": "traced exterior silhouette; original interior pixels preserved"
+    },
+    "coin": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0020.jpg",
+      "window": [
+        678,
+        13,
+        719,
+        47
+      ],
+      "alpha": "traced exterior silhouette; original interior pixels preserved"
+    },
+    "cash": {
+      "source": "reference_visual/initial_audit_20261015/frame-0078.jpg",
+      "window": [
+        492,
+        3,
+        523,
+        30
+      ],
+      "alpha": "traced exterior silhouette; original interior pixels preserved"
+    },
+    "scout": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0020.jpg",
+      "window": [
+        141,
+        335,
+        221,
+        398
+      ],
+      "alpha": "traced exterior silhouette; original interior pixels preserved"
+    },
+    "build": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0020.jpg",
+      "window": [
+        139,
+        410,
+        225,
+        470
+      ],
+      "alpha": "traced exterior silhouette; original interior pixels preserved"
+    },
+    "chest": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0020.jpg",
+      "window": [
+        1026,
+        96,
+        1121,
+        165
+      ],
+      "alpha": "traced exterior silhouette; original interior pixels preserved"
+    },
+    "play": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0020.jpg",
+      "window": [
+        145,
+        495,
+        309,
+        573
+      ],
+      "alpha": "traced exterior silhouette; original interior pixels preserved"
+    },
+    "helmet": {
+      "source": "assets/reference/v117/classic117_helmet_0.png",
+      "alpha": "connected neutral catalogue exterior removed; ink and white helmet retained"
+    },
+    "modes": {
+      "source": "assets/reference/mode_icons/opening.png",
+      "alpha": "existing original transparency"
+    },
+    "batter": {
+      "source": [
+        "assets/reference/v116/card_howard_d.png",
+        "assets/reference/v116/card_billie_k.png",
+        "assets/reference/v116/card_marvin_k.png"
+      ],
+      "layout": "three original card crops fanned; no new card art"
+    },
+    "shop": {
+      "source": "helmet",
+      "layout": "existing recovered equipment illustration"
+    },
+    "gear_glove": {
+      "source": "assets/reference/v116/classic107_glove_0.png",
+      "usage": "category symbol; does not represent or equip a new item"
+    },
+    "gear_shoes": {
+      "source": "assets/reference/v116/classic116_shoes_0.png",
+      "usage": "category symbol; does not represent or equip a new item"
+    },
+    "gear_belt": {
+      "source": "assets/reference/v116/classic116_belt_0.png",
+      "usage": "category symbol; does not represent or equip a new item"
+    },
+    "gear_goggles": {
+      "source": "assets/reference/v116/classic116_goggles_0.png",
+      "usage": "category symbol; does not represent or equip a new item"
+    },
+    "gear_bat": {
+      "source": "assets/reference/v116/classic116_bat_0.png",
+      "usage": "category symbol; does not represent or equip a new item"
+    },
+    "gear_helmet": {
+      "source": "helmet",
+      "usage": "category symbol"
+    },
+    "portrait0": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        32,
+        32,
+        168,
+        155
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait1": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        242,
+        30,
+        378,
+        155
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait2": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        462,
+        17,
+        598,
+        157
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait3": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        681,
+        39,
+        817,
+        157
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait4": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        25,
+        306,
+        161,
+        437
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait5": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        247,
+        322,
+        383,
+        445
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait6": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        470,
+        300,
+        606,
+        439
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait7": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        686,
+        301,
+        822,
+        446
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait8": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        30,
+        587,
+        166,
+        743
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait9": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        247,
+        594,
+        383,
+        745
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait10": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        468,
+        610,
+        604,
+        743
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait11": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        685,
+        592,
+        821,
+        745
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait12": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        28,
+        870,
+        164,
+        1029
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait13": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        247,
+        887,
+        383,
+        1037
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait14": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        466,
+        870,
+        602,
+        1030
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait15": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        686,
+        892,
+        822,
+        1036
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait16": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        27,
+        1166,
+        163,
+        1324
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait17": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        248,
+        1164,
+        384,
+        1328
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait18": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        466,
+        1174,
+        602,
+        1329
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait19": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        683,
+        1173,
+        819,
+        1326
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait20": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        24,
+        1464,
+        160,
+        1615
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait21": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        247,
+        1456,
+        383,
+        1619
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait22": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        464,
+        1462,
+        600,
+        1615
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait23": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        682,
+        1460,
+        818,
+        1614
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait24": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        26,
+        1745,
+        162,
+        1906
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait25": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        247,
+        1749,
+        383,
+        1908
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait26": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        463,
+        1741,
+        599,
+        1907
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait27": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        684,
+        1754,
+        820,
+        1907
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait28": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        26,
+        2040,
+        162,
+        2199
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait29": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        247,
+        2023,
+        383,
+        2199
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait30": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        464,
+        2031,
+        600,
+        2199
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    },
+    "portrait31": {
+      "source": "assets/sprites/v060/characters-atlas.png",
+      "window": [
+        683,
+        2031,
+        819,
+        2199
+      ],
+      "usage": "upper-body portrait of the same original sprite used in HOME; existing name-to-frame mapping"
+    }
+  }
+}

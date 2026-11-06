@@ -1,0 +1,11 @@
+{
+  "version": "0.6.1",
+  "file": "home-atlas.png",
+  "sha256": "26a7ce81928c2f9cca4c36b31271ff225e0c44001a94dcf44f7ca05f4b466462",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "frames": 4,
+  "origin": "New front-view reconstruction generated with built-in image_gen using v060 batter as style reference; not recovered Syntasia sprites."
+}

@@ -1,0 +1,16 @@
+Baseball Heroes Remake — Phase 8V
+Season Timeline + Travel Reconstruction
+
+Save format: v18
+ActionScript files statically checked: 56
+
+Core additions:
+- persistent seasonResults with score/opponent snapshots;
+- migration from old W/L-only history;
+- seven-card historical season carousel;
+- WIN / LOSS / NEXT MATCH / LOCKED states;
+- previous/next schedule browsing;
+- upgraded travel panel with both logos and progress percent;
+- league-based buses/planes retained.
+
+Compilation must still be performed with the user's Windows Flex/AIR SDK.

@@ -1,0 +1,117 @@
+{
+  "equipment": {
+    "file": "equipment.png",
+    "size": [
+      1774,
+      887
+    ],
+    "rect": [
+      17,
+      25,
+      1751,
+      862
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "sha256": "196ab411a34d98bc866a862b8c26479c6ce3ff8313e0ce01eef47c86e0313482",
+    "originalBytesPreserved": true
+  },
+  "duffel": {
+    "file": "duffel.png",
+    "size": [
+      1558,
+      1009
+    ],
+    "rect": [
+      41,
+      26,
+      1499,
+      983
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "sha256": "89267ed4efec71e78a6bf80a0a0902f9c6a8fd05bcf5c28acd5f8fbdab178011",
+    "originalBytesPreserved": true
+  },
+  "mission": {
+    "file": "mission.png",
+    "size": [
+      1161,
+      1355
+    ],
+    "rect": [
+      51,
+      62,
+      1070,
+      1228
+    ],
+    "alpha": [
+      0,
+      255
+    ],
+    "sha256": "3d8888783e080398e36c51722e02f48e13794e18047b6fe25a3f33f0bd289502",
+    "originalBytesPreserved": true
+  },
+  "runtimeFrames": {
+    "bat": [
+      0,
+      465,
+      123,
+      844,
+      135
+    ],
+    "cleat": [
+      0,
+      153,
+      306,
+      356,
+      224
+    ],
+    "bat2": [
+      0,
+      1030,
+      391,
+      651,
+      120
+    ],
+    "ball": [
+      0,
+      184,
+      605,
+      206,
+      206
+    ],
+    "glove": [
+      0,
+      695,
+      617,
+      307,
+      178
+    ],
+    "mitt": [
+      0,
+      1254,
+      550,
+      391,
+      276
+    ],
+    "duffel": [
+      1,
+      41,
+      26,
+      1499,
+      983
+    ],
+    "mission": [
+      2,
+      51,
+      62,
+      1070,
+      1228
+    ]
+  }
+}

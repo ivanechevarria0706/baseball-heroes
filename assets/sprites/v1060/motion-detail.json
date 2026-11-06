@@ -1,0 +1,264 @@
+{
+  "file": "assets/sprites/v1060/fielding-detail.png",
+  "tool": "built-in image_gen",
+  "sha256": "b52064410c3dfde2f21c701dae701e0e8cb441fb147d2cbae45e2cc7f8f48612",
+  "sourceBytesPreserved": true,
+  "frames": [
+    {
+      "index": 16,
+      "rect": [
+        47,
+        123,
+        393,
+        313
+      ],
+      "neck": [
+        238,
+        139
+      ],
+      "ground": [
+        244,
+        434
+      ],
+      "seed": [
+        238,
+        144
+      ],
+      "glove": [
+        240,
+        363
+      ],
+      "hand": [
+        195,
+        339
+      ],
+      "facing": 0,
+      "sourceDetail": true,
+      "nativeScale": 0.6509274873524452
+    },
+    {
+      "index": 17,
+      "rect": [
+        512,
+        162,
+        371,
+        289
+      ],
+      "neck": [
+        704,
+        176
+      ],
+      "ground": [
+        698,
+        449
+      ],
+      "seed": [
+        704,
+        181
+      ],
+      "glove": [
+        752,
+        397
+      ],
+      "hand": [
+        706,
+        369
+      ],
+      "facing": 20,
+      "sourceDetail": true,
+      "nativeScale": 0.6509274873524452
+    },
+    {
+      "index": 18,
+      "rect": [
+        931,
+        138,
+        309,
+        303
+      ],
+      "neck": [
+        1103,
+        153
+      ],
+      "ground": [
+        1086,
+        439
+      ],
+      "seed": [
+        1103,
+        158
+      ],
+      "glove": [
+        1103,
+        259
+      ],
+      "hand": [
+        1042,
+        286
+      ],
+      "facing": 0,
+      "sourceDetail": true,
+      "nativeScale": 0.6509274873524452
+    },
+    {
+      "index": 19,
+      "rect": [
+        1323,
+        93,
+        433,
+        346
+      ],
+      "neck": [
+        1548,
+        138
+      ],
+      "ground": [
+        1540,
+        437
+      ],
+      "seed": [
+        1548,
+        143
+      ],
+      "glove": [
+        1690,
+        209
+      ],
+      "hand": [
+        1405,
+        137
+      ],
+      "facing": 35,
+      "sourceDetail": true,
+      "nativeScale": 0.6509274873524452
+    },
+    {
+      "index": 20,
+      "rect": [
+        61,
+        512,
+        379,
+        341
+      ],
+      "neck": [
+        282,
+        538
+      ],
+      "ground": [
+        250,
+        851
+      ],
+      "seed": [
+        282,
+        543
+      ],
+      "glove": [
+        347,
+        645
+      ],
+      "hand": [
+        112,
+        556
+      ],
+      "facing": 45,
+      "sourceDetail": true,
+      "nativeScale": 0.6509274873524452
+    },
+    {
+      "index": 21,
+      "rect": [
+        497,
+        516,
+        383,
+        342
+      ],
+      "neck": [
+        767,
+        535
+      ],
+      "ground": [
+        688,
+        856
+      ],
+      "seed": [
+        767,
+        540
+      ],
+      "glove": [
+        798,
+        596
+      ],
+      "hand": [
+        832,
+        654
+      ],
+      "facing": 60,
+      "sourceDetail": true,
+      "nativeScale": 0.6509274873524452
+    },
+    {
+      "index": 22,
+      "rect": [
+        948,
+        452,
+        389,
+        403
+      ],
+      "neck": [
+        1141,
+        568
+      ],
+      "ground": [
+        1142,
+        853
+      ],
+      "seed": [
+        1141,
+        573
+      ],
+      "glove": [
+        1246,
+        527
+      ],
+      "hand": [
+        1015,
+        637
+      ],
+      "facing": 25,
+      "sourceDetail": true,
+      "nativeScale": 0.6509274873524452
+    },
+    {
+      "index": 23,
+      "rect": [
+        1358,
+        539,
+        386,
+        314
+      ],
+      "neck": [
+        1558,
+        553
+      ],
+      "ground": [
+        1551,
+        851
+      ],
+      "seed": [
+        1558,
+        558
+      ],
+      "glove": [
+        1557,
+        649
+      ],
+      "hand": [
+        1497,
+        664
+      ],
+      "facing": 0,
+      "sourceDetail": true,
+      "nativeScale": 0.6509274873524452
+    }
+  ]
+}

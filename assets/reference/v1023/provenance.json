@@ -1,0 +1,12 @@
+{
+  "kind": "Reconstructed sprite, not a recovered original asset",
+  "tool": "Built-in image_gen",
+  "output": "goal-coach.png",
+  "prompt": "Create ONE transparent-background 2D game sprite: the stern blue-uniform baseball coach from the supplied Baseball Heroes screenshot, in the exact upper-body pointing-at-the-viewer pose seen inside the goal-setting panel. References: first screenshot is the pose and appearance reference; second character sheet is a higher-resolution appearance reference ONLY for the blue coach at the far left of its second row. Match his distinctive squat wide head, heavy square jaw, pale skin, thin grey side hair, oversized mirrored cyan-to-violet wraparound sunglasses, navy blue baseball cap, blue jacket and white undershirt. Right hand (viewer right) held forward with index finger pointing directly toward the viewer, other hand/arm resting low. Crop at lower chest with a smooth rounded silhouette. Face is stern but friendly, closed small mouth; no extra teeth, no smile. Thick crisp black outlines, flat cel shading, saturated classic Flash cartoon illustration, very simple shapes, faithful to the reference, no airbrushed or realistic rendering. Isolated character ONLY, upright, centered, generous 8 percent transparent margins, complete cap and pointing hand uncut. NO circle, background, text, badge, UI panel, watermarks or new accessories. The transparent cutout should remain legible at 170px high.",
+  "references": [
+    "reference_visual/initial_audit_20261015/frame-0107.jpg",
+    "assets/reference/training/room-sheet.png"
+  ],
+  "originalGeneratedFile": "C:/Users/ivane/.codex/generated_images/01a07abc-56cb-7b01-b15e-24cbeb8004e9/exec-5de354d8-701f-4655-b48f-e52f54cc58e7.png",
+  "imageCopiedUnchanged": true
+}

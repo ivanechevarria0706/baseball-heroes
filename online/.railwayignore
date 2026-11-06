@@ -1,0 +1,9 @@
+data/
+__pycache__/
+*.sqlite*
+*.db
+*.key
+*.pem
+*.env
+test_*.py
+qa_fixture*.py

@@ -1,0 +1,258 @@
+{
+  "source": "[FACEBOOK GAME]BASEBALL HEROES play video.mp4",
+  "source_sha256": "6374fef7fd8c81beed07bd838c7ccdb68ed34afcbf0081ca9b437623abb1c7f1",
+  "entries": [
+    {
+      "id": "classic117_helmet_0",
+      "name": "Black Bomber Helmet",
+      "category": "EQUIPMENT",
+      "slot": "helmet",
+      "grade": "NORMAL",
+      "accent": 4802108,
+      "coinPrice": 0,
+      "cashPrice": 45,
+      "unlockLeague": 0,
+      "unlockLevel": 0,
+      "power": 20,
+      "contact": 0,
+      "speed": 0,
+      "luck": 9,
+      "description": "Observed helmet · paired bonuses and price from the supplied video"
+    },
+    {
+      "id": "classic117_helmet_1",
+      "name": "Red Lightning Helmet",
+      "category": "EQUIPMENT",
+      "slot": "helmet",
+      "grade": "NORMAL",
+      "accent": 12335412,
+      "coinPrice": 0,
+      "cashPrice": 45,
+      "unlockLeague": 0,
+      "unlockLevel": 0,
+      "power": 20,
+      "contact": 9,
+      "speed": 0,
+      "luck": 0,
+      "description": "Observed helmet · paired bonuses and price from the supplied video"
+    },
+    {
+      "id": "classic117_helmet_2",
+      "name": "Sky Love Helmet",
+      "category": "EQUIPMENT",
+      "slot": "helmet",
+      "grade": "NORMAL",
+      "accent": 5354714,
+      "coinPrice": 0,
+      "cashPrice": 45,
+      "unlockLeague": 0,
+      "unlockLevel": 0,
+      "power": 0,
+      "contact": 9,
+      "speed": 0,
+      "luck": 20,
+      "description": "Observed helmet · paired bonuses and price from the supplied video"
+    },
+    {
+      "id": "classic117_helmet_3",
+      "name": "Green Star Helmet",
+      "category": "EQUIPMENT",
+      "slot": "helmet",
+      "grade": "NORMAL",
+      "accent": 5607726,
+      "coinPrice": 0,
+      "cashPrice": 45,
+      "unlockLeague": 0,
+      "unlockLevel": 0,
+      "power": 0,
+      "contact": 20,
+      "speed": 0,
+      "luck": 9,
+      "description": "Observed helmet · paired bonuses and price from the supplied video"
+    },
+    {
+      "id": "classic117_helmet_4",
+      "name": "White Star Helmet",
+      "category": "EQUIPMENT",
+      "slot": "helmet",
+      "grade": "NORMAL",
+      "accent": 15972558,
+      "coinPrice": 24000,
+      "cashPrice": 0,
+      "unlockLeague": 0,
+      "unlockLevel": 0,
+      "power": 9,
+      "contact": 0,
+      "speed": 0,
+      "luck": 6,
+      "description": "Observed helmet · paired bonuses and price from the supplied video"
+    },
+    {
+      "id": "classic117_helmet_5",
+      "name": "Beige Star Helmet",
+      "category": "EQUIPMENT",
+      "slot": "helmet",
+      "grade": "NORMAL",
+      "accent": 5209775,
+      "coinPrice": 24000,
+      "cashPrice": 0,
+      "unlockLeague": 0,
+      "unlockLevel": 0,
+      "power": 0,
+      "contact": 10,
+      "speed": 0,
+      "luck": 6,
+      "description": "Observed helmet · paired bonuses and price from the supplied video"
+    },
+    {
+      "id": "classic117_helmet_6",
+      "name": "Yellow Star Helmet",
+      "category": "EQUIPMENT",
+      "slot": "helmet",
+      "grade": "NORMAL",
+      "accent": 13873484,
+      "coinPrice": 24000,
+      "cashPrice": 0,
+      "unlockLeague": 0,
+      "unlockLevel": 0,
+      "power": 5,
+      "contact": 10,
+      "speed": 0,
+      "luck": 0,
+      "description": "Observed helmet · paired bonuses and price from the supplied video"
+    },
+    {
+      "id": "classic117_helmet_7",
+      "name": "Aqua Star Helmet",
+      "category": "EQUIPMENT",
+      "slot": "helmet",
+      "grade": "NORMAL",
+      "accent": 8036016,
+      "coinPrice": 24000,
+      "cashPrice": 0,
+      "unlockLeague": 0,
+      "unlockLevel": 0,
+      "power": 5,
+      "contact": 10,
+      "speed": 0,
+      "luck": 0,
+      "description": "Observed helmet · paired bonuses and price from the supplied video"
+    }
+  ],
+  "art": [
+    {
+      "key": "classic117_helmet_0",
+      "time": 258,
+      "rect": [
+        34,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v117/classic117_helmet_0.png",
+      "sha256": "e86151e5e147790149ddc2ba3dd104d57d0da31fa062b29eb0a1cf2be8da0c8e"
+    },
+    {
+      "key": "classic117_helmet_1",
+      "time": 258,
+      "rect": [
+        105,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v117/classic117_helmet_1.png",
+      "sha256": "d3f4dea07be807fcafb18e0b5931b7a0eaeebb9b3de57887a13e0237a3b0222d"
+    },
+    {
+      "key": "classic117_helmet_2",
+      "time": 258,
+      "rect": [
+        176,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v117/classic117_helmet_2.png",
+      "sha256": "e1bb7a7f84a177c1f1d5b89514931a2c2aec5461aa5a1ea083997d454597b132"
+    },
+    {
+      "key": "classic117_helmet_3",
+      "time": 258,
+      "rect": [
+        247,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v117/classic117_helmet_3.png",
+      "sha256": "4a6edc40c7b0583731bc2751c34e4adf697e5c6e53028ae583e42462ce627972"
+    },
+    {
+      "key": "classic117_helmet_4",
+      "time": 258,
+      "rect": [
+        34,
+        265,
+        55,
+        38
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v117/classic117_helmet_4.png",
+      "sha256": "2310f98665672f5904dfcf977d08fcf373e6acec0777e5ff1b5bd8f7d6137247"
+    },
+    {
+      "key": "classic117_helmet_5",
+      "time": 258,
+      "rect": [
+        105,
+        265,
+        55,
+        38
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v117/classic117_helmet_5.png",
+      "sha256": "ee7018c377c9555b79ffee24003aa563132cbf37f8fa12c6f87a9f95af7be25b"
+    },
+    {
+      "key": "classic117_helmet_6",
+      "time": 258,
+      "rect": [
+        176,
+        265,
+        55,
+        38
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v117/classic117_helmet_6.png",
+      "sha256": "2f591bdad4b7d2309142b43d1b61ac52f2aa78a9cd9309af6dc65d6ae14bb884"
+    },
+    {
+      "key": "classic117_helmet_7",
+      "time": 258,
+      "rect": [
+        247,
+        265,
+        55,
+        38
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v117/classic117_helmet_7.png",
+      "sha256": "8b717b1bdef5b9ea8ab35179fdb614ffc87bb43bfe0488a85c7fedeafd31333f"
+    }
+  ],
+  "observed": [
+    "Names, two bonuses, prices and currencies at 04:18.",
+    "Blue category tabs and silver item cards; orange coin and green premium price capsules."
+  ],
+  "reconstructed": [
+    "Unknown unlock levels remain zero, as with the previous observed collection.",
+    "NORMAL grade and base tint are local presentation choices.",
+    "Buttons, panels and currency glyphs are native redraws; fonts remain substitutes.",
+    "Equipped helmet uses the existing hero renderer; exact printed patterns remain incomplete."
+  ]
+}

@@ -1,0 +1,7 @@
+﻿build/
+reference_visual/
+reference_audio/
+*.swf
+__pycache__/
+*.pyc
+node_modules/

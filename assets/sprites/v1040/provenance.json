@@ -1,0 +1,98 @@
+{
+  "tool": "built-in image_gen",
+  "sourceBytesPreserved": true,
+  "measurement": "Read-only connected-component alpha bounds. Complete silhouettes including any cross-cell edges; native runtime cached crops.",
+  "files": {
+    "scout.png": {
+      "sha256": "11c03ec9e5fabf751a1dd2e269675b5163375972991a070144563b904f9d975e",
+      "width": 1774,
+      "height": 887,
+      "transparentPixels": 930825
+    },
+    "kit-clean.png": {
+      "sha256": "fde6d954f15221de73129883df0004857ef7d266f9c87058a613f14b25ff353a",
+      "width": 1536,
+      "height": 1024,
+      "transparentPixels": 585992
+    }
+  },
+  "frames": {
+    "coach-read": {
+      "sheet": "scout.png",
+      "rect": [
+        260,
+        16,
+        471,
+        862
+      ]
+    },
+    "coach-welcome": {
+      "sheet": "scout.png",
+      "rect": [
+        1008,
+        14,
+        677,
+        865
+      ]
+    },
+    "bronze": {
+      "sheet": "kit-clean.png",
+      "rect": [
+        29,
+        73,
+        472,
+        408
+      ]
+    },
+    "gold": {
+      "sheet": "kit-clean.png",
+      "rect": [
+        516,
+        72,
+        485,
+        412
+      ]
+    },
+    "file": {
+      "sheet": "kit-clean.png",
+      "rect": [
+        1029,
+        67,
+        492,
+        448
+      ]
+    },
+    "friends": {
+      "sheet": "kit-clean.png",
+      "rect": [
+        31,
+        553,
+        491,
+        416
+      ]
+    },
+    "signed": {
+      "sheet": "kit-clean.png",
+      "rect": [
+        552,
+        526,
+        430,
+        445
+      ]
+    },
+    "roster": {
+      "sheet": "kit-clean.png",
+      "rect": [
+        1009,
+        537,
+        499,
+        425
+      ]
+    }
+  },
+  "prompts": {
+    "scout": "Use case: stylized-concept. Asset type: transparent production sprite atlas for a chibi baseball game. Input image 1 is ONLY a style reference for clean bold black outlines, large expressive heads, compact cartoon bodies and two-tone cel shading. Create ONE horizontal sheet containing exactly TWO complete full-body poses of the SAME ORIGINAL friendly older male baseball club scout. Do not depict either referenced MLB player. Scout has a warm tan complexion, short grey hair at temples, thick eyebrows, small grey moustache, navy cap with a tiny baseball emblem (no lettering), navy varsity jacket with cream sleeves, beige trousers and large dark sneakers. Head about 45 percent of total character height, matching the approved cartoon style. Left pose: smiling confidently while looking at a clipboard held against his chest, pen in right hand. Right pose: welcoming smile, presenting a sealed bronze baseball prospect dossier with his left hand. Two separate whole silhouettes, each fully inside its half of the sheet, generous transparent margins, no overlap, no shared shadow, no detached pieces. Keep all hair, cap, hands, folder, feet inside the image. Pure genuine transparent background. No background, lettering, labels, watermark, UI, gradients behind the characters or props between the two poses.",
+    "kit": "Use case: stylized-concept. Asset type: six transparent illustrated object sprites for a chibi baseball game's recruitment interface. Input image 1 is a STYLE reference only: bold clean dark ink, glossy two-tone cel shading, crisp illustrated game objects. Create ONE transparent square sheet in exactly THREE COLUMNS and TWO ROWS. Each equal cell contains one separate compact object, generous transparent gutter, no overlap. Reading order: (1) CLOSED BRONZE PROSPECT DOSSIER: a landscape leather bronze folder, brass corners, dark navy band, prominent round baseball-and-crossed-bats seal, layered paper edges; (2) CLOSED GOLD PROSPECT DOSSIER: same landscape folder design in rich gold and navy with polished gold seal and three small embossed stars; (3) OPEN SCOUTING FILE: open navy clipboard-folder, a cream statistics sheet with subtle tiny graphical bars but no readable letters, a magnifying glass over a baseball in foreground; (4) FRIEND RECRUITMENT: two colorful leather baseball mitts making a friendly fist bump over a small baseball diamond shield, a large glossy green plus badge at the lower right, no people or faces; (5) SIGNED CONTRACT: cream contract pages on a navy clipboard with elegant pen and a vivid green check seal, graphical lines only, no readable text; (6) CLUB ROSTER FILE: a layered set of navy and cream baseball player cards, small cap and bat, a warm gold clasp. All six objects must be visually distinctive and detailed enough to read at 70x60 pixels. Full silhouettes with black outlines, restrained highlights and hard shadows on the objects, not behind them. No text, labels, watermark, characters or background. Genuine transparent alpha; do not draw a checkerboard."
+  },
+  "edit": "Use case: background-extraction. Edit this exact six-object atlas. Preserve all six illustrated objects, colors, shapes, positions and size exactly. Remove ONLY all ambient glow, colored haze, gradient backdrop and drop shadows behind or between the six objects. Background and gutters must be perfectly transparent alpha zero right up to each object's antialiased outer black outline. This is a production sprite atlas: no glow or fog may bridge neighboring cells. Keep the three columns and two rows unchanged, no object may be cut off, no extra objects or text. Genuine clear transparency, not a black fill or checkerboard."
+}

@@ -1,0 +1,55 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "path": "reference/stadiums/rookie_mountain095.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "alpha": null,
+      "sha256": "6c34fb8569f05713cc773084ec86800005984f834832c573cbdce34623cf4e4d"
+    },
+    {
+      "path": "reference/stadiums/civic_park095.png",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGB",
+      "alpha": null,
+      "sha256": "b92acd7d5795a4bc0417b5783cbfad8e660778b1dbc00e9b4cd9fa337b5d04cf"
+    },
+    {
+      "path": "sprites/v095/pitcher-atlas.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha": [
+        0,
+        254
+      ],
+      "sha256": "f6542f6fd1f476af42a381dd76863b2784128b3a1665a89ae60db9d49aa64296"
+    }
+  ],
+  "historicalOriginal": false,
+  "purpose": "Reference-inspired reconstruction; preserves existing files.",
+  "promptSummaries": [
+    {
+      "asset": "reference/stadiums/rookie_mountain095.png",
+      "summary": "Illustrated chibi baseball stadium inspired by the supplied original gameplay: blue sky, layered green mountains, side spectator stands, dark green wall and central scoreboard, empty playing field viewed from behind home plate; clean bold outlines, warm grass and dirt, no text or characters. Opaque background."
+    },
+    {
+      "asset": "reference/stadiums/civic_park095.png",
+      "summary": "Illustrated municipal baseball park inspired by the civic stadium in the supplied gameplay: central domed civic building, skyline, blue stands on both sides, bunting, lighting towers, scoreboard and empty baseball field; clean cartoon outlines with restrained cel shading. Opaque background."
+    },
+    {
+      "asset": "sprites/v095/pitcher-atlas.png",
+      "summary": "Transparent 6-column by 4-row atlas of the same chibi pitcher in a purple cap and uniform with white pants. Twenty-four sequential poses: ready, glove set, knee lift, stride, cocked throwing arm, visible baseball, empty-hand release, follow-through, recovery and ready. Consistent character proportions, thick dark contours, complete uncropped silhouettes, no labels or background."
+    }
+  ],
+  "promptNote": "Readable summaries of the generation directions; not claimed as recovered original assets."
+}

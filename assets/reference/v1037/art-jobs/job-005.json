@@ -1,0 +1,288 @@
+{
+  "number": 5,
+  "original": "C:/Users/ivane/.codex/generated_images/01a07abc-56cb-7b01-b15e-24cbeb8004e9/exec-5415cdca-e3fa-4ceb-91a0-838a465d4f3b.png",
+  "prompt": "Production transparent cartoon game sprite atlas. Image1 is the approved Ohtani/Judge STYLE: match its huge simple head, tiny compact body, big almond eyes, straight angular eyebrows, tiny triangle nose, cartoon smile, thick black outlines, FLAT colors and one hard cel-shadow. Image2 shows16 numbered photo identities in4 columns x4 rows. Draw EXACTLY these16 different people, one COMPLETE standing full-body character per cell in the same row-major order. Preserve individual skin, beard/mustache, hair and eye features from each numbered photo. Each player wears the white baseball uniform and colored cap/trim for the team shown/labeled on their own photo; this can change within the sheet. Use the official team cap style seen in the reference. Short bat, glove or baseball safely within its own cell. Every character is a cohesive drawing, never a pasted photo face or realistic head. No photo realism, detailed skin texture or gradients. Canvas1536x1536, EXACT4columns and4rows. Each character must fit ENTIRELY within its cell with generous transparent gaps on all sides, cap/bat/glove/shoes fully intact. Leave clear transparent outer margins too. All16 players must be present, no extras or missing last row. No names, labels or numbers outside uniform. Transparent alpha backdrop, no panels, floor or scene. Distinct faces matching the corresponding numbered photos but consistently the cartoon style of the approved pair.",
+  "tool": "built-in image_gen",
+  "referenceBoard": "research/mlb2026/full1037/boards16/board-05.png",
+  "style": "assets/reference/v1036/approved-ohtani-judge.png",
+  "status": "validated",
+  "file": "build/assets/mlb2026/atlas-005.png",
+  "sha256": "081157030fd4b1933f03a262258afabf7fba6da5b9302db09ae910a62135a740",
+  "width": 1254,
+  "height": 1254,
+  "frames": [
+    {
+      "mlbId": 664129,
+      "artIndex": 76,
+      "sheet": "atlas-005.png",
+      "full": [
+        70,
+        5,
+        235,
+        310
+      ],
+      "portrait": [
+        38,
+        5,
+        237,
+        196
+      ]
+    },
+    {
+      "mlbId": 696522,
+      "artIndex": 77,
+      "sheet": "atlas-005.png",
+      "full": [
+        366,
+        5,
+        210,
+        310
+      ],
+      "portrait": [
+        364,
+        5,
+        212,
+        196
+      ]
+    },
+    {
+      "mlbId": 692013,
+      "artIndex": 78,
+      "sheet": "atlas-005.png",
+      "full": [
+        686,
+        5,
+        232,
+        310
+      ],
+      "portrait": [
+        666,
+        5,
+        234,
+        196
+      ]
+    },
+    {
+      "mlbId": 703607,
+      "artIndex": 79,
+      "sheet": "atlas-005.png",
+      "full": [
+        991,
+        5,
+        194,
+        310
+      ],
+      "portrait": [
+        999,
+        5,
+        196,
+        196
+      ]
+    },
+    {
+      "mlbId": 663687,
+      "artIndex": 80,
+      "sheet": "atlas-005.png",
+      "full": [
+        68,
+        318,
+        240,
+        309
+      ],
+      "portrait": [
+        36,
+        318,
+        242,
+        195
+      ]
+    },
+    {
+      "mlbId": 685801,
+      "artIndex": 81,
+      "sheet": "atlas-005.png",
+      "full": [
+        365,
+        318,
+        211,
+        309
+      ],
+      "portrait": [
+        364,
+        318,
+        213,
+        196
+      ]
+    },
+    {
+      "mlbId": 669372,
+      "artIndex": 82,
+      "sheet": "atlas-005.png",
+      "full": [
+        684,
+        318,
+        236,
+        309
+      ],
+      "portrait": [
+        664,
+        318,
+        238,
+        195
+      ]
+    },
+    {
+      "mlbId": 678022,
+      "artIndex": 83,
+      "sheet": "atlas-005.png",
+      "full": [
+        990,
+        318,
+        196,
+        309
+      ],
+      "portrait": [
+        998,
+        318,
+        198,
+        196
+      ]
+    },
+    {
+      "mlbId": 682052,
+      "artIndex": 84,
+      "sheet": "atlas-005.png",
+      "full": [
+        67,
+        630,
+        239,
+        310
+      ],
+      "portrait": [
+        36,
+        630,
+        241,
+        196
+      ]
+    },
+    {
+      "mlbId": 805779,
+      "artIndex": 85,
+      "sheet": "atlas-005.png",
+      "full": [
+        366,
+        630,
+        213,
+        310
+      ],
+      "portrait": [
+        363,
+        630,
+        215,
+        196
+      ]
+    },
+    {
+      "mlbId": 643446,
+      "artIndex": 86,
+      "sheet": "atlas-005.png",
+      "full": [
+        683,
+        630,
+        237,
+        310
+      ],
+      "portrait": [
+        664,
+        630,
+        239,
+        196
+      ]
+    },
+    {
+      "mlbId": 605488,
+      "artIndex": 87,
+      "sheet": "atlas-005.png",
+      "full": [
+        990,
+        630,
+        196,
+        310
+      ],
+      "portrait": [
+        998,
+        630,
+        198,
+        196
+      ]
+    },
+    {
+      "mlbId": 697812,
+      "artIndex": 88,
+      "sheet": "atlas-005.png",
+      "full": [
+        68,
+        942,
+        217,
+        312
+      ],
+      "portrait": [
+        48,
+        942,
+        219,
+        196
+      ]
+    },
+    {
+      "mlbId": 683155,
+      "artIndex": 89,
+      "sheet": "atlas-005.png",
+      "full": [
+        363,
+        942,
+        238,
+        312
+      ],
+      "portrait": [
+        350,
+        942,
+        240,
+        196
+      ]
+    },
+    {
+      "mlbId": 608841,
+      "artIndex": 90,
+      "sheet": "atlas-005.png",
+      "full": [
+        686,
+        942,
+        208,
+        312
+      ],
+      "portrait": [
+        678,
+        942,
+        210,
+        196
+      ]
+    },
+    {
+      "mlbId": 671286,
+      "artIndex": 91,
+      "sheet": "atlas-005.png",
+      "full": [
+        983,
+        942,
+        241,
+        312
+      ],
+      "portrait": [
+        976,
+        942,
+        243,
+        196
+      ]
+    }
+  ],
+  "sourceBytesPreserved": true
+}

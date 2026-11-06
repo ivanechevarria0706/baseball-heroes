@@ -1,0 +1,28 @@
+{
+  "version": "0.9.7",
+  "origin": "New reconstructed bitmap art generated with the built-in imagegen tool; not recovered original animation frames.",
+  "head": "BatterHead086.as remains unchanged and is composed separately.",
+  "prompts": "prompts.json",
+  "mounts": "layout.json",
+  "files": {
+    "hero-atlas.png": {
+      "sha256": "9344dde27093f620a9bfaef096bba3064081df7c4bae6e7c24e3faaf34e6d97c",
+      "used": true
+    },
+    "runner-atlas.png": {
+      "sha256": "7a1ffb55365f8e8458154b369af7d391217782fbedf03f9b59d2213234e55f0c",
+      "used": true
+    },
+    "fielding-body-atlas.png": {
+      "sha256": "02904a88515783180ebdc20a519a60bf3eab57a953cc3a0927c8e5a28d862d52",
+      "used": true
+    },
+    "bats-atlas.png": {
+      "sha256": "3e6d05ed65cac4c77244247fbe362aabb9694cbc5c036a5dbaf320106ba1519f",
+      "used": true
+    }
+  },
+  "rejected": {
+    "fielding-atlas.png": "Discarded because its generated heads did not match the approved head; not embedded or staged."
+  }
+}

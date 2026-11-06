@@ -1,0 +1,20 @@
+Baseball Heroes Remake — Phase 8X
+Cards + Packs Reconstruction
+
+Source analysis:
+- Full first gameplay reviewed again at 5-second intervals.
+- High-resolution targeted sequence reviewed from 02:40–03:30.
+- Pack-opening sequence inspected at 0.5-second intervals.
+
+Core:
+- Save v20.
+- New BatterShopOverlay.as.
+- New Lenard J. Special Batter catalog entry.
+- New drawSpecialClassPack(C/B+/A+) logic.
+- Exact observed first-video prices: C6000 / $25 / $56.
+- First Class C pack guarantees Lenard J. if not previously owned.
+- Line Up BATTER SHOP is now an overlay.
+- TEAM -> CARDS uses the same shop.
+- Cleaner user-supplied pack art re-cut from 11_06.png.
+
+Facebook SHARE remains intentionally omitted.

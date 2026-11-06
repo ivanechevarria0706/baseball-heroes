@@ -1,0 +1,10 @@
+{
+  "version": "1.0.65",
+  "build": "b17cf22b55c0ecd9",
+  "assets": "ceb90ea6b59de4542eb37557113571ca4dab06e0cd9dc7a9c493b1bd01cf8bbf",
+  "game": "/game/WebMain.swf",
+  "runtime": "Ruffle 0.6.0",
+  "saveSchema": 24,
+  "resetEpoch": "release-1.0.38-2026-10-24",
+  "gameSha256": "761688f2fd2deab4f6c82c521a440c8409415b2421bd4cfbc4f5b2aeb24bd1ea"
+}

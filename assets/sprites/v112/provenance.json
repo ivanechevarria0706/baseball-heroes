@@ -1,0 +1,38 @@
+{
+  "method": "built-in image_gen",
+  "date": "2026-10-13",
+  "generatedReconstruction": true,
+  "notRecoveredOriginalSprites": true,
+  "head": "Existing BatterHead086; source and hair atlas unchanged",
+  "pixelAnalysis": "Only rectangles and mount metadata computed; generated alpha/pixels are unchanged",
+  "images": {
+    "coaches-atlas.png": {
+      "sha256": "d34195f946c0f77e45e9d8c26564720ceff286ee36766674d50dbb090c5eca01",
+      "size": [
+        1774,
+        887
+      ]
+    },
+    "lifting-atlas.png": {
+      "sha256": "cf7fa4361a5af7e95a31aed1e0ed9509b5d15d32bb4dd113d356cb32f57d97cb",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "stretching-atlas.png": {
+      "sha256": "bff87ea20ccc308fce4458792c91c9519add2b98c98749d23f05d3e6e767d152",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    "training-room.png": {
+      "sha256": "7e09bdc07fa608e391a72c1f5fb44f8df1738d80846bce6da175cd3a8233ee37",
+      "size": [
+        1448,
+        1086
+      ]
+    }
+  }
+}

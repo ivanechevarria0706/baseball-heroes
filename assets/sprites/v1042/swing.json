@@ -1,0 +1,189 @@
+{
+  "source": "assets/sprites/v1039/batter.png",
+  "sha256": "b6a281be2e0669f97244503c679267538c9256681a53b60ba95937df98fd3a3b",
+  "measurement": "Read-only lower cleat pixels and wooden bat endpoint; contact reuses the reviewed barrel anchor. Source PNG unchanged.",
+  "poses": [
+    {
+      "index": 0,
+      "plant": [
+        238,
+        314
+      ],
+      "tip": [
+        199,
+        34
+      ]
+    },
+    {
+      "index": 1,
+      "plant": [
+        554,
+        314
+      ],
+      "tip": [
+        546,
+        49
+      ]
+    },
+    {
+      "index": 2,
+      "plant": [
+        854,
+        312
+      ],
+      "tip": [
+        759,
+        22
+      ],
+      "tipReview": "Manually reviewed barrel endpoint on unchanged source PNG."
+    },
+    {
+      "index": 3,
+      "plant": [
+        1126,
+        320
+      ],
+      "tip": [
+        1089,
+        33
+      ]
+    },
+    {
+      "index": 4,
+      "plant": [
+        262,
+        611
+      ],
+      "tip": [
+        185,
+        346
+      ]
+    },
+    {
+      "index": 5,
+      "plant": [
+        584,
+        616
+      ],
+      "tip": [
+        407,
+        346
+      ]
+    },
+    {
+      "index": 6,
+      "plant": [
+        866,
+        617
+      ],
+      "tip": [
+        738,
+        369
+      ]
+    },
+    {
+      "index": 7,
+      "plant": [
+        1140,
+        613
+      ],
+      "tip": [
+        1220,
+        450
+      ]
+    },
+    {
+      "index": 8,
+      "plant": [
+        219,
+        920
+      ],
+      "tip": [
+        340,
+        720
+      ],
+      "tipReview": "Manually reviewed barrel endpoint on unchanged source PNG."
+    },
+    {
+      "index": 9,
+      "plant": [
+        574,
+        925
+      ],
+      "tip": [
+        439,
+        650
+      ],
+      "tipReview": "Manually reviewed barrel endpoint on unchanged source PNG."
+    },
+    {
+      "index": 10,
+      "plant": [
+        852,
+        925
+      ],
+      "tip": [
+        704,
+        681
+      ],
+      "tipReview": "Manually reviewed barrel endpoint on unchanged source PNG."
+    },
+    {
+      "index": 11,
+      "plant": [
+        1136,
+        919
+      ],
+      "tip": [
+        1215,
+        884
+      ]
+    },
+    {
+      "index": 12,
+      "plant": [
+        204,
+        1223
+      ],
+      "tip": [
+        258,
+        1184
+      ],
+      "tipReview": "Manually reviewed barrel endpoint on unchanged source PNG."
+    },
+    {
+      "index": 13,
+      "plant": [
+        538,
+        1220
+      ],
+      "tip": [
+        566,
+        965
+      ]
+    },
+    {
+      "index": 14,
+      "plant": [
+        849,
+        1220
+      ],
+      "tip": [
+        705,
+        1164
+      ],
+      "tipReview": "Manually reviewed barrel endpoint on unchanged source PNG."
+    },
+    {
+      "index": 15,
+      "plant": [
+        1156,
+        1219
+      ],
+      "tip": [
+        1159,
+        958
+      ]
+    }
+  ]
+}

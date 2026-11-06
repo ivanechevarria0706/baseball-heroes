@@ -1,0 +1,746 @@
+{
+  "stretching": [
+    {
+      "box": [
+        46,
+        42,
+        184,
+        226
+      ],
+      "neck": [
+        139,
+        51
+      ],
+      "anchorX": 128,
+      "groundY": 272,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        300,
+        42,
+        175,
+        230
+      ],
+      "neck": [
+        391,
+        51
+      ],
+      "anchorX": 384,
+      "groundY": 272,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        565,
+        42,
+        172,
+        230
+      ],
+      "neck": [
+        646,
+        51
+      ],
+      "anchorX": 640,
+      "groundY": 272,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        795,
+        42,
+        185,
+        227
+      ],
+      "neck": [
+        887,
+        50
+      ],
+      "anchorX": 896,
+      "groundY": 272,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        54,
+        293,
+        165,
+        237
+      ],
+      "neck": [
+        137,
+        302
+      ],
+      "anchorX": 128,
+      "groundY": 531,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        320,
+        293,
+        153,
+        238
+      ],
+      "neck": [
+        377,
+        302
+      ],
+      "anchorX": 384,
+      "groundY": 531,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        579,
+        293,
+        128,
+        238
+      ],
+      "neck": [
+        639,
+        301
+      ],
+      "anchorX": 640,
+      "groundY": 531,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        804,
+        293,
+        165,
+        237
+      ],
+      "neck": [
+        886,
+        302
+      ],
+      "anchorX": 896,
+      "groundY": 531,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        15,
+        563,
+        241,
+        155
+      ],
+      "neck": [
+        127,
+        571
+      ],
+      "anchorX": 128,
+      "groundY": 721,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        256,
+        564,
+        243,
+        149
+      ],
+      "neck": [
+        389,
+        573
+      ],
+      "anchorX": 384,
+      "groundY": 721,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        539,
+        592,
+        229,
+        126
+      ],
+      "neck": [
+        653,
+        601
+      ],
+      "anchorX": 640,
+      "groundY": 721,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        768,
+        563,
+        240,
+        158
+      ],
+      "neck": [
+        890,
+        571
+      ],
+      "anchorX": 896,
+      "groundY": 721,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        56,
+        747,
+        161,
+        228
+      ],
+      "neck": [
+        136,
+        756
+      ],
+      "anchorX": 128,
+      "groundY": 975,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        306,
+        755,
+        194,
+        220
+      ],
+      "neck": [
+        383,
+        764
+      ],
+      "anchorX": 384,
+      "groundY": 975,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        540,
+        785,
+        202,
+        190
+      ],
+      "neck": [
+        624,
+        794
+      ],
+      "anchorX": 640,
+      "groundY": 975,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        807,
+        747,
+        165,
+        228
+      ],
+      "neck": [
+        888,
+        756
+      ],
+      "anchorX": 896,
+      "groundY": 975,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        30,
+        1000,
+        202,
+        218
+      ],
+      "neck": [
+        132,
+        1009
+      ],
+      "anchorX": 128,
+      "groundY": 1218,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        261,
+        1023,
+        237,
+        194
+      ],
+      "neck": [
+        421,
+        1032
+      ],
+      "anchorX": 384,
+      "groundY": 1218,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        521,
+        1047,
+        247,
+        171
+      ],
+      "neck": [
+        697,
+        1056
+      ],
+      "anchorX": 640,
+      "groundY": 1218,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        768,
+        1000,
+        223,
+        218
+      ],
+      "neck": [
+        890,
+        1008
+      ],
+      "anchorX": 896,
+      "groundY": 1218,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        56,
+        1244,
+        164,
+        262
+      ],
+      "neck": [
+        137,
+        1253
+      ],
+      "anchorX": 128,
+      "groundY": 1506,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        285,
+        1264,
+        205,
+        237
+      ],
+      "neck": [
+        394,
+        1273
+      ],
+      "anchorX": 384,
+      "groundY": 1506,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        528,
+        1288,
+        225,
+        211
+      ],
+      "neck": [
+        646,
+        1297
+      ],
+      "anchorX": 640,
+      "groundY": 1506,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        802,
+        1243,
+        177,
+        263
+      ],
+      "neck": [
+        882,
+        1252
+      ],
+      "anchorX": 896,
+      "groundY": 1506,
+      "headRotation": 0
+    }
+  ],
+  "lifting": [
+    {
+      "box": [
+        15,
+        91,
+        237,
+        125
+      ],
+      "neck": [
+        210,
+        99
+      ],
+      "anchorX": 128,
+      "groundY": 216,
+      "headRotation": 58
+    },
+    {
+      "box": [
+        268,
+        102,
+        236,
+        114
+      ],
+      "neck": [
+        468,
+        110
+      ],
+      "anchorX": 384,
+      "groundY": 216,
+      "headRotation": 58
+    },
+    {
+      "box": [
+        520,
+        138,
+        240,
+        78
+      ],
+      "neck": [
+        729,
+        145
+      ],
+      "anchorX": 640,
+      "groundY": 216,
+      "headRotation": 58
+    },
+    {
+      "box": [
+        783,
+        91,
+        237,
+        125
+      ],
+      "neck": [
+        977,
+        97
+      ],
+      "anchorX": 896,
+      "groundY": 216,
+      "headRotation": 58
+    },
+    {
+      "box": [
+        20,
+        265,
+        215,
+        233
+      ],
+      "neck": [
+        128,
+        331
+      ],
+      "anchorX": 128,
+      "groundY": 498,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        277,
+        265,
+        216,
+        229
+      ],
+      "neck": [
+        385,
+        312
+      ],
+      "anchorX": 384,
+      "groundY": 498,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        531,
+        265,
+        219,
+        229
+      ],
+      "neck": [
+        643,
+        271
+      ],
+      "anchorX": 640,
+      "groundY": 498,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        788,
+        265,
+        215,
+        229
+      ],
+      "neck": [
+        894,
+        317
+      ],
+      "anchorX": 896,
+      "groundY": 498,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        14,
+        535,
+        228,
+        207
+      ],
+      "neck": [
+        131,
+        560
+      ],
+      "anchorX": 128,
+      "groundY": 743,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        280,
+        555,
+        226,
+        187
+      ],
+      "neck": [
+        392,
+        580
+      ],
+      "anchorX": 384,
+      "groundY": 743,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        533,
+        563,
+        224,
+        180
+      ],
+      "neck": [
+        648,
+        591
+      ],
+      "anchorX": 640,
+      "groundY": 743,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        782,
+        535,
+        228,
+        208
+      ],
+      "neck": [
+        898,
+        558
+      ],
+      "anchorX": 896,
+      "groundY": 743,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        15,
+        771,
+        241,
+        202
+      ],
+      "neck": [
+        83,
+        871
+      ],
+      "anchorX": 128,
+      "groundY": 973,
+      "headRotation": -72
+    },
+    {
+      "box": [
+        256,
+        809,
+        256,
+        163
+      ],
+      "neck": [
+        339,
+        871
+      ],
+      "anchorX": 384,
+      "groundY": 973,
+      "headRotation": -72
+    },
+    {
+      "box": [
+        512,
+        825,
+        255,
+        146
+      ],
+      "neck": [
+        595,
+        871
+      ],
+      "anchorX": 640,
+      "groundY": 973,
+      "headRotation": -72
+    },
+    {
+      "box": [
+        783,
+        771,
+        237,
+        201
+      ],
+      "neck": [
+        851,
+        871
+      ],
+      "anchorX": 896,
+      "groundY": 973,
+      "headRotation": -72
+    },
+    {
+      "box": [
+        7,
+        1004,
+        246,
+        212
+      ],
+      "neck": [
+        102,
+        1065
+      ],
+      "anchorX": 128,
+      "groundY": 1218,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        264,
+        1005,
+        247,
+        210
+      ],
+      "neck": [
+        360,
+        1074
+      ],
+      "anchorX": 384,
+      "groundY": 1218,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        520,
+        1004,
+        244,
+        214
+      ],
+      "neck": [
+        616,
+        1068
+      ],
+      "anchorX": 640,
+      "groundY": 1218,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        776,
+        1005,
+        240,
+        210
+      ],
+      "neck": [
+        871,
+        1074
+      ],
+      "anchorX": 896,
+      "groundY": 1218,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        16,
+        1236,
+        222,
+        262
+      ],
+      "neck": [
+        126,
+        1321
+      ],
+      "anchorX": 128,
+      "groundY": 1498,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        294,
+        1239,
+        182,
+        259
+      ],
+      "neck": [
+        385,
+        1319
+      ],
+      "anchorX": 384,
+      "groundY": 1498,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        555,
+        1239,
+        164,
+        259
+      ],
+      "neck": [
+        636,
+        1319
+      ],
+      "anchorX": 640,
+      "groundY": 1498,
+      "headRotation": 0
+    },
+    {
+      "box": [
+        785,
+        1236,
+        219,
+        262
+      ],
+      "neck": [
+        896,
+        1319
+      ],
+      "anchorX": 896,
+      "groundY": 1498,
+      "headRotation": 0
+    }
+  ],
+  "coaches": [
+    [
+      138,
+      22,
+      381,
+      843
+    ],
+    [
+      682,
+      77,
+      500,
+      787
+    ],
+    [
+      1182,
+      54,
+      495,
+      810
+    ]
+  ]
+}

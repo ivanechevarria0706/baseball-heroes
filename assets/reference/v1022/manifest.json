@@ -1,0 +1,59 @@
+{
+  "kind": "reconstructed",
+  "files": [
+    "achievement-atlas.png",
+    "mission-complete.png"
+  ],
+  "frames": {
+    "bronze": [
+      0,
+      31,
+      94,
+      482,
+      362
+    ],
+    "silver": [
+      0,
+      535,
+      94,
+      466,
+      362
+    ],
+    "gold": [
+      0,
+      1023,
+      94,
+      481,
+      362
+    ],
+    "diamond": [
+      0,
+      29,
+      563,
+      486,
+      367
+    ],
+    "locked": [
+      0,
+      535,
+      560,
+      466,
+      367
+    ],
+    "skill": [
+      0,
+      1081,
+      540,
+      381,
+      370
+    ],
+    "mission": [
+      1,
+      91,
+      75,
+      2083,
+      597
+    ]
+  },
+  "processing": "Read-only alpha measurements; generated PNG files copied unchanged. Runtime uses CPU copyPixels and shares immutable frame rasters. Wide artwork is split into strips of at most 1024 pixels."
+}

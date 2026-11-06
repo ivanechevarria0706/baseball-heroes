@@ -1,0 +1,23 @@
+{
+  "sources": "Home-run impact: clean user Audacity bat cut + synthesized bass. Results: original synthesized instrumentals. No commentary voices.",
+  "clips": [
+    {
+      "file": "result_victory.mp3",
+      "seconds": 3.2,
+      "peak_dbfs": -1.01,
+      "sha256": "74f8dabc9ba0847f923523c7cfba8f830c52214139c1b07c91103fe6d47f3bd7"
+    },
+    {
+      "file": "result_defeat.mp3",
+      "seconds": 3.2,
+      "peak_dbfs": -1.01,
+      "sha256": "79c37767b24fd20375479f923363521a0d32843f607b9396f7d324da6e7a7620"
+    },
+    {
+      "file": "hero_home_run.mp3",
+      "seconds": 1.86,
+      "peak_dbfs": -1.01,
+      "sha256": "da1dd7efe48f0f6e92e885c9a9df2e6a1ac04dd105bfcd3a23d6c723a7721978"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+Baseball Heroes Remake — Phase 8U
+First Game Experience Reconstruction
+
+Core additions:
+- Save v17 onboarding state with legacy-save migration.
+- Fresh save: Team Selection -> Character Making -> Rookie Arrival -> Home ->
+  Season Goal -> Roadmap -> Travel -> Line Up -> Game.
+- 27 supplied team logos in Team Selection.
+- League-based bus/plane travel assets.
+- Automatic post-arrival transition.
+- First-game HOME Coach callout.
+- First-game Line Up highlights.
+- MODES -> REPLAY FIRST GAME for existing saves.
+
+Static validation:
+- 56 ActionScript files checked.
+- internal imports checked.
+- GameData static-variable misuse scan checked.
+- common DisplayObject property collision scan checked.
+- five transport assets verified.
+
+Compilation itself must still be performed with the user's Windows Flex/AIR SDK.

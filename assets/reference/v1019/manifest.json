@@ -1,0 +1,148 @@
+{
+  "version": "1.0.19",
+  "frames": {
+    "case": [
+      4,
+      4,
+      46,
+      29
+    ],
+    "batter": [
+      260,
+      4,
+      58,
+      34
+    ],
+    "mystery": [
+      516,
+      4,
+      58,
+      39
+    ],
+    "key": [
+      772,
+      4,
+      77,
+      63
+    ],
+    "rookie": [
+      4,
+      132,
+      173,
+      120
+    ],
+    "single_a": [
+      260,
+      132,
+      95,
+      67
+    ],
+    "double_a": [
+      516,
+      132,
+      190,
+      120
+    ],
+    "triple_a": [
+      772,
+      132,
+      189,
+      120
+    ],
+    "majors": [
+      4,
+      260,
+      190,
+      120
+    ]
+  },
+  "provenance": {
+    "case": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0730.jpg",
+      "window": [
+        406,
+        72,
+        452,
+        101
+      ],
+      "method": "traced silhouette and background colour refinement; original interior pixels retained"
+    },
+    "batter": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0730.jpg",
+      "window": [
+        264,
+        120,
+        322,
+        154
+      ],
+      "method": "traced silhouette and background colour refinement; original interior pixels retained"
+    },
+    "mystery": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0730.jpg",
+      "window": [
+        519,
+        122,
+        577,
+        161
+      ],
+      "method": "traced silhouette and background colour refinement; original interior pixels retained"
+    },
+    "key": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0700.jpg",
+      "window": [
+        489,
+        228,
+        566,
+        291
+      ],
+      "method": "traced silhouette and background colour refinement; original interior pixels retained"
+    },
+    "rookie": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0710.jpg",
+      "window": [
+        539,
+        251,
+        742,
+        392
+      ],
+      "method": "traced silhouette and background colour refinement; original interior pixels retained"
+    },
+    "single_a": {
+      "source": "reference_visual/gameplays_20260924/primer_lugar-0700.jpg",
+      "window": [
+        340,
+        230,
+        435,
+        297
+      ],
+      "method": "traced silhouette and background colour refinement; original interior pixels retained"
+    },
+    "double_a": {
+      "source": "assets/reference/v1019/reconstructed-chests-source.png",
+      "cell": 0,
+      "method": "built-in image_gen reconstruction using the two observed chest cutouts as style references",
+      "originalArtRecovered": false,
+      "prompt": "reconstructed-provenance.json"
+    },
+    "triple_a": {
+      "source": "assets/reference/v1019/reconstructed-chests-source.png",
+      "cell": 1,
+      "method": "built-in image_gen reconstruction using the two observed chest cutouts as style references",
+      "originalArtRecovered": false,
+      "prompt": "reconstructed-provenance.json"
+    },
+    "majors": {
+      "source": "assets/reference/v1019/reconstructed-chests-source.png",
+      "cell": 2,
+      "method": "built-in image_gen reconstruction using the two observed chest cutouts as style references",
+      "originalArtRecovered": false,
+      "prompt": "reconstructed-provenance.json"
+    }
+  },
+  "reconstructedHigherLeagueBoxes": [
+    "double_a",
+    "triple_a",
+    "majors"
+  ],
+  "imageGenerationUsed": true
+}

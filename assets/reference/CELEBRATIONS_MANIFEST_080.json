@@ -1,0 +1,99 @@
+{
+  "version": "0.8.0",
+  "source": "reference_visual/celebrations_20261005/source.jpg",
+  "sourceSha256": "713f62cd95a4fb1550b4e6f5626538f82b65b6cbc51805fbfab5da7c37dc5c39",
+  "operation": "Measured complete panel crops including illustration overhang; original JPEG colors/background retained; no recoloring or resampling; four transparent padding pixels",
+  "assets": [
+    {
+      "file": "assets/reference/celebrations/celebration_01.png",
+      "region": [
+        210,
+        60,
+        1036,
+        580
+      ],
+      "width": 1044,
+      "height": 588,
+      "sha256": "e329761fb8833060ec1c2899bd0f755fdea97722542b43228681f1fa2f41fc36",
+      "bytes": 728933
+    },
+    {
+      "file": "assets/reference/celebrations/celebration_02.png",
+      "region": [
+        210,
+        754,
+        1036,
+        339
+      ],
+      "width": 1044,
+      "height": 347,
+      "sha256": "0e1d0542b11d9e6e1568e8d6843ec7dc99d1959f92b890a5fe94b7995b3ebeed",
+      "bytes": 458844
+    },
+    {
+      "file": "assets/reference/celebrations/celebration_03.png",
+      "region": [
+        210,
+        1160,
+        1036,
+        404
+      ],
+      "width": 1044,
+      "height": 412,
+      "sha256": "f2718797b7cae8cf73237fa3934da3b2fac7981cacf98a52c01f368800cdc319",
+      "bytes": 596738
+    },
+    {
+      "file": "assets/reference/celebrations/celebration_04.png",
+      "region": [
+        210,
+        1600,
+        1036,
+        395
+      ],
+      "width": 1044,
+      "height": 403,
+      "sha256": "e9d8d65837f724176ea8d1bbc91f9738c0b6611903ae917b4d3bf41e51c26752",
+      "bytes": 531527
+    },
+    {
+      "file": "assets/reference/celebrations/celebration_05.png",
+      "region": [
+        210,
+        2040,
+        1036,
+        410
+      ],
+      "width": 1044,
+      "height": 418,
+      "sha256": "77543ae5d4a0151f35533874e1473a061ae377c0aa6a16f3ad9b3c799064c8af",
+      "bytes": 615836
+    },
+    {
+      "file": "assets/reference/celebrations/celebration_06.png",
+      "region": [
+        210,
+        2540,
+        1036,
+        362
+      ],
+      "width": 1044,
+      "height": 370,
+      "sha256": "592c538c09d71d14be8c5ac8f7f23b6b5c515dbf83c9e40acde34ef3dbe96908",
+      "bytes": 498794
+    },
+    {
+      "file": "assets/reference/celebrations/celebration_07.png",
+      "region": [
+        210,
+        2960,
+        1036,
+        393
+      ],
+      "width": 1044,
+      "height": 401,
+      "sha256": "d252c2d3853164b3ec94ceb2ada291ba9afa3effa49dad8e9a8a2dce4841f0cc",
+      "bytes": 596048
+    }
+  ]
+}

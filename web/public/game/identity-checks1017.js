@@ -1,0 +1,1 @@
+window.BHWeb={initialSave:()=>null,save:text=>window.modelSave=text,ready:()=>window.modelReady=true};window.addEventListener('load',async()=>{const p=RufflePlayer.newest().createPlayer();p.style.cssText='width:960px;height:720px';document.body.append(p);await p.ruffle().load({url:'/game/WebIdentity1017.swf',allowScriptAccess:true,autoplay:'on',logLevel:'warn'});});

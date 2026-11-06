@@ -1,0 +1,5 @@
+<!doctype html><html><meta charset="utf-8"><style>body{margin:0;background:#101b25}ruffle-player{display:block;width:960px;height:720px;margin:30px auto}</style><script src="/ruffle/ruffle.js"></script><script>
+window.gameErrors=[];window.saved=null;
+window.BHWeb={initialSave:()=>JSON.stringify(window.saved),save:s=>{window.saved=JSON.parse(s)},session:()=>JSON.stringify({url:location.origin,user:null}),origin:()=>location.origin,requestId:()=>crypto.randomUUID(),ready:()=>{window.gameReady=true},gameError:e=>{window.gameErrors.push(e)}};
+window.addEventListener('load',async()=>{const p=window.RufflePlayer.newest().createPlayer();document.body.append(p);await p.ruffle().load({url:'/game/WebMain.swf',allowScriptAccess:true,autoplay:'on',unmuteOverlay:'hidden',logLevel:'warn'});});
+</script><body></body></html>

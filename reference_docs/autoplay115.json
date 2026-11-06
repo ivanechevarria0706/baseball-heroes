@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-13",
+  "observed": [
+    "Los retratos de las filas priorizan la cabeza, no el cuerpo completo.",
+    "El icono de pausa || aparece en los gameplays, incluido facebook_play a 06:48."
+  ],
+  "references": {
+    "original_sheet": {
+      "path": "assets/sprites/v060/characters-atlas.png",
+      "sha256": "6d77816d31bea353b33fb5523ffad05d8ee085670c6aa4c5d3e33910e54bb3a6"
+    },
+    "original_pause": {
+      "path": "reference_visual/facebook_play_20261012/frame-0408.0.png",
+      "sha256": "cac6dd59db4a62a9a2aac408997aeaf6e0e3832d7b7818f41448e49ee69145f1"
+    }
+  },
+  "implemented": [
+    "32 ventanas de cabeza sobre la hoja 11_09; recortes en memoria, sin cambiar los PNG.",
+    "CPU y compañeros usan el atlas ilustrado existente; el héroe y las apariencias personalizadas conservan CharacterPortrait.",
+    "Pausa del autojuego: reloj visual congelado y desplazamiento equivalente de los plazos del motor.",
+    "Activación usa la copia equipada, con id de instancia, mejora y cargas."
+  ],
+  "reconstructed": [
+    "Los encuadres se han medido para el remake. Las asignaciones de cara a nombres CPU siguen la selección determinista del registro visual; no son correspondencias históricas confirmadas.",
+    "El vídeo confirma el icono de pausa, no todas sus reglas. Aquí solo pausa el autojuego y no el turno manual.",
+    "La aparición de la carta recibe una breve escala de entrada; se conserva la composición existente y su espera de 1250 ms."
+  ],
+  "limits": [
+    "Los sonidos cortos ya iniciados pueden terminar al pausar; no se repiten al continuar.",
+    "La pausa es temporal y no se guarda. Los temporizadores de cuenta siguen usando tiempo real.",
+    "Aún faltan más arte y correspondencias originales de los jugadores CPU, y las fichas históricas de cartas."
+  ],
+  "preserved": [
+    "Todos los modelos, servidor, reglas, cadencia sin pausa, XP, monedas, turnos del héroe y guardado.",
+    "Cabeza 0.8.6, cabello, pichadas, HUD manual, cinemáticas, Mastery y píxeles de la hoja original."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "video": {
+    "name": "baseball heroes eliminatorias final de la liga.mp4",
+    "sha256": "4c591604e39579a9701581afba268b985a8dc2aedc70f7a286d02226667544ff"
+  },
+  "observations": [
+    {
+      "time": "00:12",
+      "discipline": "STRETCHING",
+      "activities": [
+        "Tronco de giro",
+        "Abrazar rodillas",
+        "Estirar la pierna",
+        "Doblar la rodilla",
+        "Side Lunge",
+        "Walking Lunge"
+      ],
+      "coins": [
+        120,
+        350,
+        600,
+        800,
+        1500,
+        1800
+      ],
+      "hours": [
+        1,
+        4,
+        8,
+        12,
+        24,
+        48
+      ],
+      "mastery": [
+        60,
+        150,
+        225,
+        300,
+        480,
+        600
+      ],
+      "xp": [
+        16,
+        40,
+        60,
+        80,
+        128,
+        160
+      ]
+    },
+    {
+      "time": "00:33",
+      "discipline": "LIFTING",
+      "activities": [
+        "Despechadas",
+        "Pull-Up",
+        "Barbell Lunge",
+        "Press de banca",
+        "Press de pierna",
+        "Máquina mariposa"
+      ],
+      "sameCostsAndRewardsAsStretching": true
+    },
+    {
+      "time": "00:39",
+      "observation": "Se ven descansos simultáneos de RUNNING y STRETCHING."
+    }
+  ],
+  "runningPrices": {
+    "image": "assets/reference/training/running-activities.jpg",
+    "sha256": "e32f6dc8a0d3904c2509be37eaf65bd63e172159cb43a3e1efac1cb854f90b62",
+    "coins": [
+      90,
+      250,
+      400,
+      550,
+      1000,
+      1250
+    ],
+    "note": "Estos precios se leen en la captura original anterior; no se sustituyen por los 120–1800 de otra versión."
+  },
+  "remakeDecisions": [
+    "Se traducen los nombres de sesiones a inglés; diálogos y ayuda en español.",
+    "Las tres disciplinas conservan el balance de STEP del remake: bloques de 1350 y 2 puntos. No es la curva original recuperada.",
+    "Los dos nuevos registros se añaden dentro de runningTraining.disciplines; los campos antiguos de RUNNING permanecen en su lugar.",
+    "La recompensa se concede al iniciar y el reloj persiste; abrir, recargar o repetir clic no vuelve a pagar."
+  ],
+  "unresolved": [
+    "Curva completa de Mastery y estrellas; las barras observadas 615/1125 y 3090/3600 no prueban una tabla universal.",
+    "Condiciones de los premios 5 ENERGY: el video ya muestra MASTER antes de entrenar, por lo que no demuestra que sea un premio único de por vida.",
+    "Animaciones de ejercicio del héroe; nombres y desbloqueos de los puestos cuarto y quinto."
+  ]
+}

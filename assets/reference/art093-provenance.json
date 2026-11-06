@@ -1,0 +1,17 @@
+{
+  "version": "0.9.3",
+  "generated": [
+    {
+      "file": "assets/reference/cinematics093/characters.png",
+      "source": "image_gen",
+      "reference": "assets/reference/cinematics092/characters.png",
+      "prompt": "Create a transparent sprite atlas extending the provided cartoon character art for a private baseball remake. Match precisely the thick black outlines, flat colors, expressive playful comic style and recognizable character design of the reference. 4 equal columns by 3 equal rows, 12 isolated sprites total, generous empty gutter around every sprite, no overlapping cells, no text, no backgrounds. Row 1 = the SAME white stork with yellow long beak, black flight feathers, orange feet and orange sling bag: pose1 wings lifted high calm flying; pose2 wings horizontal forward flight; pose3 startled at an incoming baseball (NO ball drawn), eyes wide wings angled; pose4 comical upside down collision with open beak and bent feet, a few feathers within its cell. Row2 = SAME pair of green slender antenna alien and big orange alien, both full upper bodies in each cell: pose1 relaxed chatting, pose2 pointing upward noticing ball, pose3 surprised ducking, pose4 shocked backwards recoiling with arms flung. Row3 = SAME one blob-shaped purple one-eyed alien: pose1 calm, pose2 eye looking sideways curious, pose3 tense with raised hands, pose4 comically recoiling scared open mouth. Keep fixed scale, proportions and baseline within each row for smooth frame transitions. Every cell fully transparent around the illustration, not a checkerboard. 4x3 rectangular grid perfectly aligned, keep all sprite silhouettes clear of cell edges. Do not add any human narrator, lettering or interface."
+    },
+    {
+      "file": "assets/reference/fielding093/poses.png",
+      "source": "image_gen",
+      "reference": "assets/sprites/v060/pitcher-atlas.png",
+      "prompt": "Transparent sprite atlas for a cartoon baseball game. Use the reference purple-uniformed chibi baseball player as EXACT character and style reference (same purple cap and jersey, white pants, black cleats, thick clean black outlines, flat cel colors, same face and proportions). 8 NEW FIELDING ACTION poses arranged 4 columns x 2 rows. Full body in each equally spaced cell, all feet on the same baseline within each row, generous transparent margins, NO equipment beyond glove, no baseball (ball is animated separately), no text or shadows. Row1: 1 ready crouch knees bent glove open low; 2 running to left one foot forward glove at waist; 3 running to left other foot forward glove at waist; 4 groundball scoop low crouch glove touching turf. Row2: 1 jumping reaching glove overhead for flyball; 2 secure catch glove at chest both hands together; 3 turning toward infield glove arm extended and throwing arm cocked behind head; 4 throwing follow through across body with rear foot lifted. Make action silhouettes unmistakably distinct with coherent glove handedness (glove LEFT hand, throwing RIGHT hand), don't repeat idle pitcher poses. Transparent around every sprite. Keep every illustration strictly in its own cell. 4 by 2 perfectly aligned equal cell grid."
+    }
+  ]
+}

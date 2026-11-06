@@ -1,0 +1,51 @@
+{
+  "sourceBytesPreserved": true,
+  "productionBitmapFiles": [
+    "heads-1.png",
+    "heads-2.png",
+    "heads-3.png",
+    "bodies-v2.png"
+  ],
+  "atlasDimensions": [
+    1254,
+    1254
+  ],
+  "headOrder": [
+    592450,
+    660271,
+    665742,
+    665489,
+    608070,
+    596019,
+    677594,
+    663728,
+    668227,
+    680757,
+    665926,
+    670623
+  ],
+  "allSourceArtwork": [
+    {
+      "file": "heads-1.png",
+      "sha256": "309076eb395d8b6a68a2ea6f1dd76a83d8858697de3c8e6687bb9e3bd4b9155c"
+    },
+    {
+      "file": "heads-2.png",
+      "sha256": "4a27c47ad3e5740599b5126914556c202d04daaa9637afdcb93e9fe816dacbe1"
+    },
+    {
+      "file": "heads-3.png",
+      "sha256": "ada78b24044a2a60b9c6141ea41a26b0c2c42750a194aff313dd95e874be1d6a"
+    },
+    {
+      "file": "bodies.png",
+      "sha256": "86bb62ba234e6e655ff68cfb35e3ed095c7195c2a340e587e75d6364281ebd7a"
+    },
+    {
+      "file": "bodies-v2.png",
+      "sha256": "df96bb9fcd795cb39e6dea7c4d4b4be68f58fcb248744cd109f46c49a4e2097b"
+    }
+  ],
+  "nativeWindowsSource": "src/com/bh/visual/MLBPlayerArtwork.as",
+  "notes": "Body atlas windows and face rectangles are immutable native BitmapData copies at runtime. Full poses fit their complete bounds, with left-handed ready/swing mirrored. Portraits show a head and shoulder window. bodies.png is the first draft and is not embedded."
+}

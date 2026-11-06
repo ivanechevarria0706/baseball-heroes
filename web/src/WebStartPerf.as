@@ -1,0 +1,1 @@
+package {public class WebStartPerf extends WebPerformance {public function WebStartPerf(){super();}}}

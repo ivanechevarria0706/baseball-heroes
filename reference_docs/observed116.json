@@ -1,0 +1,1266 @@
+{
+  "source_video": "gameplay.mp4",
+  "source_sha256": "6374fef7fd8c81beed07bd838c7ccdb68ed34afcbf0081ca9b437623abb1c7f1",
+  "cards": [
+    [
+      "howard_d",
+      "Howard D.",
+      "C",
+      "RARE",
+      305,
+      1,
+      9,
+      "SINGLE",
+      299,
+      [
+        55,
+        143,
+        52,
+        47
+      ]
+    ],
+    [
+      "billie_k",
+      "Billie K.",
+      "C",
+      "RARE",
+      298,
+      1,
+      4,
+      "SINGLE",
+      299,
+      [
+        135,
+        144,
+        49,
+        47
+      ]
+    ],
+    [
+      "marvin_k",
+      "Marvin K.",
+      "C",
+      "A",
+      282,
+      1,
+      8,
+      "SINGLE",
+      299,
+      [
+        220,
+        145,
+        51,
+        46
+      ]
+    ],
+    [
+      "garret_d",
+      "Garret D.",
+      "C",
+      "A",
+      282,
+      1,
+      8,
+      "SINGLE",
+      299,
+      [
+        54,
+        261,
+        55,
+        55
+      ]
+    ],
+    [
+      "john_g",
+      "John G.",
+      "C",
+      "A",
+      281,
+      1,
+      7,
+      "SINGLE",
+      299,
+      [
+        136,
+        262,
+        50,
+        55
+      ]
+    ],
+    [
+      "darren_s",
+      "Darren S.",
+      "C",
+      "A",
+      277,
+      1,
+      3,
+      "SINGLE",
+      313,
+      [
+        226,
+        157,
+        76,
+        84
+      ]
+    ],
+    [
+      "benny_c",
+      "Benny C.",
+      "B",
+      "ELITE",
+      339,
+      1,
+      4,
+      "DOUBLE",
+      364,
+      [
+        231,
+        151,
+        69,
+        82
+      ]
+    ]
+  ],
+  "gear": [
+    [
+      "shoes",
+      "Black Bomber",
+      6834984,
+      0,
+      35,
+      "power",
+      14,
+      "luck",
+      8,
+      0
+    ],
+    [
+      "shoes",
+      "Red Lightning",
+      13579326,
+      0,
+      35,
+      "power",
+      14,
+      "contact",
+      8,
+      0
+    ],
+    [
+      "shoes",
+      "Sky Love",
+      6013671,
+      0,
+      35,
+      "luck",
+      8,
+      "contact",
+      14,
+      0
+    ],
+    [
+      "shoes",
+      "Green Star",
+      8633659,
+      0,
+      35,
+      "luck",
+      8,
+      "contact",
+      14,
+      0
+    ],
+    [
+      "shoes",
+      "Green",
+      4225598,
+      6200,
+      0,
+      "luck",
+      6,
+      "contact",
+      8,
+      0
+    ],
+    [
+      "shoes",
+      "Pink",
+      16032188,
+      6200,
+      0,
+      "power",
+      6,
+      "luck",
+      8,
+      0
+    ],
+    [
+      "shoes",
+      "Sky Blue",
+      8965355,
+      6200,
+      0,
+      "luck",
+      6,
+      "contact",
+      8,
+      0
+    ],
+    [
+      "shoes",
+      "Purple",
+      6709881,
+      6200,
+      0,
+      "power",
+      6,
+      "luck",
+      8,
+      0
+    ],
+    [
+      "bat",
+      "Sky Love",
+      6013671,
+      0,
+      59,
+      "luck",
+      20,
+      "contact",
+      18,
+      0
+    ],
+    [
+      "bat",
+      "Green Star",
+      8633659,
+      0,
+      59,
+      "luck",
+      18,
+      "contact",
+      20,
+      0
+    ],
+    [
+      "bat",
+      "Black Bomber",
+      2763049,
+      0,
+      59,
+      "power",
+      20,
+      "luck",
+      18,
+      0
+    ],
+    [
+      "bat",
+      "Red Lightning",
+      12663599,
+      0,
+      59,
+      "power",
+      20,
+      "contact",
+      18,
+      0
+    ],
+    [
+      "bat",
+      "Breaker Black",
+      4407880,
+      31000,
+      0,
+      "luck",
+      6,
+      "contact",
+      12,
+      0
+    ],
+    [
+      "bat",
+      "Breaker Purple",
+      9137324,
+      31000,
+      0,
+      "power",
+      12,
+      "luck",
+      6,
+      0
+    ],
+    [
+      "bat",
+      "Breaker Pink",
+      14643613,
+      31000,
+      0,
+      "power",
+      12,
+      "luck",
+      6,
+      0
+    ],
+    [
+      "bat",
+      "Breaker Brown",
+      10912076,
+      31000,
+      0,
+      "luck",
+      12,
+      "contact",
+      6,
+      0
+    ],
+    [
+      "goggles",
+      "Shooting-Star",
+      13017420,
+      0,
+      32,
+      "luck",
+      10,
+      "contact",
+      10,
+      0
+    ],
+    [
+      "goggles",
+      "Sky Love",
+      7123909,
+      0,
+      32,
+      "luck",
+      10,
+      "contact",
+      10,
+      0
+    ],
+    [
+      "goggles",
+      "Pink Love",
+      10375786,
+      0,
+      32,
+      "power",
+      10,
+      "contact",
+      10,
+      0
+    ],
+    [
+      "goggles",
+      "Panda",
+      3026998,
+      0,
+      32,
+      "luck",
+      20,
+      "contact",
+      0,
+      0
+    ],
+    [
+      "goggles",
+      "Red Lightning",
+      12613762,
+      0,
+      32,
+      "power",
+      20,
+      "contact",
+      0,
+      0
+    ],
+    [
+      "goggles",
+      "Lightning",
+      7579347,
+      0,
+      32,
+      "contact",
+      20,
+      "luck",
+      0,
+      0
+    ],
+    [
+      "goggles",
+      "Camo",
+      3752771,
+      0,
+      38,
+      "power",
+      20,
+      "luck",
+      20,
+      17
+    ],
+    [
+      "goggles",
+      "Spider",
+      6458283,
+      0,
+      38,
+      "contact",
+      10,
+      "luck",
+      20,
+      17
+    ],
+    [
+      "belt",
+      "Black Bomber",
+      4274741,
+      0,
+      35,
+      "power",
+      18,
+      "luck",
+      4,
+      0
+    ],
+    [
+      "belt",
+      "Red Lightning",
+      14628405,
+      0,
+      35,
+      "power",
+      18,
+      "contact",
+      4,
+      0
+    ],
+    [
+      "belt",
+      "Sky Love",
+      5421541,
+      0,
+      35,
+      "luck",
+      18,
+      "contact",
+      4,
+      0
+    ],
+    [
+      "belt",
+      "Green Star",
+      7973945,
+      0,
+      35,
+      "luck",
+      4,
+      "contact",
+      18,
+      0
+    ],
+    [
+      "belt",
+      "Pink",
+      15568559,
+      6200,
+      0,
+      "power",
+      6,
+      "luck",
+      6,
+      0
+    ],
+    [
+      "belt",
+      "Purple",
+      8217766,
+      6200,
+      0,
+      "power",
+      6,
+      "contact",
+      6,
+      0
+    ],
+    [
+      "belt",
+      "Yellow",
+      15121742,
+      6200,
+      0,
+      "luck",
+      6,
+      "contact",
+      6,
+      0
+    ],
+    [
+      "belt",
+      "Green",
+      4817481,
+      6200,
+      0,
+      "luck",
+      8,
+      "contact",
+      4,
+      0
+    ]
+  ],
+  "art": [
+    {
+      "key": "card_howard_d",
+      "time": 299,
+      "rect": [
+        46,
+        138,
+        69,
+        58
+      ],
+      "kind": "portrait",
+      "path": "assets/reference/v116/card_howard_d.png",
+      "sha256": "261050ee5bb5b1bbefec98fc76a2e275475847e6aa0ee77f31a091bbfa4b1996"
+    },
+    {
+      "key": "card_billie_k",
+      "time": 299,
+      "rect": [
+        126,
+        138,
+        69,
+        58
+      ],
+      "kind": "portrait",
+      "path": "assets/reference/v116/card_billie_k.png",
+      "sha256": "54ec2feb4654edeb276c2a59f830678672389a8fbfa13fdeb56bd859c4545de4"
+    },
+    {
+      "key": "card_marvin_k",
+      "time": 299,
+      "rect": [
+        208,
+        138,
+        69,
+        58
+      ],
+      "kind": "portrait",
+      "path": "assets/reference/v116/card_marvin_k.png",
+      "sha256": "41f5d749bb918fb1adfa38e30e932b3a07387013a4e8db21f169a0d899f7a127"
+    },
+    {
+      "key": "card_garret_d",
+      "time": 299,
+      "rect": [
+        46,
+        258,
+        69,
+        48
+      ],
+      "kind": "portrait",
+      "path": "assets/reference/v116/card_garret_d.png",
+      "sha256": "46cd84b0cc3b9b740c50b2664a224eb0d8a01302d2a4f6eaa51d7566329637f0"
+    },
+    {
+      "key": "card_john_g",
+      "time": 299,
+      "rect": [
+        126,
+        258,
+        69,
+        48
+      ],
+      "kind": "portrait",
+      "path": "assets/reference/v116/card_john_g.png",
+      "sha256": "7c251c67a9f76863d5206cf6e793735a96743e02559ecef5aeb3dfb1c0d481ad"
+    },
+    {
+      "key": "card_darren_s",
+      "time": 313,
+      "rect": [
+        211,
+        155,
+        104,
+        87
+      ],
+      "kind": "portrait",
+      "path": "assets/reference/v116/card_darren_s.png",
+      "sha256": "f6e3e4d9c1a9d2e33ef6c225ba297d36765dbebeb21d4d1f80ee31235aa0f3af"
+    },
+    {
+      "key": "card_benny_c",
+      "time": 364,
+      "rect": [
+        211,
+        149,
+        104,
+        84
+      ],
+      "kind": "portrait",
+      "path": "assets/reference/v116/card_benny_c.png",
+      "sha256": "74f22bd4cb1c2e1661a40bc1a0eff4f75d3562dc74d2adeacc70ee60b0f04d24"
+    },
+    {
+      "key": "classic107_glove_0",
+      "time": 244,
+      "rect": [
+        34,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic107_glove_0.png",
+      "sha256": "af470b35696512036575a78357efdc80b007eadff26b7556ce5b00bd241342b2"
+    },
+    {
+      "key": "classic107_glove_1",
+      "time": 244,
+      "rect": [
+        105,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic107_glove_1.png",
+      "sha256": "2912faa24d5493b47e442c6919fc79d526a22bd72327096530fa95d76296773f"
+    },
+    {
+      "key": "classic107_glove_2",
+      "time": 244,
+      "rect": [
+        176,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic107_glove_2.png",
+      "sha256": "5039185537e4fdb439edc408371da2fb3e6ddbcb1b5263eb5ed9477b4818e58f"
+    },
+    {
+      "key": "classic107_glove_3",
+      "time": 244,
+      "rect": [
+        247,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic107_glove_3.png",
+      "sha256": "5c8e97bbc95ddf455ba1446583f34e4bd0c6d2495cb57eb7761e92829b0b9be2"
+    },
+    {
+      "key": "classic107_glove_4",
+      "time": 244,
+      "rect": [
+        34,
+        270,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic107_glove_4.png",
+      "sha256": "de0adc8922180b0ff53ad76ef4490f5156d17d886ef55af21e7017e63b75a8a5"
+    },
+    {
+      "key": "classic107_glove_5",
+      "time": 244,
+      "rect": [
+        105,
+        270,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic107_glove_5.png",
+      "sha256": "922192f6baad32410d5d2fe2ea17ec868c0037c9e239b74f905052b288e999e8"
+    },
+    {
+      "key": "classic107_glove_6",
+      "time": 244,
+      "rect": [
+        176,
+        270,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic107_glove_6.png",
+      "sha256": "fe2a7469cf5d48ea9dd98937359dbe455402842239b1565de6b616f9ee9f7069"
+    },
+    {
+      "key": "classic107_glove_7",
+      "time": 244,
+      "rect": [
+        247,
+        270,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic107_glove_7.png",
+      "sha256": "0f44bae19da210877311f580b4b4bb348acf384c508d018c81791e6cf585e99b"
+    },
+    {
+      "key": "classic116_shoes_0",
+      "time": 252,
+      "rect": [
+        34,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_shoes_0.png",
+      "sha256": "89a4942ea38b628fe0926767fbfcf871b07bb1047875651bc733146e18fd0436"
+    },
+    {
+      "key": "classic116_shoes_1",
+      "time": 252,
+      "rect": [
+        105,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_shoes_1.png",
+      "sha256": "98f9b04e128c977b3abddf4b6338c02d962e79d41b0e61adcbd106c488c31426"
+    },
+    {
+      "key": "classic116_shoes_2",
+      "time": 252,
+      "rect": [
+        176,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_shoes_2.png",
+      "sha256": "afedcd1f6f363737b3bf0e97fa7aabb6cb93c2c408e51f95891b25b42ab21572"
+    },
+    {
+      "key": "classic116_shoes_3",
+      "time": 252,
+      "rect": [
+        247,
+        149,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_shoes_3.png",
+      "sha256": "2de8025afc6ccb947422287c2c3030c19ec34a5a4bb0f454016e622fcecb52ab"
+    },
+    {
+      "key": "classic116_shoes_4",
+      "time": 252,
+      "rect": [
+        34,
+        270,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_shoes_4.png",
+      "sha256": "e1a10111811e5c350d917f8dd9d2ca884ef0ea134b688b01639634f200c23d21"
+    },
+    {
+      "key": "classic116_shoes_5",
+      "time": 252,
+      "rect": [
+        105,
+        270,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_shoes_5.png",
+      "sha256": "559ab85403828b87b8479ef24ac0a6a8907066b395d30e7cdad78a69c1777c82"
+    },
+    {
+      "key": "classic116_shoes_6",
+      "time": 252,
+      "rect": [
+        176,
+        270,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_shoes_6.png",
+      "sha256": "1ca09f82b462984c2630b283b5ed1ea1c005264fe735a97581e7f6ee1247e744"
+    },
+    {
+      "key": "classic116_shoes_7",
+      "time": 252,
+      "rect": [
+        247,
+        270,
+        55,
+        44
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_shoes_7.png",
+      "sha256": "ec3b7b059fa5afdbb08aaa02c0f701497391b86eb756ff7528a1cc1e6f8da405"
+    },
+    {
+      "key": "classic116_bat_0",
+      "time": 260,
+      "rect": [
+        34,
+        146,
+        55,
+        39
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_bat_0.png",
+      "sha256": "e1d6b22958c338d70359ed8ac0de3e873e0b7a0d1bce42a0f8575a3536a594aa"
+    },
+    {
+      "key": "classic116_bat_1",
+      "time": 260,
+      "rect": [
+        105,
+        146,
+        55,
+        52
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_bat_1.png",
+      "sha256": "77c6aa7f7c7b6b145ddf1d0b50b469a05d5d25ec3409284cddc4114d73113eb0"
+    },
+    {
+      "key": "classic116_bat_2",
+      "time": 260,
+      "rect": [
+        176,
+        146,
+        55,
+        52
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_bat_2.png",
+      "sha256": "7e0446ff27c18a08c11f2516dd211f27b009cdf66e69c8567ac6751745446ad2"
+    },
+    {
+      "key": "classic116_bat_3",
+      "time": 260,
+      "rect": [
+        247,
+        146,
+        55,
+        52
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_bat_3.png",
+      "sha256": "ad8254009f86ceacf748823dac3fd9536611308c8bbea521ed79559bb1bb9a41"
+    },
+    {
+      "key": "classic116_bat_4",
+      "time": 260,
+      "rect": [
+        34,
+        262,
+        55,
+        52
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_bat_4.png",
+      "sha256": "0a68ef05f2c8a05cee1d02800c6200d0792b42d9c1288110896d01814a80cd95"
+    },
+    {
+      "key": "classic116_bat_5",
+      "time": 260,
+      "rect": [
+        105,
+        262,
+        55,
+        52
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_bat_5.png",
+      "sha256": "b162a2072dec31bdf62520a33b76a0545cac17f3d01847281542c77974e36800"
+    },
+    {
+      "key": "classic116_bat_6",
+      "time": 260,
+      "rect": [
+        176,
+        262,
+        55,
+        52
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_bat_6.png",
+      "sha256": "7ebfdadfc8c3a35596a15b83b5f2b646cfe61ee56a796cf841ec808bc47685eb"
+    },
+    {
+      "key": "classic116_bat_7",
+      "time": 260,
+      "rect": [
+        247,
+        262,
+        55,
+        52
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_bat_7.png",
+      "sha256": "2cdeaaee60304df07c2af980c1bd5d8aa6de9d3c753434fa276a59c6603bd549"
+    },
+    {
+      "key": "classic116_goggles_0",
+      "time": 264,
+      "rect": [
+        34,
+        153,
+        55,
+        29
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_goggles_0.png",
+      "sha256": "7323d4332992e33db2edd16792ff9817870ca37801e707918535ebdb404fc95c"
+    },
+    {
+      "key": "classic116_goggles_1",
+      "time": 264,
+      "rect": [
+        105,
+        153,
+        55,
+        29
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_goggles_1.png",
+      "sha256": "104aea29eb5c68f218ac8f83463064061706b611501710375ea99a5152d40273"
+    },
+    {
+      "key": "classic116_goggles_2",
+      "time": 264,
+      "rect": [
+        176,
+        153,
+        55,
+        29
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_goggles_2.png",
+      "sha256": "1d7ff519483b57c685baf4a887a131f6c619a006954e482409e8a98ce72c9e1e"
+    },
+    {
+      "key": "classic116_goggles_3",
+      "time": 264,
+      "rect": [
+        247,
+        153,
+        55,
+        29
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_goggles_3.png",
+      "sha256": "246fd2de2ba0c8fe65023334e469e0effb9b786dee95f10c1469c93f3350d1a8"
+    },
+    {
+      "key": "classic116_goggles_4",
+      "time": 264,
+      "rect": [
+        34,
+        272,
+        55,
+        29
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_goggles_4.png",
+      "sha256": "ae6aea51b5421fab865cd387d49cd5341c43d33f9986bede7d686cf0a74d6859"
+    },
+    {
+      "key": "classic116_goggles_5",
+      "time": 264,
+      "rect": [
+        105,
+        272,
+        55,
+        29
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_goggles_5.png",
+      "sha256": "95b70dc9aaa19cadce33e07d624633ffcde7908b0de56082044e541e57f68c77"
+    },
+    {
+      "key": "classic116_goggles_6",
+      "time": 264,
+      "rect": [
+        176,
+        272,
+        55,
+        29
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_goggles_6.png",
+      "sha256": "3092863c3cebbaded83933cafed92ae0c0e4fcb6225dfe9f81e29feaaeb4457e"
+    },
+    {
+      "key": "classic116_goggles_7",
+      "time": 264,
+      "rect": [
+        247,
+        272,
+        55,
+        29
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_goggles_7.png",
+      "sha256": "e9e6699885398f4d18916dd83cdde3743ef2a095aa85b43355b643f2903ab413"
+    },
+    {
+      "key": "classic116_belt_0",
+      "time": 256,
+      "rect": [
+        34,
+        153,
+        55,
+        28
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_belt_0.png",
+      "sha256": "0db15831fd343b3ef2eed3d856c72f12fbe1c19b857f79b27eaec49ca03451bf"
+    },
+    {
+      "key": "classic116_belt_1",
+      "time": 256,
+      "rect": [
+        105,
+        153,
+        55,
+        28
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_belt_1.png",
+      "sha256": "3478b7460f02aa53a823bf09c258362b6487edd84cf499c89621b5f4cb2ac987"
+    },
+    {
+      "key": "classic116_belt_2",
+      "time": 256,
+      "rect": [
+        176,
+        153,
+        55,
+        28
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_belt_2.png",
+      "sha256": "a8d343c3e38f0ce1abbc99602e4e16b4c1d737e16de5f228a660c8852f6384f2"
+    },
+    {
+      "key": "classic116_belt_3",
+      "time": 256,
+      "rect": [
+        247,
+        153,
+        55,
+        28
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_belt_3.png",
+      "sha256": "cadc365e5c30a2039c2b1b6937db4a70c8b10d2f8c967d00ca6277a52321ee94"
+    },
+    {
+      "key": "classic116_belt_4",
+      "time": 256,
+      "rect": [
+        34,
+        273,
+        55,
+        28
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_belt_4.png",
+      "sha256": "d539145c29fdde15168d38d587003bb1d461e80df93882326ae4e040ec08925b"
+    },
+    {
+      "key": "classic116_belt_5",
+      "time": 256,
+      "rect": [
+        105,
+        273,
+        55,
+        28
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_belt_5.png",
+      "sha256": "ed242eec5b64df2cc5c52335a3c7c793fadb2c57105a27d45038ab8ed366d53d"
+    },
+    {
+      "key": "classic116_belt_6",
+      "time": 256,
+      "rect": [
+        176,
+        273,
+        55,
+        28
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_belt_6.png",
+      "sha256": "3cb13ac41a9266f56cd525011c27ed192a465bb0f97644361b7771965583dd7b"
+    },
+    {
+      "key": "classic116_belt_7",
+      "time": 256,
+      "rect": [
+        247,
+        273,
+        55,
+        28
+      ],
+      "kind": "gear",
+      "path": "assets/reference/v116/classic116_belt_7.png",
+      "sha256": "7001f9c639c5cf39858db10527e5f6ebc5eef9f0ece1bb6995034c62db885070"
+    }
+  ],
+  "limits": [
+    "Portraits and icons are extracted from the supplied low-resolution video, not recovered Flash sprites.",
+    "Secondary card power/contact/speed/luck are local balance; only class, grade, AVG, Combo and ability are observed.",
+    "Unseen unlock levels are left at zero; the two level-17 goggle locks are observed.",
+    "Equipped hero uses existing accessory colors and shapes; printed patterns are not fully reproduced."
+  ],
+  "profiles": [
+    {
+      "id": "card_howard_d",
+      "name": "Howard D.",
+      "class": "C",
+      "grade": "RARE",
+      "avg": 305,
+      "combo": 1,
+      "trigger_inning": 9,
+      "hit": "SINGLE",
+      "chance": 0.65,
+      "reference_time": 299,
+      "art_window": [
+        46,
+        138,
+        69,
+        58
+      ],
+      "secondary_stats": "Local balance, not observed"
+    },
+    {
+      "id": "card_billie_k",
+      "name": "Billie K.",
+      "class": "C",
+      "grade": "RARE",
+      "avg": 298,
+      "combo": 1,
+      "trigger_inning": 4,
+      "hit": "SINGLE",
+      "chance": 0.65,
+      "reference_time": 299,
+      "art_window": [
+        126,
+        138,
+        69,
+        58
+      ],
+      "secondary_stats": "Local balance, not observed"
+    },
+    {
+      "id": "card_marvin_k",
+      "name": "Marvin K.",
+      "class": "C",
+      "grade": "A",
+      "avg": 282,
+      "combo": 1,
+      "trigger_inning": 8,
+      "hit": "SINGLE",
+      "chance": 0.5,
+      "reference_time": 299,
+      "art_window": [
+        208,
+        138,
+        69,
+        58
+      ],
+      "secondary_stats": "Local balance, not observed"
+    },
+    {
+      "id": "card_garret_d",
+      "name": "Garret D.",
+      "class": "C",
+      "grade": "A",
+      "avg": 282,
+      "combo": 1,
+      "trigger_inning": 8,
+      "hit": "SINGLE",
+      "chance": 0.5,
+      "reference_time": 299,
+      "art_window": [
+        46,
+        258,
+        69,
+        48
+      ],
+      "secondary_stats": "Local balance, not observed"
+    },
+    {
+      "id": "card_john_g",
+      "name": "John G.",
+      "class": "C",
+      "grade": "A",
+      "avg": 281,
+      "combo": 1,
+      "trigger_inning": 7,
+      "hit": "SINGLE",
+      "chance": 0.5,
+      "reference_time": 299,
+      "art_window": [
+        126,
+        258,
+        69,
+        48
+      ],
+      "secondary_stats": "Local balance, not observed"
+    },
+    {
+      "id": "card_darren_s",
+      "name": "Darren S.",
+      "class": "C",
+      "grade": "A",
+      "avg": 277,
+      "combo": 1,
+      "trigger_inning": 3,
+      "hit": "SINGLE",
+      "chance": 0.5,
+      "reference_time": 313,
+      "art_window": [
+        211,
+        155,
+        104,
+        87
+      ],
+      "secondary_stats": "Local balance, not observed"
+    },
+    {
+      "id": "card_benny_c",
+      "name": "Benny C.",
+      "class": "B",
+      "grade": "ELITE",
+      "avg": 339,
+      "combo": 1,
+      "trigger_inning": 4,
+      "hit": "DOUBLE",
+      "chance": 0.8,
+      "reference_time": 364,
+      "art_window": [
+        211,
+        149,
+        104,
+        84
+      ],
+      "secondary_stats": "Local balance, not observed"
+    }
+  ],
+  "initial_head_windows_note": "The arrays in cards retain the first extraction coordinates. The art records and profiles contain the final reviewed windows."
+}

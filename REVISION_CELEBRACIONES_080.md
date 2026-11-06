@@ -1,0 +1,17 @@
+# Celebraciones web 0.8.0 — 5 de octubre de 2026
+
+Siete ilustraciones recortadas desde la lámina completa de [Jaein Park, Baseball Heroes Game Art / Syntasia](https://www.behance.net/gallery/61575435/Baseball-Heroes-Game-Art-Syntasia). Fuente pública: `reference_visual/celebrations_20261005/source.jpg`, 1400 × 3406; SHA-256 `713f62cd95a4fb1550b4e6f5626538f82b65b6cbc51805fbfab5da7c37dc5c39`. Coordenadas, dimensiones y hashes de cada archivo en `assets/reference/CELEBRATIONS_MANIFEST_080.json`.
+
+Se conservan los detalles que sobresalen de las bandas: trofeo, cascos, brazos y guantes. No se borran colores ni se inventan partes. Extracción a resolución nativa, cuatro píxeles de margen transparente; los recortes antiguos quedan en `build/qa/celebrations080-backup`. La fuente JPEG tiene un fondo azul opaco: se conserva y no se presenta como una transparencia original recuperada.
+
+El partido usa cuatro ilustraciones según su mapa existente: DOUBLE → 02, TRIPLE → 03, HOME RUN → 04, HOME RUN con cuatro carreras → 01. Las otras tres quedan restauradas como recursos disponibles; no se les asignan eventos nuevos sin referencia. Caja de presentación proporcional, sin deformar ni tapar el título. Tipografía incorporada desde LineupTypography, como sustituto; no es la fuente original recuperada.
+
+Las cuatro imágenes están incorporadas en el SWF y comparten sus mapas de píxeles. Cada presentación elimina su instancia sin destruir los píxeles compartidos. Se verificó con los PNG externos bloqueados: cero solicitudes de celebración y 36 presentaciones correctas. Las poses del héroe actual y del siguiente lanzador se preparan antes de ocultar la pantalla de carga usando el caché existente limitado; no se agregan actores animados de fondo. Cambiar la apariencia o jugar contra un rival nuevo puede necesitar preparar otra paleta.
+
+La primera construcción de la cinemática en la prueba anterior a la preparación de personajes tardó 5525 ms. En la prueba final: primera 4 ms, máximo de las siguientes 3 ms. Es una medición local de construcción, no una garantía para todas las computadoras. El SWF pesa 7,699,165 bytes frente a 5,802,694 en 0.7.9: la carga inicial crece al incluir el arte. No se afirma que descargue más rápido.
+
+Pruebas: cuatro resultados reales en Chrome, tiempos y continuación, 36 recreaciones/limpieza, siete hashes de recursos, cambio de temporada y compatibilidad del guardado, un partido completo de nueve entradas, registro sin invitación en nivel 1 ROOKIE, paquete explícito de publicación, y guardado/reanudación en producción. Muestra del navegador publicado: 2401 callbacks en 20004 ms; intervalo máximo 9.1 ms, 0 mayores de 50 ms. Estas medidas son del navegador, no FPS de ActionScript.
+
+Railway: despliegue `8246578d-85ca-405b-8187-ce4946618eec`, build `24da94eb5dc841c5` verificado por HTTPS. Respaldo de SQLite antes y después dentro del volumen; integridad OK. Se eliminó únicamente la cuenta QA creada para esta revisión y se verificó que siguen las cuentas existentes. Esquema del guardado 21 conservado; las carreras nuevas empiezan en nivel 1 ROOKIE.
+
+Comparación visual: `COMPARACION_CELEBRACIONES_080.html`. Faltan todavía los cuadros originales de animación y la revisión completa del encuadre/ritmo contra gameplays. Restaurar estas ilustraciones no equivale a recuperar todo el cliente original. El paquete Windows 0.6.7 sigue siendo histórico; esta actualización corresponde a la web.

@@ -1,0 +1,6 @@
+package com.bh.visual {
+    public class SpecialCardArtRegistry {
+        private static const FRAMES:Object={"card_rookie_ace":0,"card_mio_flash":1,"card_rex_slugger":2,"card_hana_clutch":3,"card_leo_lucky":4,"card_ken_golden":5,"card_sora_comet":6,"card_tomo_wall":7,"card_nico_line":8,"card_maya_dash":9,"card_owen_rally":10,"card_iris_spark":11,"card_kai_captain":12,"card_luna_star":13,"card_alex_drive":14,"card_emi_swift":15,"card_diego_clutch":16,"card_nina_rocket":17,"card_ryo_thunder":18,"card_zoe_ace":19,"card_marco_steel":20,"card_yuna_breeze":21,"card_bruno_blast":22,"card_sara_sprint":23,"card_hugo_titan":24,"card_aiko_aurora":25,"card_leon_prime":26,"card_vera_jet":27,"card_dante_force":28,"card_mika_meteor":29,"card_axel_crown":30,"card_aria_nova":31};
+        public static function frameFor(id:String):int {return FRAMES[id]===undefined?-1:int(FRAMES[id]);}
+    }
+}

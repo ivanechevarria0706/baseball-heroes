@@ -1,0 +1,572 @@
+{
+  "generatedPlayers": 1500,
+  "preservedPlayers": 12,
+  "totalReady": 1512,
+  "totalPlayers": 1512,
+  "jobs": [
+    {
+      "job": 1,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1730284
+    },
+    {
+      "job": 2,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1614495
+    },
+    {
+      "job": 3,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1613077
+    },
+    {
+      "job": 4,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1647530
+    },
+    {
+      "job": 5,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1778018
+    },
+    {
+      "job": 6,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1607646
+    },
+    {
+      "job": 7,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1595595
+    },
+    {
+      "job": 8,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1667113
+    },
+    {
+      "job": 9,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1548688
+    },
+    {
+      "job": 10,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1701482
+    },
+    {
+      "job": 11,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1644815
+    },
+    {
+      "job": 12,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1583060
+    },
+    {
+      "job": 13,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1540440
+    },
+    {
+      "job": 14,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1518270
+    },
+    {
+      "job": 15,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1578663
+    },
+    {
+      "job": 16,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1542931
+    },
+    {
+      "job": 17,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1600544
+    },
+    {
+      "job": 18,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1667641
+    },
+    {
+      "job": 19,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1495001
+    },
+    {
+      "job": 20,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1637079
+    },
+    {
+      "job": 21,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1616493
+    },
+    {
+      "job": 22,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1624323
+    },
+    {
+      "job": 23,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1631315
+    },
+    {
+      "job": 24,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1621433
+    },
+    {
+      "job": 25,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1625538
+    },
+    {
+      "job": 26,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1625514
+    },
+    {
+      "job": 27,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1543842
+    },
+    {
+      "job": 28,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1577349
+    },
+    {
+      "job": 29,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1636472
+    },
+    {
+      "job": 30,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1641566
+    },
+    {
+      "job": 31,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1554554
+    },
+    {
+      "job": 32,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1664207
+    },
+    {
+      "job": 33,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1618591
+    },
+    {
+      "job": 34,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1681837
+    },
+    {
+      "job": 35,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1650057
+    },
+    {
+      "job": 36,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1581742
+    },
+    {
+      "job": 37,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1578845
+    },
+    {
+      "job": 38,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1642831
+    },
+    {
+      "job": 39,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1604879
+    },
+    {
+      "job": 40,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1631247
+    },
+    {
+      "job": 41,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1750366
+    },
+    {
+      "job": 42,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1706543
+    },
+    {
+      "job": 43,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1709446
+    },
+    {
+      "job": 44,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1550532
+    },
+    {
+      "job": 45,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1631635
+    },
+    {
+      "job": 46,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1634339
+    },
+    {
+      "job": 47,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1634436
+    },
+    {
+      "job": 48,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1531827
+    },
+    {
+      "job": 49,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1597077
+    },
+    {
+      "job": 50,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1617625
+    },
+    {
+      "job": 51,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1646090
+    },
+    {
+      "job": 52,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1650313
+    },
+    {
+      "job": 53,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1579263
+    },
+    {
+      "job": 54,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1712415
+    },
+    {
+      "job": 55,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1667392
+    },
+    {
+      "job": 56,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1654778
+    },
+    {
+      "job": 57,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1680328
+    },
+    {
+      "job": 58,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1662155
+    },
+    {
+      "job": 59,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1618271
+    },
+    {
+      "job": 60,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1598651
+    },
+    {
+      "job": 61,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1707614
+    },
+    {
+      "job": 62,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1731193
+    },
+    {
+      "job": 63,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1820793
+    },
+    {
+      "job": 64,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1554027
+    },
+    {
+      "job": 65,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1754445
+    },
+    {
+      "job": 66,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1693414
+    },
+    {
+      "job": 67,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1510290
+    },
+    {
+      "job": 68,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1574692
+    },
+    {
+      "job": 69,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1580185
+    },
+    {
+      "job": 70,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1570534
+    },
+    {
+      "job": 71,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1651755
+    },
+    {
+      "job": 72,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1621742
+    },
+    {
+      "job": 73,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1558727
+    },
+    {
+      "job": 74,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1508876
+    },
+    {
+      "job": 75,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1629329
+    },
+    {
+      "job": 76,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1625074
+    },
+    {
+      "job": 77,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1642350
+    },
+    {
+      "job": 78,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1703759
+    },
+    {
+      "job": 79,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1698629
+    },
+    {
+      "job": 80,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1595465
+    },
+    {
+      "job": 81,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1682239
+    },
+    {
+      "job": 82,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1588249
+    },
+    {
+      "job": 83,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1577478
+    },
+    {
+      "job": 84,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1639931
+    },
+    {
+      "job": 85,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1629346
+    },
+    {
+      "job": 86,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1570716
+    },
+    {
+      "job": 87,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1565770
+    },
+    {
+      "job": 88,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1629295
+    },
+    {
+      "job": 89,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1661692
+    },
+    {
+      "job": 90,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1632641
+    },
+    {
+      "job": 91,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1735595
+    },
+    {
+      "job": 92,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1639095
+    },
+    {
+      "job": 93,
+      "status": "PASS",
+      "characters": 16,
+      "bytes": 1649159
+    },
+    {
+      "job": 94,
+      "status": "PASS",
+      "characters": 12,
+      "bytes": 1593186
+    }
+  ]
+}

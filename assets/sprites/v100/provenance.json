@@ -1,0 +1,17 @@
+{
+  "asset": "pitcher-body-atlas.png",
+  "sha256": "b41a1358b5fb2d7949fe4d948814692d46e2cebd2848d11d89807b5b1c9d13f3",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "tool": "integrated imagegen",
+  "kind": "generated reconstruction",
+  "references": [
+    "../v097/hero-atlas.png",
+    "../v095/pitcher-atlas.png"
+  ],
+  "prompt": "README.md",
+  "runtime_layout": "src/com/bh/visual/PitcherBodySprite.as",
+  "approved_batter_head_modified": false
+}

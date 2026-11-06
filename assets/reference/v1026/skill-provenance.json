@@ -1,0 +1,8 @@
+{
+  "tool": "image_gen integrated",
+  "mode": "built-in",
+  "reference": "reference_visual/initial_audit_20261015/frame-0352.jpg",
+  "originalGeneratedFile": "C:/Users/ivane/.codex/generated_images/01a07abc-56cb-7b01-b15e-24cbeb8004e9/exec-bbbf12fd-31ac-47ba-9dee-3e68924b2e17.png",
+  "prompt": "Generate one isolated transparent-background game UI reward badge for a private Baseball Heroes remake, using the supplied original screenshot solely as a style reference. The subject is the circular SKILL badge visible above '1 SKILL POINT': a clean white baseball in a thick dark-blue outlined round medallion, with light cyan edge rim, pale silver-blue cel-shaded underside, red baseball seam stitches peeking from its left and right sides, and the exact word 'SKILL' across its center in chunky condensed blue arcade lettering with a fine pale edge for readability. Keep the lettering entirely inside the circle. A very small upper-left white highlight and blue lower bevel give it the simple polished Flash-game relief of the original, without plastic or photorealism. Frontal circle, no perspective. It must read well as a 48px UI icon. Make only this one badge, centered, no text below it, no reward count, no star, no rectangle, no background, no stadium, no shadow outside the small outline. Preserve true RGBA transparency all around with modest padding. Square composition.",
+  "copiedUnchanged": true
+}

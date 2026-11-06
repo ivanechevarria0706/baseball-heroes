@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-13",
+  "request": "Improve the autoplay presentation without increasing hero batting frequency.",
+  "observed": [
+    "Cabeceras separadas de la lista blanca; marcador local a la derecha y rival a la izquierda.",
+    "Nueve puestos con icono de apoyo, retrato, barra de nombre, AVG e indicador de condición.",
+    "Avisos inclinados verdes de base hit y rojos de out sobre la fila activa.",
+    "Diamante compacto, R/H, medidor circular de COMBO, LEADERBOARD y velocidades x1/x2/x4."
+  ],
+  "references": {
+    "lineups": {
+      "path": "reference_visual/autoplay_20261013/full-406.1.png",
+      "sha256": "d3a4e369114247dda8a15892982dd63636b3ffd7f496674fd5ea866196465733"
+    },
+    "out": {
+      "path": "reference_visual/facebook_play_20261012/frame-0408.0.png",
+      "sha256": "cac6dd59db4a62a9a2aac408997aeaf6e0e3832d7b7818f41448e49ee69145f1"
+    },
+    "hit": {
+      "path": "reference_visual/autoplay_20261013/full-405.8.png",
+      "sha256": "5b9bb8b6a1302e4259135b1fb54dfdcef6ab05ca34c56372f1feda504989cd24"
+    }
+  },
+  "reconstructed": [
+    "Geometría, degradados, lettering y animación reconstruidos con código. La fuente incrustada es el sustituto Arial Black/Arial Bold ya utilizado por el remake.",
+    "El diamante reutiliza MatchMiniDiamond. Los destinos de corredores proceden del estado resuelto; la trayectoria visual de la pelota es ilustrativa.",
+    "El icono de clase de la carta y los retratos de amigos usan datos/arte disponibles del remake. No se recuperan las fotografías de Facebook.",
+    "Condición local usa la instantánea del encuentro; el rival muestra condición neutral porque no dispone de una tabla propia observada."
+  ],
+  "preserved": [
+    "Frecuencia de turnos del héroe, orden de bateo, resultados, probabilidades, XP, monedas, energía y guardado.",
+    "x4 = 470 ms, x2 = 880 ms, x1 = 1650 ms; esperas de resultado/audio y entrada manual de 1600 ms.",
+    "Cabeza 0.8.6, cabello, pichadas Rookie, HUD manual, cinemáticas, Mastery 0.10.13, modelos y servidor.",
+    "Los efectos grabados por el usuario; no se añade audio con narrador."
+  ],
+  "pending": [
+    "Más arte original y variantes ilustradas de compañeros y equipos CPU.",
+    "Cadencia exacta de todos los cuadros del original y tablas históricas de simulación no recuperadas.",
+    "Fichas originales de cartas, siguiente bloque previo a este ajuste de prioridad."
+  ]
+}

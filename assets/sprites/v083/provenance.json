@@ -1,0 +1,32 @@
+{
+  "mode": "built-in image_gen.imagegen",
+  "prompts": "generation-prompts.json",
+  "assets": [
+    {
+      "file": "assets/sprites/v083/hair-atlas.png",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "frames": 8,
+      "sha256": "5c3c378eed5156f45bbeaca0b580c8ad7eee150900e4ba27f346f8cd25bf13fe",
+      "origin": "New generated reconstruction using built-in image_gen.imagegen; not recovered original sprites; PNG unchanged."
+    },
+    {
+      "file": "assets/sprites/v083/body-atlas.png",
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "frames": 20,
+      "sha256": "eb0c06c9ed2461b86b85aaa61a58ed856a5030d066b8067b0ec057fc5ba43ac0",
+      "origin": "New generated reconstruction using built-in image_gen.imagegen; not recovered original sprites; PNG unchanged."
+    }
+  ],
+  "references": [
+    "reference_visual/user_sheets_20260922/11_09.png",
+    "reference_visual/onboarding_20261005/personaje.jpg",
+    "assets/sprites/v060/batter-atlas.png"
+  ],
+  "runtime": "Complete measured silhouette rectangles; connected alpha mask excludes neighboring bat fragments; recoloring only during bounded cache preparation. Original PNG files unchanged."
+}

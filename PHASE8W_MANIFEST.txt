@@ -1,0 +1,25 @@
+Baseball Heroes Remake — Phase 8W
+Roadmap to Major Reconstruction
+
+Save:
+- v19
+
+New screen:
+- RoadmapToMajorScreen.as
+
+New GameData:
+- roadmapGames
+- roadmapWins
+- roadmapHomeRuns
+- roadmapRbi
+- roadmapClaims
+- roadmapLastReward
+- Roadmap catalog/progress/claim functions
+
+UI:
+- HOME now includes ROADMAP.
+- Five supplied league badges are used in the Roadmap route.
+
+Promotion:
+- Existing season promotion remains authoritative.
+- Roadmap objectives/rewards do not directly force league promotion.

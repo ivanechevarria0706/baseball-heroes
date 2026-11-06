@@ -1,0 +1,7 @@
+{
+  "mode": "built-in image_gen",
+  "source": "C:\\Users\\ivane\\.codex\\generated_images\\01a07abc-56cb-7b01-b15e-24cbeb8004e9\\exec-b78bd7fd-f1dd-492d-828e-148e7e746ef3.png",
+  "sha256": "8ad64ceaa7cb810698b8e4992d33f1d3c0040d1d07079b28fe63ab8a4cbb7565",
+  "prompt": "prompt.txt",
+  "integration": "Native PNG is embedded unchanged; stage anchors measured against the generated bases."
+}

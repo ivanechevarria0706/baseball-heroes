@@ -1,0 +1,11 @@
+{
+  "kind": "Reconstructed emblem, not a recovered original asset",
+  "tool": "Built-in image_gen",
+  "output": "intro-emblem.png",
+  "prompt": "Create ONE transparent-background raster emblem sprite for a private faithful remake of Baseball Heroes, using the supplied original gameplay screenshot as a close visual reference. Reconstruct ONLY the central game logo, NOT the orbital blue rings, stadium, HUD, background or UI. Exact text on two lines: \"BASEBALL\" above \"HEROES\". Match the distinctive thick condensed slab/block lettering, slight rising perspective from left to right, black deep extruded outline/drop extrusion, glossy pale icy cyan at the tops fading to medium cyan-blue at the bottoms of the letters. HEROES is much larger and wider than BASEBALL, both right aligned approximately. A large white baseball with a few red curved stitches protrudes from the left side behind the words, outlined dark black/olive; bright red and orange stylized flames rise behind the upper-left/center of the word BASEBALL. Faithful bold simple cel-shaded Flash game illustration, crisp hard edges, restrained glossy highlights. Preserve proportions from reference: the logo as a whole about 1.55 times wider than tall, ball visible at the left, flame behind the top. Generous transparent margins around the full emblem; no clipped flames or letters. No extra rings, badges, stars, slogan, watermark or added text. The emblem must read clearly when displayed around 400 pixels wide. Genuine alpha transparency.",
+  "references": [
+    "reference_visual/initial_audit_20261015/frame-0153.jpg"
+  ],
+  "originalGeneratedFile": "C:/Users/ivane/.codex/generated_images/01a07abc-56cb-7b01-b15e-24cbeb8004e9/exec-34fd3e45-13c3-40f4-9a3c-a48c352cec57.png",
+  "copiedUnchanged": true
+}

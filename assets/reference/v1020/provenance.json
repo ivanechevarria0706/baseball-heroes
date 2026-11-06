@@ -1,0 +1,12 @@
+{
+  "tool": "built-in image_gen",
+  "intent": "style-transfer",
+  "kind": "reconstruction, not a recovered original asset",
+  "date": "2026-10-22",
+  "file": "rookie-stadium.png",
+  "references": [
+    "build/assets/visual/v103/rookie-stadium.png",
+    "reference_visual/initial_audit_20261015/frame-0250.jpg"
+  ],
+  "prompt": "Use case: style-transfer. Asset type: full 4:3 illustrated Rookie baseball stadium background plate for a game.\nImage 1 is the EDIT TARGET (current stadium backdrop, 1448x1086). Image 2 is STYLE/DETAIL reference, a screenshot of the original 2016 Baseball Heroes Rookie stadium; its HUD and all characters must NOT appear in the output.\nRetouch image 1 so its visual treatment is much closer to the original in image 2. Keep the exact 4:3 camera, all field outlines, mound, home plate and chalk positions of image 1 unchanged. Keep central symmetry and existing layout of the scoreboard, bleachers and floodlights. Change the spectators from repetitive bright confetti into small dense shaded crowd sprites with darker brown rows and pale grey concrete bleacher edges, like image 2. Give the four light towers thin grey structural poles and small pale gold light banks. Make the green scoreboard richer and darker with shaded green sides, a round pale clock, and dark empty rectangular team displays. Refine distant angular snow mountains, layered forest, hazy sky and the original's irregular soft cloud clusters; avoid repeated UFO-shaped identical clouds. Match the original's medium green grass with broad subtle depth shading and warm muted sandy dirt. Preserve clear sharp inked illustrated Flash art, small highlights and restrained shadows, not realistic painting. Keep everything legible at 960x720.\nHard invariants: mound center (50%,60.3%); mound spans x40.4%-59.6%, y58.3%-63.6%. Home plate spans x42.9%-57.1%, y80.4%-91.2%, tip centered x50%. Wall spans y45.3%-48.1%. Bleachers stay in same outlines. Foreground grass/sand border stays at y66.8% at the edges and y75.5% at center. No players, bats, balls, cursors, interfaces, aiming ring, badges, overlay, UI or readable text. Output only the complete clean stadium plate. Do not crop, reframe, zoom or add extra buildings. This is a reconstruction, not a recovered original asset."
+}

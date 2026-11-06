@@ -1,0 +1,1476 @@
+{
+  "tool": "built-in image_gen",
+  "sourceBytesPreserved": true,
+  "measurement": "Read-only alpha connected components, native cached frame extraction in Flash. Anchors manually reviewed.",
+  "sheets": {
+    "batter": {
+      "file": "assets/sprites/v1039/batter.png",
+      "sha256": "b6a281be2e0669f97244503c679267538c9256681a53b60ba95937df98fd3a3b",
+      "width": 1254,
+      "height": 1254,
+      "prompt": "Use case: stylized-concept. Asset: production animation sprite atlas for an original chibi baseball game. Image1 is the EXACT approved BODY STYLE reference. Image2 is POSE REFERENCE ONLY, do not copy its thin proportions or red clothes. Create a SQUARE 1:1 transparent sheet with EXACTLY FOUR COLUMNS and FOUR ROWS, sixteen separate complete HEADLESS baseball batter bodies. Same compact torso, short chunky legs, big black cleats with two white bands, bold clean near-black ink, hard two-tone cel shading as Image1. These are animation poses of ONE consistent character/body, not sixteen different people. White uniform and pants, NAVY BLUE sleeves/trim and socks, black belt with silver buckle, white batting gloves and a natural GOLDEN WOOD bat. A short PEACH neck stump at the collar in every pose, but ABSOLUTELY NO HEAD, HAIR, FACE, cap or helmet: the game mounts the chosen head later. No logos/numbers/text. Each frame fully within its own equal cell, ample transparent gutters on every side: at least 12% clear margin per cell, all bats, hands and shoes inside, NO overlap between cells, no background/shadow/glow. Camera sees a right handed batter from his back-left three-quarter side, bat strikes toward SCREEN RIGHT. Four rows reading order: 1 ready stance with bat raised behind shoulder; 2 stance with knees slightly relaxed; 3 coils weight back with bat higher; 4 front knee lifts for loading; 5 front foot strides out while hands stay loaded; 6 loaded bat cocked at back shoulder before rotation; 7 swing starts, hips rotate and arms draw bat diagonally forward; 8 EXACT CONTACT, both arms extend to screen right, wooden bat horizontal pointing to screen right at waist height; 9 arms extend fully just past contact, bat slightly rising to right; 10 follow through rotates torso, bat wraps over opposite shoulder; 11 bat wraps behind shoulders and hips complete turn, back heel raised; 12 arms lower and body begins return to stance; 13 disappointed slump with bat lowered safely at right side; 14 reset with bat resting on shoulder; 15 celebrate with free fist raised and other hand holding bat at side; 16 proud relaxed bat over shoulder. Keep neck attachment clearly visible, anatomically coherent two arms/two legs, each illustrated body same scale and proportions. Clean transparent background, no labels and no grid lines.",
+      "original": "C:\\Users\\ivane\\.codex\\generated_images\\01a07abc-56cb-7b01-b15e-24cbeb8004e9\\exec-2d9cff64-f7da-4ee7-b2bb-a9bc380adf31.png",
+      "frames": [
+        {
+          "index": 0,
+          "rect": [
+            58,
+            16,
+            213,
+            306
+          ],
+          "neck": [
+            163,
+            50
+          ],
+          "ground": [
+            168,
+            320
+          ],
+          "seed": [
+            163,
+            55
+          ],
+          "componentArea": 30428,
+          "facing": 0
+        },
+        {
+          "index": 1,
+          "rect": [
+            385,
+            30,
+            201,
+            290
+          ],
+          "neck": [
+            498,
+            117
+          ],
+          "ground": [
+            488,
+            319
+          ],
+          "seed": [
+            498,
+            122
+          ],
+          "componentArea": 28683,
+          "facing": 0
+        },
+        {
+          "index": 2,
+          "rect": [
+            672,
+            8,
+            220,
+            314
+          ],
+          "neck": [
+            776,
+            105
+          ],
+          "ground": [
+            788,
+            320
+          ],
+          "seed": [
+            776,
+            110
+          ],
+          "componentArea": 29523,
+          "facing": 0
+        },
+        {
+          "index": 3,
+          "rect": [
+            980,
+            17,
+            188,
+            304
+          ],
+          "neck": [
+            1072,
+            36
+          ],
+          "ground": [
+            1090,
+            320
+          ],
+          "seed": [
+            1072,
+            41
+          ],
+          "componentArea": 27414,
+          "facing": 0
+        },
+        {
+          "index": 4,
+          "rect": [
+            40,
+            329,
+            270,
+            291
+          ],
+          "neck": [
+            172,
+            421
+          ],
+          "ground": [
+            174,
+            619
+          ],
+          "seed": [
+            172,
+            426
+          ],
+          "componentArea": 29204,
+          "facing": 0
+        },
+        {
+          "index": 5,
+          "rect": [
+            384,
+            329,
+            232,
+            291
+          ],
+          "neck": [
+            512,
+            417
+          ],
+          "ground": [
+            499,
+            618
+          ],
+          "seed": [
+            512,
+            422
+          ],
+          "componentArea": 26603,
+          "facing": 0
+        },
+        {
+          "index": 6,
+          "rect": [
+            661,
+            350,
+            252,
+            269
+          ],
+          "neck": [
+            775,
+            420
+          ],
+          "ground": [
+            787,
+            617
+          ],
+          "seed": [
+            775,
+            425
+          ],
+          "componentArea": 27447,
+          "facing": 0
+        },
+        {
+          "index": 7,
+          "rect": [
+            965,
+            406,
+            283,
+            215
+          ],
+          "neck": [
+            1060,
+            415
+          ],
+          "ground": [
+            1073,
+            619
+          ],
+          "seed": [
+            1060,
+            420
+          ],
+          "componentArea": 25945,
+          "facing": 0
+        },
+        {
+          "index": 8,
+          "rect": [
+            28,
+            695,
+            331,
+            227
+          ],
+          "neck": [
+            133,
+            721
+          ],
+          "ground": [
+            142,
+            920
+          ],
+          "seed": [
+            133,
+            726
+          ],
+          "componentArea": 28257,
+          "facing": 0
+        },
+        {
+          "index": 9,
+          "rect": [
+            410,
+            630,
+            208,
+            296
+          ],
+          "neck": [
+            486,
+            711
+          ],
+          "ground": [
+            516,
+            925
+          ],
+          "seed": [
+            486,
+            716
+          ],
+          "componentArea": 26749,
+          "facing": 0
+        },
+        {
+          "index": 10,
+          "rect": [
+            675,
+            656,
+            223,
+            270
+          ],
+          "neck": [
+            750,
+            705
+          ],
+          "ground": [
+            786,
+            925
+          ],
+          "seed": [
+            750,
+            710
+          ],
+          "componentArea": 30980,
+          "facing": 0
+        },
+        {
+          "index": 11,
+          "rect": [
+            970,
+            693,
+            266,
+            228
+          ],
+          "neck": [
+            1060,
+            702
+          ],
+          "ground": [
+            1101,
+            919
+          ],
+          "seed": [
+            1060,
+            707
+          ],
+          "componentArea": 27915,
+          "facing": 0
+        },
+        {
+          "index": 12,
+          "rect": [
+            55,
+            993,
+            258,
+            232
+          ],
+          "neck": [
+            172,
+            1002
+          ],
+          "ground": [
+            183,
+            1223
+          ],
+          "seed": [
+            172,
+            1007
+          ],
+          "componentArea": 29131,
+          "facing": 0
+        },
+        {
+          "index": 13,
+          "rect": [
+            373,
+            945,
+            208,
+            276
+          ],
+          "neck": [
+            478,
+            997
+          ],
+          "ground": [
+            476,
+            1220
+          ],
+          "seed": [
+            478,
+            1002
+          ],
+          "componentArea": 31775,
+          "facing": 0
+        },
+        {
+          "index": 14,
+          "rect": [
+            675,
+            946,
+            219,
+            275
+          ],
+          "neck": [
+            777,
+            1002
+          ],
+          "ground": [
+            787,
+            1220
+          ],
+          "seed": [
+            777,
+            1007
+          ],
+          "componentArea": 30540,
+          "facing": 0
+        },
+        {
+          "index": 15,
+          "rect": [
+            992,
+            938,
+            207,
+            282
+          ],
+          "neck": [
+            1098,
+            998
+          ],
+          "ground": [
+            1095,
+            1219
+          ],
+          "seed": [
+            1098,
+            1003
+          ],
+          "componentArea": 31530,
+          "facing": 0
+        }
+      ]
+    },
+    "pitcher": {
+      "file": "assets/sprites/v1039/pitcher.png",
+      "sha256": "93536640865fa08981d1a6450cea7a9700c9282e33b6f18f8bb120e4355168ba",
+      "width": 1254,
+      "height": 1254,
+      "prompt": "Use case: stylized-concept. Asset: a production animation atlas for our chibi baseball game. Reference 1 is the approved compact BODY STYLE to match; Reference 2 is the OLD pitching POSE reference only. Create EXACTLY SIXTEEN HEADLESS PITCHER BODIES in a SQUARE 1:1 transparent sheet, FOUR columns by FOUR rows, reading order. One consistent right-handed pitcher viewed from home plate (FRONT / front three quarter), same compact torso/short chunky legs and big black/white two-stripe cleats, bold clean black outlines, flat two-tone cel shading as reference1. White pants and jersey, NAVY BLUE sleeves/trim/socks, black belt and silver buckle; warm PEACH skin neck/forearms. Brown leather FIELDING MITT always on LEFT hand, baseball only in RIGHT throwing hand before release. Short clean neck stump clearly visible: NO HEAD, HAIR, FACE, cap or helmet anywhere. No logos/numbers/text. Sixteen progressive keyframes: 1 neutral set, two hands together in mitt at chest; 2 slight knee flex in set; 3 mitt raises toward neck for preparation; 4 front knee starts to lift; 5 knee lifted to belt; 6 full high knee balance and torso coils; 7 stride begins and hands separate; 8 long stride with glove arm extended, ball cocks behind throwing shoulder; 9 throwing elbow high, baseball above/behind shoulder; 10 torso rotates and ball arm moves forward, baseball still held; 11 final pre-release with baseball in fingertips reaching forward; 12 EXACT RELEASE, fully extended OPEN EMPTY right hand reaching toward viewer, NO BASEBALL anywhere in this frame; 13 follow-through across body, back leg lifts; 14 deepest follow-through with back foot high behind and glove tucked; 15 recover, back leg lowers; 16 return to neutral glove at chest. Same size/proportions across sequence, coherent two arms/two legs, no extra limbs. Each body occupies at most 72% of its cell WIDTH and HEIGHT, keeping at least 14% clear transparent margin around ALL hands/feet/mitt; NO overlap or touching between frames. Clear fully transparent horizontal and vertical gutters. No floor shadows, backdrop, glow, labels or grid lines. Make this cohesive game-ready 2D illustrated animation, not realistic and not 3D.",
+      "original": "C:\\Users\\ivane\\.codex\\generated_images\\01a07abc-56cb-7b01-b15e-24cbeb8004e9\\exec-f5491438-a432-421f-83a8-16b515a105de.png",
+      "frames": [
+        {
+          "index": 0,
+          "rect": [
+            49,
+            59,
+            212,
+            239
+          ],
+          "neck": [
+            158,
+            69
+          ],
+          "ground": [
+            154,
+            297
+          ],
+          "seed": [
+            158,
+            74
+          ],
+          "componentArea": 28379,
+          "facing": 0
+        },
+        {
+          "index": 1,
+          "rect": [
+            365,
+            72,
+            210,
+            226
+          ],
+          "neck": [
+            468,
+            82
+          ],
+          "ground": [
+            470,
+            296
+          ],
+          "seed": [
+            468,
+            87
+          ],
+          "componentArea": 27359,
+          "facing": 0
+        },
+        {
+          "index": 2,
+          "rect": [
+            686,
+            56,
+            208,
+            242
+          ],
+          "neck": [
+            788,
+            66
+          ],
+          "ground": [
+            789,
+            296
+          ],
+          "seed": [
+            788,
+            71
+          ],
+          "componentArea": 29551,
+          "facing": 0
+        },
+        {
+          "index": 3,
+          "rect": [
+            1023,
+            59,
+            152,
+            240
+          ],
+          "neck": [
+            1100,
+            68
+          ],
+          "ground": [
+            1080,
+            298
+          ],
+          "seed": [
+            1100,
+            73
+          ],
+          "componentArea": 22389,
+          "facing": 0
+        },
+        {
+          "index": 4,
+          "rect": [
+            84,
+            346,
+            152,
+            255
+          ],
+          "neck": [
+            162,
+            356
+          ],
+          "ground": [
+            156,
+            600
+          ],
+          "seed": [
+            162,
+            361
+          ],
+          "componentArea": 23917,
+          "facing": 0
+        },
+        {
+          "index": 5,
+          "rect": [
+            392,
+            344,
+            154,
+            258
+          ],
+          "neck": [
+            467,
+            353
+          ],
+          "ground": [
+            490,
+            600
+          ],
+          "seed": [
+            467,
+            358
+          ],
+          "componentArea": 24963,
+          "facing": 0
+        },
+        {
+          "index": 6,
+          "rect": [
+            645,
+            365,
+            264,
+            235
+          ],
+          "neck": [
+            784,
+            375
+          ],
+          "ground": [
+            776,
+            598
+          ],
+          "seed": [
+            784,
+            380
+          ],
+          "componentArea": 33913,
+          "facing": 0
+        },
+        {
+          "index": 7,
+          "rect": [
+            950,
+            354,
+            280,
+            242
+          ],
+          "neck": [
+            1102,
+            386
+          ],
+          "ground": [
+            1090,
+            594
+          ],
+          "seed": [
+            1102,
+            391
+          ],
+          "componentArea": 33809,
+          "facing": 0
+        },
+        {
+          "index": 8,
+          "rect": [
+            52,
+            648,
+            238,
+            265
+          ],
+          "neck": [
+            198,
+            692
+          ],
+          "ground": [
+            170,
+            911
+          ],
+          "seed": [
+            198,
+            697
+          ],
+          "componentArea": 30219,
+          "facing": 0
+        },
+        {
+          "index": 9,
+          "rect": [
+            357,
+            675,
+            234,
+            239
+          ],
+          "neck": [
+            501,
+            688
+          ],
+          "ground": [
+            492,
+            912
+          ],
+          "seed": [
+            501,
+            693
+          ],
+          "componentArea": 29081,
+          "facing": 0
+        },
+        {
+          "index": 10,
+          "rect": [
+            680,
+            682,
+            213,
+            231
+          ],
+          "neck": [
+            823,
+            691
+          ],
+          "ground": [
+            840,
+            912
+          ],
+          "seed": [
+            823,
+            696
+          ],
+          "componentArea": 27414,
+          "facing": 0
+        },
+        {
+          "index": 11,
+          "rect": [
+            981,
+            688,
+            223,
+            225
+          ],
+          "neck": [
+            1135,
+            697
+          ],
+          "ground": [
+            1160,
+            912
+          ],
+          "seed": [
+            1135,
+            702
+          ],
+          "componentArea": 27143,
+          "facing": 0
+        },
+        {
+          "index": 12,
+          "rect": [
+            44,
+            955,
+            246,
+            251
+          ],
+          "neck": [
+            222,
+            991
+          ],
+          "ground": [
+            195,
+            1205
+          ],
+          "seed": [
+            222,
+            996
+          ],
+          "componentArea": 27945,
+          "facing": 0
+        },
+        {
+          "index": 13,
+          "rect": [
+            342,
+            981,
+            261,
+            226
+          ],
+          "neck": [
+            538,
+            1004
+          ],
+          "ground": [
+            490,
+            1206
+          ],
+          "seed": [
+            538,
+            1009
+          ],
+          "componentArea": 28576,
+          "facing": 0
+        },
+        {
+          "index": 14,
+          "rect": [
+            661,
+            968,
+            238,
+            239
+          ],
+          "neck": [
+            784,
+            1063
+          ],
+          "ground": [
+            780,
+            1205
+          ],
+          "seed": [
+            784,
+            1068
+          ],
+          "componentArea": 29482,
+          "facing": 0
+        },
+        {
+          "index": 15,
+          "rect": [
+            991,
+            961,
+            214,
+            245
+          ],
+          "neck": [
+            1100,
+            971
+          ],
+          "ground": [
+            1098,
+            1205
+          ],
+          "seed": [
+            1100,
+            976
+          ],
+          "componentArea": 29316,
+          "facing": 0
+        }
+      ]
+    },
+    "fielding": {
+      "file": "assets/sprites/v1039/fielding.png",
+      "sha256": "9e292956bbfd59875808104008afe7c478ad5a02c360c4037377968626d151af",
+      "width": 1254,
+      "height": 1254,
+      "prompt": "Use case: stylized-concept. Asset: transparent 2D chibi baseball fielding animation sprite atlas. Image1 is the approved BODY STYLE, image2 the new pitcher that MUST match. EXACT square 1:1 canvas, FOUR columns and FOUR rows, SIXTEEN separate complete HEADLESS fielder bodies of the SAME consistent compact character. White uniform and pants, NAVY BLUE sleeves/trim/socks, black belt/silver buckle, chunky black cleats with two white bands, peach neck/forearms, bold black ink and flat hard two-tone cel shading. Brown leather baseball mitt ALWAYS on LEFT hand; right hand bare. All poses have a short clean neck stump, NO head, hair, face, cap, helmet, logos or text. Reading order, camera front three-quarter: 1 ready crouch, glove low in front; 2 running first stride with one knee up; 3 field a ground ball crouched low, mitt near ground; 4 reach glove forward preparing catch; 5 right hand cocks ball above shoulder, glove tucked; 6 throwing arm starts to extend, ball still in right hand; 7 EXACT RELEASE with right throwing hand OPEN and EMPTY reaching forward, NO ball anywhere; 8 throwing follow-through across body; 9 leap/reach glove overhead preparing fly catch; 10 glove closed overhead for catch; 11 land on both feet and bring glove down; 12 celebrate with free fist raised and glove at side; 13 sprint left leg extended; 14 sprint right leg extended; 15 knees bent returning to ready; 16 neutral relaxed glove at chest. Two arms/two legs coherent, same scale and proportions across all cells. Every entire sprite including outstretched mitt, hands and shoes occupies AT MOST 70% of its own cell width AND height; use plenty of clear TRANSPARENT gutters, no overlaps or touching. No floor/shadow/glow, backdrop, labels or grid lines. This will be combined with a separate oversized chibi head by the engine.",
+      "original": "C:\\Users\\ivane\\.codex\\generated_images\\01a07abc-56cb-7b01-b15e-24cbeb8004e9\\exec-00fa175b-5c11-42dc-a7e1-96aa19c926ee.png",
+      "frames": [
+        {
+          "index": 0,
+          "rect": [
+            38,
+            91,
+            273,
+            203
+          ],
+          "neck": [
+            174,
+            100
+          ],
+          "ground": [
+            174,
+            293
+          ],
+          "seed": [
+            174,
+            105
+          ],
+          "componentArea": 31960,
+          "facing": 0
+        },
+        {
+          "index": 1,
+          "rect": [
+            369,
+            66,
+            224,
+            232
+          ],
+          "neck": [
+            490,
+            75
+          ],
+          "ground": [
+            466,
+            297
+          ],
+          "seed": [
+            490,
+            80
+          ],
+          "componentArea": 27716,
+          "facing": 0
+        },
+        {
+          "index": 2,
+          "rect": [
+            651,
+            113,
+            288,
+            183
+          ],
+          "neck": [
+            791,
+            121
+          ],
+          "ground": [
+            798,
+            294
+          ],
+          "seed": [
+            791,
+            126
+          ],
+          "componentArea": 29345,
+          "facing": 0
+        },
+        {
+          "index": 3,
+          "rect": [
+            967,
+            88,
+            259,
+            209
+          ],
+          "neck": [
+            1119,
+            98
+          ],
+          "ground": [
+            1107,
+            295
+          ],
+          "seed": [
+            1119,
+            103
+          ],
+          "componentArea": 30976,
+          "facing": 0
+        },
+        {
+          "index": 4,
+          "rect": [
+            38,
+            350,
+            266,
+            263
+          ],
+          "neck": [
+            174,
+            400
+          ],
+          "ground": [
+            170,
+            611
+          ],
+          "seed": [
+            174,
+            405
+          ],
+          "componentArea": 33633,
+          "facing": 0
+        },
+        {
+          "index": 5,
+          "rect": [
+            369,
+            378,
+            243,
+            234
+          ],
+          "neck": [
+            523,
+            399
+          ],
+          "ground": [
+            515,
+            611
+          ],
+          "seed": [
+            523,
+            404
+          ],
+          "componentArea": 29806,
+          "facing": 0
+        },
+        {
+          "index": 6,
+          "rect": [
+            693,
+            388,
+            239,
+            225
+          ],
+          "neck": [
+            844,
+            403
+          ],
+          "ground": [
+            812,
+            612
+          ],
+          "seed": [
+            844,
+            408
+          ],
+          "componentArea": 30260,
+          "facing": 0
+        },
+        {
+          "index": 7,
+          "rect": [
+            972,
+            387,
+            252,
+            227
+          ],
+          "neck": [
+            1152,
+            396
+          ],
+          "ground": [
+            1168,
+            612
+          ],
+          "seed": [
+            1152,
+            401
+          ],
+          "componentArea": 28577,
+          "facing": 0
+        },
+        {
+          "index": 8,
+          "rect": [
+            41,
+            624,
+            246,
+            305
+          ],
+          "neck": [
+            164,
+            736
+          ],
+          "ground": [
+            181,
+            927
+          ],
+          "seed": [
+            164,
+            741
+          ],
+          "componentArea": 29649,
+          "facing": 0
+        },
+        {
+          "index": 9,
+          "rect": [
+            374,
+            629,
+            189,
+            305
+          ],
+          "neck": [
+            476,
+            726
+          ],
+          "ground": [
+            475,
+            933
+          ],
+          "seed": [
+            476,
+            731
+          ],
+          "componentArea": 26106,
+          "facing": 0
+        },
+        {
+          "index": 10,
+          "rect": [
+            665,
+            731,
+            260,
+            213
+          ],
+          "neck": [
+            800,
+            740
+          ],
+          "ground": [
+            794,
+            942
+          ],
+          "seed": [
+            800,
+            745
+          ],
+          "componentArea": 27719,
+          "facing": 0
+        },
+        {
+          "index": 11,
+          "rect": [
+            991,
+            665,
+            232,
+            281
+          ],
+          "neck": [
+            1106,
+            720
+          ],
+          "ground": [
+            1106,
+            944
+          ],
+          "seed": [
+            1106,
+            725
+          ],
+          "componentArea": 33297,
+          "facing": 0
+        },
+        {
+          "index": 12,
+          "rect": [
+            58,
+            988,
+            258,
+            230
+          ],
+          "neck": [
+            209,
+            997
+          ],
+          "ground": [
+            266,
+            1216
+          ],
+          "seed": [
+            209,
+            1002
+          ],
+          "componentArea": 32094,
+          "facing": 0
+        },
+        {
+          "index": 13,
+          "rect": [
+            395,
+            996,
+            229,
+            220
+          ],
+          "neck": [
+            536,
+            1005
+          ],
+          "ground": [
+            576,
+            1214
+          ],
+          "seed": [
+            536,
+            1010
+          ],
+          "componentArea": 28514,
+          "facing": 0
+        },
+        {
+          "index": 14,
+          "rect": [
+            666,
+            1003,
+            265,
+            207
+          ],
+          "neck": [
+            792,
+            1013
+          ],
+          "ground": [
+            798,
+            1209
+          ],
+          "seed": [
+            792,
+            1018
+          ],
+          "componentArea": 29052,
+          "facing": 0
+        },
+        {
+          "index": 15,
+          "rect": [
+            995,
+            979,
+            214,
+            234
+          ],
+          "neck": [
+            1100,
+            989
+          ],
+          "ground": [
+            1102,
+            1212
+          ],
+          "seed": [
+            1100,
+            994
+          ],
+          "componentArea": 27863,
+          "facing": 0
+        }
+      ]
+    },
+    "runner": {
+      "file": "assets/sprites/v1039/runner.png",
+      "sha256": "de6f75cd101f587cc533aa4ffd80e17e29cd1523390796b207e984f43cd79668",
+      "width": 1448,
+      "height": 1086,
+      "prompt": "Use case: stylized-concept. Transparent baseball animation sprite atlas. Match reference1 approved compact body design and reference2 new fielding body ink/shading. EXACTLY TWELVE headless bodies in FOUR columns by THREE rows on a spacious 4:3 landscape canvas. One same chibi baseball athlete: compact white jersey, white pants, NAVY BLUE sleeves/trim/socks, black belt/silver buckle and big black cleats with two white stripes. Peach neck and bare hands, NO baseball glove, ball or bat or other props. NO HEAD, face, hair, cap or helmet: leave clean short neck stump. Bold clean black outlines and flat two-tone cel shading, not realistic or 3D. Camera sees body from back-left three-quarter, running TOWARD SCREEN RIGHT. Reading order: 1 run cycle contact left foot forward right arm forward; 2 down/passing stride, arms pump; 3 run flight, legs separated; 4 opposite foot contact, left arm forward; 5 second passing stride; 6 second flight; 7 slow down leaning back arms slightly spread; 8 arrival standing feet planted with hands relaxed; 9 FEET-FIRST SLIDE low diagonal body, right leg stretches to screen right, left knee bent, right hand behind balancing, neck stump at LEFT shoulder end; 10 end of feet-first slide, torso sits upright arms braced; 11 BACK-VIEW celebration with both fists raised; 12 FRONT-VIEW celebration with one fist raised and other hand on hip. Exactly two arms/two legs in every pose, coherent anatomy, same athlete and scale. At least 14% clear transparent margin on all sides inside every equal cell, especially around the horizontal sliding poses, no overlapping sprites. The entire neck, hands and shoes must remain visible. No floor, shadow, glow, backdrop, lettering, labels or grid lines.",
+      "original": "C:\\Users\\ivane\\.codex\\generated_images\\01a07abc-56cb-7b01-b15e-24cbeb8004e9\\exec-7e0f3f85-5340-40f0-9ecc-6939a280ab7e.png",
+      "frames": [
+        {
+          "index": 0,
+          "rect": [
+            59,
+            72,
+            263,
+            276
+          ],
+          "neck": [
+            230,
+            81
+          ],
+          "ground": [
+            180,
+            347
+          ],
+          "seed": [
+            230,
+            86
+          ],
+          "componentArea": 39194,
+          "facing": 0
+        },
+        {
+          "index": 1,
+          "rect": [
+            451,
+            77,
+            241,
+            261
+          ],
+          "neck": [
+            586,
+            85
+          ],
+          "ground": [
+            562,
+            336
+          ],
+          "seed": [
+            586,
+            90
+          ],
+          "componentArea": 36566,
+          "facing": 0
+        },
+        {
+          "index": 2,
+          "rect": [
+            761,
+            78,
+            302,
+            239
+          ],
+          "neck": [
+            954,
+            87
+          ],
+          "ground": [
+            906,
+            316
+          ],
+          "seed": [
+            954,
+            92
+          ],
+          "componentArea": 38190,
+          "facing": 0
+        },
+        {
+          "index": 3,
+          "rect": [
+            1151,
+            79,
+            266,
+            267
+          ],
+          "neck": [
+            1320,
+            88
+          ],
+          "ground": [
+            1278,
+            344
+          ],
+          "seed": [
+            1320,
+            93
+          ],
+          "componentArea": 37997,
+          "facing": 0
+        },
+        {
+          "index": 4,
+          "rect": [
+            64,
+            412,
+            261,
+            292
+          ],
+          "neck": [
+            214,
+            421
+          ],
+          "ground": [
+            149,
+            702
+          ],
+          "seed": [
+            214,
+            426
+          ],
+          "componentArea": 36946,
+          "facing": 0
+        },
+        {
+          "index": 5,
+          "rect": [
+            414,
+            410,
+            284,
+            257
+          ],
+          "neck": [
+            580,
+            419
+          ],
+          "ground": [
+            540,
+            665
+          ],
+          "seed": [
+            580,
+            424
+          ],
+          "componentArea": 37968,
+          "facing": 0
+        },
+        {
+          "index": 6,
+          "rect": [
+            785,
+            426,
+            306,
+            264
+          ],
+          "neck": [
+            914,
+            434
+          ],
+          "ground": [
+            1014,
+            688
+          ],
+          "seed": [
+            914,
+            439
+          ],
+          "componentArea": 36965,
+          "facing": 0
+        },
+        {
+          "index": 7,
+          "rect": [
+            1184,
+            412,
+            219,
+            284
+          ],
+          "neck": [
+            1276,
+            421
+          ],
+          "ground": [
+            1294,
+            694
+          ],
+          "seed": [
+            1276,
+            426
+          ],
+          "componentArea": 38652,
+          "facing": 0
+        },
+        {
+          "index": 8,
+          "rect": [
+            24,
+            829,
+            379,
+            186
+          ],
+          "neck": [
+            286,
+            844
+          ],
+          "ground": [
+            204,
+            1013
+          ],
+          "seed": [
+            286,
+            849
+          ],
+          "componentArea": 38539,
+          "facing": 0
+        },
+        {
+          "index": 9,
+          "rect": [
+            437,
+            848,
+            332,
+            182
+          ],
+          "neck": [
+            562,
+            859
+          ],
+          "ground": [
+            646,
+            1029
+          ],
+          "seed": [
+            562,
+            864
+          ],
+          "componentArea": 30651,
+          "facing": 0
+        },
+        {
+          "index": 10,
+          "rect": [
+            828,
+            726,
+            242,
+            306
+          ],
+          "neck": [
+            956,
+            784
+          ],
+          "ground": [
+            949,
+            1030
+          ],
+          "seed": [
+            956,
+            789
+          ],
+          "componentArea": 35281,
+          "facing": 0
+        },
+        {
+          "index": 11,
+          "rect": [
+            1173,
+            721,
+            241,
+            314
+          ],
+          "neck": [
+            1294,
+            783
+          ],
+          "ground": [
+            1294,
+            1033
+          ],
+          "seed": [
+            1294,
+            788
+          ],
+          "componentArea": 34708,
+          "facing": 0
+        }
+      ]
+    },
+    "rear": {
+      "file": "assets/sprites/v1039/rear.png",
+      "sha256": "66c87d1cc76d6e54f7bf5a149d4e389dbea2807c938b02969bae6c6c0b588acd",
+      "width": 1945,
+      "height": 808,
+      "prompt": "Use case: stylized-concept. Transparent modular baseball animation HEAD sprite strip, THREE separate oversized chibi BACK-OF-HEAD views in a single horizontal row. Match the approved original cartoon heads in the reference: bold clean black ink, flat hard two-tone cel shading, simple compact oversized baseball helmet. A NAVY BLUE batting helmet with rounded low dome and ear guards, near-black outline and shadow, small bright cel highlight, no logos/text. Under the helmet only a short dark PURPLE hair nape and PEACH ears/lower back of head with a clean closed jaw/neck attachment, NO neck stump or body. These are BACK VIEWS: do NOT show eyes, eyebrows, mouth or a frontal face. View1 back-left three-quarter looking toward SCREEN RIGHT: mostly helmet back, right ear and a narrow right cheek edge; view2 straight FULL BACK symmetrical helmet with two ears and short purple hair nape; view3 back-right three-quarter looking toward SCREEN LEFT, mostly helmet back and left ear/cheek edge. Preserve same character size, helmet size and head shape across views. Each head fits safely inside its equal third of a wide landscape canvas with at least 15% transparent margin on all sides. Keep silhouettes separate and entirely visible, no overlaps. Actual transparent background, no floor/shadow/glow, borders, numbers or labels. These will be palette tinted and mounted on headless bodies; no human face should appear in back-of-head sprites.",
+      "original": "C:\\Users\\ivane\\.codex\\generated_images\\01a07abc-56cb-7b01-b15e-24cbeb8004e9\\exec-99766390-2d3e-4821-9da9-b50e1df95cba.png",
+      "frames": [
+        {
+          "index": 0,
+          "rect": [
+            78,
+            130,
+            579,
+            509
+          ],
+          "jaw": [
+            368,
+            637
+          ]
+        },
+        {
+          "index": 1,
+          "rect": [
+            701,
+            133,
+            547,
+            507
+          ],
+          "jaw": [
+            974,
+            638
+          ]
+        },
+        {
+          "index": 2,
+          "rect": [
+            1288,
+            129,
+            579,
+            509
+          ],
+          "jaw": [
+            1578,
+            636
+          ]
+        }
+      ]
+    }
+  }
+}

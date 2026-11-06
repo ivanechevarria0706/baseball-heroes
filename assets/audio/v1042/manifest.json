@@ -1,0 +1,175 @@
+{
+  "seed": 1042,
+  "sampleRate": 44100,
+  "method": "Deterministic filtered noise, damped impacts and additive brass/chime tones. These are approximations, not extracted original SFX.",
+  "keptOriginalUserClips": [
+    "user_hero_hit.mp3",
+    "user_sim_hit.mp3",
+    "user_sim_out.mp3",
+    "user_strike.mp3"
+  ],
+  "clips": [
+    {
+      "event": "pitch",
+      "file": "pitch.mp3",
+      "seconds": 0.16,
+      "peakDbfs": -3.01,
+      "rmsDbfs": -18,
+      "sha256": "37ff020168f387a091d0558bfa528354d9924ba37ddac6ded0f955aaf919392e",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "swing",
+      "file": "swing.mp3",
+      "seconds": 0.22,
+      "peakDbfs": -3.29,
+      "rmsDbfs": -18,
+      "sha256": "dd20240b74b9d8e7b75df06296aea89a3e3a568b7e35f982df36f52caca3cae2",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "catch",
+      "file": "catch.mp3",
+      "seconds": 0.16,
+      "peakDbfs": -3.18,
+      "rmsDbfs": -21,
+      "sha256": "d69156d47fdf9c8e2f20fe976d78dd68d5ce2b6a12579706613c7814aa2b163c",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "ball",
+      "file": "ball.mp3",
+      "seconds": 0.33,
+      "peakDbfs": -3.3,
+      "rmsDbfs": -13,
+      "sha256": "9b0746321a7f767a208525bf3ea7daddabe6dc948efc4a583b59c4265174bcd8",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "walk",
+      "file": "walk.mp3",
+      "seconds": 0.45,
+      "peakDbfs": -3.3,
+      "rmsDbfs": -14,
+      "sha256": "b783c98234d4538a082e22eeec0bac8d28ffe2db42b1c54b3105c009dba98fde",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "single",
+      "file": "single.mp3",
+      "seconds": 0.55,
+      "peakDbfs": -3.31,
+      "rmsDbfs": -16,
+      "sha256": "98d75ec68e433dd74ff82b8560cedcc4283fbdb70b40e140f9abc6905d42260a",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "double",
+      "file": "double.mp3",
+      "seconds": 0.75,
+      "peakDbfs": -3.3,
+      "rmsDbfs": -15,
+      "sha256": "1967247c8e3694c931c236030d3ee0d8a3017e854ef08283ad7c4224ee97650f",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "triple",
+      "file": "triple.mp3",
+      "seconds": 0.95,
+      "peakDbfs": -3.31,
+      "rmsDbfs": -15,
+      "sha256": "7b5b5c4c2f79f8541e782f99a6fc330d25ef9fb06ccb343ad2f71985784da0fe",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "home_run",
+      "file": "home_run.mp3",
+      "seconds": 1.1,
+      "peakDbfs": -3.29,
+      "rmsDbfs": -16,
+      "sha256": "67f4a15ee14220a0e876f0873784a3cb6a22602934f6f8f4f0bebf56957d3740",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "grand_slam",
+      "file": "grand_slam.mp3",
+      "seconds": 1.4,
+      "peakDbfs": -3.26,
+      "rmsDbfs": -16,
+      "sha256": "1edef85ff3066b4c086d81285cf826c9b124b35dada91bbf7aeff8a99a346eec",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "bases_loaded",
+      "file": "bases_loaded.mp3",
+      "seconds": 0.9,
+      "peakDbfs": -3.3,
+      "rmsDbfs": -14,
+      "sha256": "fdb2f680eafe0c609d2a671814f6f7a0555f2abd634a92b8dd378df20dcbd087",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "power_hit",
+      "file": "power_hit.mp3",
+      "seconds": 0.42,
+      "peakDbfs": -3.3,
+      "rmsDbfs": -19,
+      "sha256": "74f35f37e694936f479fee5c57f5a2c93eb97b9c5c353016a0126449e2feba50",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "lucky_hit",
+      "file": "lucky_hit.mp3",
+      "seconds": 0.5,
+      "peakDbfs": -3.31,
+      "rmsDbfs": -15,
+      "sha256": "1162020355886f7393e95fe490cffe6e625dcd3292c377467cc3f71cc20f6037",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "sim_combo",
+      "file": "sim_combo.mp3",
+      "seconds": 0.27,
+      "peakDbfs": -3.3,
+      "rmsDbfs": -13,
+      "sha256": "9b03abf95f3de2dcbf9bff279e750df07547bad59d1be6013cd8b7a7aec849b3",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "sim_special",
+      "file": "sim_special.mp3",
+      "seconds": 0.65,
+      "peakDbfs": -3.3,
+      "rmsDbfs": -15,
+      "sha256": "5df23ca6fdfdb5e080358357961773f593323526e73c911ae5c96d9afe821bf7",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "sim_hero_in",
+      "file": "sim_hero_in.mp3",
+      "seconds": 0.57,
+      "peakDbfs": -3.3,
+      "rmsDbfs": -15,
+      "sha256": "3604861466bd4577bd46c284aa5fcc5a1b52ef590846ce774dd09ddf6de81ae0",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "sim_transition",
+      "file": "sim_transition.mp3",
+      "seconds": 0.2,
+      "peakDbfs": -3.23,
+      "rmsDbfs": -18,
+      "sha256": "ffbc67d87f831222c67bf1a1d3e611ca6f021023f3a2eada02d3304485fd7792",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    },
+    {
+      "event": "world_champion",
+      "file": "world_champion.mp3",
+      "seconds": 1.55,
+      "peakDbfs": -3.32,
+      "rmsDbfs": -15,
+      "sha256": "27b578906ebe4573e105c0a3691918d356a2e1e1f052c1e4e90ec5d40ca025a3",
+      "source": "original procedural synthesis; no speech, gameplay audio or vocal samples"
+    }
+  ]
+}

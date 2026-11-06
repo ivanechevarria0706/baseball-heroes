@@ -1,0 +1,114 @@
+{
+  "source": "User-supplied Baseball Heroes reference images in this conversation",
+  "derived_assets": {
+    "team_logos": [
+      "arizona.png",
+      "atlanta.png",
+      "baltimore.png",
+      "boston.png",
+      "chicago.png",
+      "cincinnati.png",
+      "cleveland.png",
+      "colorado.png",
+      "detroit.png",
+      "houston.png",
+      "kansas_city.png",
+      "la_field.png",
+      "los_angeles_a.png",
+      "los_angeles_b.png",
+      "miami.png",
+      "milwaukee.png",
+      "minnesota.png",
+      "new_york.png",
+      "newyork_alt.png",
+      "oakland.png",
+      "philadelphia.png",
+      "pittsburgh.png",
+      "saint_louis.png",
+      "san_diego.png",
+      "san_francisco.png",
+      "seattle.png",
+      "tampa_bay.png",
+      "texas.png",
+      "toronto.png",
+      "washington.png"
+    ],
+    "league_badges": [
+      "double_a.png",
+      "major.png",
+      "rookie.png",
+      "single_a.png",
+      "triple_a.png"
+    ],
+    "stadiums": [
+      "devil_castle.png",
+      "holiday_park.png",
+      "major_city.png",
+      "major_night.png",
+      "treasure_island.png",
+      "triplea_liberty.png"
+    ],
+    "player_portraits": [
+      "andrew.png",
+      "benjamin.png",
+      "julia.png",
+      "kevin.png",
+      "michelle.png",
+      "michael.png",
+      "carlos.png",
+      "ryan.png",
+      "sam.png",
+      "noah.png",
+      "leo.png"
+    ],
+    "card_packs": [
+      "single_a.png",
+      "double_a.png",
+      "triple_a.png",
+      "major.png",
+      "special_match.png",
+      "national_league.png",
+      "american_league.png",
+      "heroes.png"
+    ],
+    "mode_icons": [
+      "rookie.png",
+      "single_a.png",
+      "double_a.png",
+      "triple_a.png",
+      "major.png",
+      "opening.png",
+      "rival.png",
+      "postseason.png",
+      "allstar.png",
+      "special.png",
+      "world_match.png",
+      "home_run_derby.png"
+    ],
+    "celebrations": [
+      "celebration_01.png",
+      "celebration_02.png",
+      "celebration_03.png",
+      "celebration_04.png",
+      "celebration_05.png",
+      "celebration_06.png",
+      "celebration_07.png"
+    ],
+    "transports": [
+      "rookie_bus.png",
+      "single_a_bus.png",
+      "double_a_bus.png",
+      "triple_a_plane.png",
+      "major_plane.png"
+    ]
+  },
+  "notes": [
+    "Team logos and league badges were cropped from user-provided reference sheets.",
+    "Stadium images were converted to 16:9 PNGs at 960x540 for AIR runtime loading.",
+    "These files are included only because the user provided the source images.",
+    "Phase 8R adds roster portraits, card-pack art, mode badges and celebration panels from user-supplied sheets.",
+    "Phase 8U adds five league-based transport sprites from the user-supplied vehicle/NPC sheet.",
+    "Phase 8X refreshes all eight card-pack images from the cleaner user-supplied 11_06.png sheet.",
+    "Web 0.7.9 reconstructs 60 extractions from original user sheets 11_05, 11_06 and 11_07. Correct league transport order, preserved original alpha/ink, full emblems, four transparent padding pixels. Coordinates and hashes: RECUT_MANIFEST_079.json."
+  ]
+}

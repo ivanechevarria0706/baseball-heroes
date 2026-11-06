@@ -1,0 +1,15 @@
+{
+  "tool": "built-in image_gen",
+  "purpose": "Reconstructed unobserved higher-league Mystery Box sprites",
+  "source": "reconstructed-chests-source.png",
+  "references": [
+    "rookie.png",
+    "single_a.png"
+  ],
+  "reconstructedVariants": [
+    "double_a",
+    "triple_a",
+    "majors"
+  ],
+  "prompt": "Create ONE production sprite sheet for a private recreation of the cartoon Flash baseball game shown by the two reference chest cutouts. The references are STYLE AND GEOMETRY REFERENCES ONLY, not edit targets. Three isolated CLOSED mystery box variants in a perfectly regular 3-column by 1-row sheet, each fully visible and centred in its own equal cell with generous transparent margins. Use a wide landscape canvas. Preserve the exact SIMPLE low-profile rectangular metal equipment-case construction of the references: front-facing with a very shallow top plane, lightly sloped top corners, silver metal edging, a thin dark ink outline, two horizontal metal strips, small silver keyhole latch in the upper front centre, broad coloured front panel. Same compact box proportions and size in all 3 cells. Left box: blue body, pale cyan top, embossed dark blue text 'AA' on lower left front. Middle box: golden yellow body, light cream top, embossed brown text 'AAA' on lower left front. Right box: red body, pale coral top, embossed dark red text 'MAJOR' on lower left front. All three: the yellow jagged circular mystery seal with white question mark '?' on the lower RIGHT front, like the reference. Use restrained 2D cel shading and a few metal bevel highlights to match a 2010s Facebook Flash interface. Keep clean readable silhouettes at 120px wide. Do not turn them into pirate treasure chests, do not add wood, handles, feet, gems, lid decorations, glow, particles or background shadows. No open lid, no perspective variations. No characters, no labels outside the boxes, no grid lines. TRUE transparent alpha background, not a checkerboard. The artwork is a reconstruction of unobserved league variants; do not copy the Rookie or A text from the reference."
+}

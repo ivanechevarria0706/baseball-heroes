@@ -1,0 +1,1386 @@
+{
+  "version": "0.7.9",
+  "operation": "exact source RGBA extraction with four transparent pixels of padding",
+  "assets": [
+    {
+      "sheet": "11_07.png",
+      "group": "league_badges",
+      "name": "rookie.png",
+      "region": [
+        0,
+        0,
+        160,
+        180
+      ],
+      "bounds": [
+        9,
+        31,
+        139,
+        134
+      ],
+      "width": 139,
+      "height": 112,
+      "pixelCount": 9490,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "9f43061512faabdf8b804396a6073c220df845403f86129b0bf48bd94ecadaac",
+      "sha256": "148016a29ef755073ee5c51ea7278db02a326fb0f0c0e88fcc787b49fe437197"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "rookie.png",
+      "region": [
+        0,
+        0,
+        160,
+        180
+      ],
+      "bounds": [
+        9,
+        31,
+        139,
+        134
+      ],
+      "width": 139,
+      "height": 112,
+      "pixelCount": 9490,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "05a2a7ae865f55103d395471ecc6e3541641fc43913001f6ef2d92df95006300",
+      "sha256": "148016a29ef755073ee5c51ea7278db02a326fb0f0c0e88fcc787b49fe437197"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "league_badges",
+      "name": "single_a.png",
+      "region": [
+        160,
+        0,
+        170,
+        180
+      ],
+      "bounds": [
+        176,
+        29,
+        318,
+        136
+      ],
+      "width": 151,
+      "height": 116,
+      "pixelCount": 10229,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "b9c07a5e740648f7376e1991ff3e6c530ac120d6cf78bdb2e121f44f6b47160b",
+      "sha256": "b4325e1b2277788700fddab95016e6569ac60a6b68e45deffce544e0013c0fea"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "single_a.png",
+      "region": [
+        160,
+        0,
+        170,
+        180
+      ],
+      "bounds": [
+        176,
+        29,
+        318,
+        136
+      ],
+      "width": 151,
+      "height": 116,
+      "pixelCount": 10229,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "0511305d359e3dd345fd48458e7b746bd7bade8f4de05f16635893adfbce17bb",
+      "sha256": "b4325e1b2277788700fddab95016e6569ac60a6b68e45deffce544e0013c0fea"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "league_badges",
+      "name": "double_a.png",
+      "region": [
+        330,
+        0,
+        190,
+        180
+      ],
+      "bounds": [
+        349,
+        28,
+        505,
+        136
+      ],
+      "width": 165,
+      "height": 117,
+      "pixelCount": 11600,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "fdb102cd15449d920e90f2aae6b6d102a198b3f057f271cbb83d71b47d47f07c",
+      "sha256": "de3224edd56815cd3035ca70b31d003caba053a75e9365875344f18388f23f86"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "double_a.png",
+      "region": [
+        330,
+        0,
+        190,
+        180
+      ],
+      "bounds": [
+        349,
+        28,
+        505,
+        136
+      ],
+      "width": 165,
+      "height": 117,
+      "pixelCount": 11600,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "52dbf1c7a6656c2432b6a06f9a68a4cdbb4eac7c5f3326c072ac6d9d3f989b13",
+      "sha256": "de3224edd56815cd3035ca70b31d003caba053a75e9365875344f18388f23f86"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "league_badges",
+      "name": "triple_a.png",
+      "region": [
+        520,
+        0,
+        180,
+        180
+      ],
+      "bounds": [
+        538,
+        12,
+        679,
+        153
+      ],
+      "width": 150,
+      "height": 150,
+      "pixelCount": 16222,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "a56c1f590b7dfd01bc6de2a44770d7bcc3d9c5c325ac4d3773e9b14f816d709f",
+      "sha256": "3262a323eb2d60a124159d5cf884b3a50752504394ef685c503cbaadaf943cba"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "triple_a.png",
+      "region": [
+        520,
+        0,
+        180,
+        180
+      ],
+      "bounds": [
+        538,
+        12,
+        679,
+        153
+      ],
+      "width": 150,
+      "height": 150,
+      "pixelCount": 16222,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "588982787b3fb7eaacdeb50bbd0def14cef9c05c5b3be1dea86e435ad60f7468",
+      "sha256": "3262a323eb2d60a124159d5cf884b3a50752504394ef685c503cbaadaf943cba"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "league_badges",
+      "name": "major.png",
+      "region": [
+        700,
+        0,
+        180,
+        180
+      ],
+      "bounds": [
+        717,
+        6,
+        869,
+        159
+      ],
+      "width": 161,
+      "height": 162,
+      "pixelCount": 16472,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "b7a618d26d7f12abd5f98104c280545f6f6e8ce2123a7162843328ca6ae9f2fb",
+      "sha256": "b0220b13e597e6508dc4ba05c3b3a7a0ef638b2fcfc0df9da96f333440169f76"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "major.png",
+      "region": [
+        700,
+        0,
+        180,
+        180
+      ],
+      "bounds": [
+        717,
+        6,
+        869,
+        159
+      ],
+      "width": 161,
+      "height": 162,
+      "pixelCount": 16472,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "4511369bea7f58a9034d3e5ea5ffeb36dae5c612546d27df536958edbaa8307f",
+      "sha256": "b0220b13e597e6508dc4ba05c3b3a7a0ef638b2fcfc0df9da96f333440169f76"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "opening.png",
+      "region": [
+        0,
+        180,
+        175,
+        170
+      ],
+      "bounds": [
+        9,
+        196,
+        157,
+        323
+      ],
+      "width": 157,
+      "height": 136,
+      "pixelCount": 11897,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "e60d6f284c91b9aa47aea06a532403794e4b14795d7b8d55a8e4c62e75228728",
+      "sha256": "a0d06ed08f3855492628b345ee23989260a7c922b6c0b3a661914fc472726640"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "rival.png",
+      "region": [
+        175,
+        180,
+        165,
+        170
+      ],
+      "bounds": [
+        190,
+        190,
+        320,
+        329
+      ],
+      "width": 139,
+      "height": 148,
+      "pixelCount": 12328,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "e5cbe1c918a7b32d6476886ce777abec64c0701018503e38a2310ca192439050",
+      "sha256": "a46da4a6cde663be31abbb87fd2d6a346d12feb40accea57c4e4821c1dd3da5c"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "postseason.png",
+      "region": [
+        340,
+        180,
+        185,
+        170
+      ],
+      "bounds": [
+        355,
+        189,
+        512,
+        330
+      ],
+      "width": 166,
+      "height": 150,
+      "pixelCount": 15097,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "7d8381feed1b1cc5a5dfb54089cf7625a371dfe21ca03eed446304a3e9276b68",
+      "sha256": "a73266b6dd5e987e284add4841811ba0c1794dfe579fb5b110e37c65840fe9ed"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "allstar.png",
+      "region": [
+        525,
+        180,
+        180,
+        170
+      ],
+      "bounds": [
+        543,
+        196,
+        687,
+        323
+      ],
+      "width": 153,
+      "height": 136,
+      "pixelCount": 10485,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "2fccb9379d2b75ff6f69a117e13cfe5a06f446a1ad9202ea7def9c087799cd55",
+      "sha256": "6f52e5bf90adad103cf10bb230233fa12d23b618cf51a521621eda05051a5900"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "special.png",
+      "region": [
+        705,
+        180,
+        175,
+        170
+      ],
+      "bounds": [
+        727,
+        184,
+        869,
+        336
+      ],
+      "width": 151,
+      "height": 161,
+      "pixelCount": 13027,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "777bee063bf6c913baf749cad8b6f972bdb4755ede1143ec4d7ab2fce7eabe64",
+      "sha256": "3f225964a439585c08b344915903ec62bee8e8890b061fd8ad56a61715d91485"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "world_match.png",
+      "region": [
+        0,
+        350,
+        440,
+        155
+      ],
+      "bounds": [
+        9,
+        390,
+        414,
+        480
+      ],
+      "width": 414,
+      "height": 99,
+      "pixelCount": 18984,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "010be1b27430903402ecc6f8f00e4f31687f6093e3e42f9337b5678c426e30e6",
+      "sha256": "53b05812e8036215751e0842421d620ed508e22b702f01384344673b353904f5"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "mode_icons",
+      "name": "home_run_derby.png",
+      "region": [
+        440,
+        350,
+        440,
+        155
+      ],
+      "bounds": [
+        463,
+        376,
+        869,
+        481
+      ],
+      "width": 415,
+      "height": 114,
+      "pixelCount": 17072,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "79380a9ababa35fcaffec28dd16ce8742dae0bacc27b773c2d7fc3aed7603b54",
+      "sha256": "9962285d637d486e6167e6642f1b07edee397d5df21063d646936b753c991473"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "transports",
+      "name": "rookie_bus.png",
+      "region": [
+        0,
+        515,
+        145,
+        158
+      ],
+      "bounds": [
+        10,
+        546,
+        126,
+        639
+      ],
+      "width": 125,
+      "height": 102,
+      "pixelCount": 8340,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "50e116d2a685da57121ce3b153cb9160c1e7c3b0fe5d780a8d40996d9e988f47",
+      "sha256": "ef078a93fed83b26fcf102f849c58aeb7d277e40eb806586d724fe79d5417351"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "transports",
+      "name": "single_a_bus.png",
+      "region": [
+        145,
+        515,
+        170,
+        158
+      ],
+      "bounds": [
+        157,
+        545,
+        300,
+        654
+      ],
+      "width": 152,
+      "height": 118,
+      "pixelCount": 11778,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "2c98124c4b5d72790a8effb3cd71644ea9c71c4df2cf1b1a1239a1b916ac294f",
+      "sha256": "b508a65d6666e4d68acfd4812feb145803812706c2aa96345d9332c6da348e9b"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "transports",
+      "name": "double_a_bus.png",
+      "region": [
+        315,
+        515,
+        175,
+        158
+      ],
+      "bounds": [
+        329,
+        554,
+        474,
+        664
+      ],
+      "width": 154,
+      "height": 119,
+      "pixelCount": 12599,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "9d23a89fba8691b8f1aa5ecdb56f47bf7acfd75a20b419e37dfa584116bc824b",
+      "sha256": "2aa502c38c1c8d9c1859458ab5400cf01964fb8144e6bd3f397b4d9308eef93a"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "transports",
+      "name": "triple_a_plane.png",
+      "region": [
+        490,
+        515,
+        185,
+        158
+      ],
+      "bounds": [
+        513,
+        543,
+        661,
+        632
+      ],
+      "width": 157,
+      "height": 98,
+      "pixelCount": 7352,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "3b646d148676307ac298e33ca3876b2fbded52678a5a0f03a3cae4d197882f75",
+      "sha256": "181c16373a87306febe609773c93bf3386e67884ede95ce11608117c0eaf119f"
+    },
+    {
+      "sheet": "11_07.png",
+      "group": "transports",
+      "name": "major_plane.png",
+      "region": [
+        675,
+        515,
+        205,
+        158
+      ],
+      "bounds": [
+        688,
+        541,
+        871,
+        655
+      ],
+      "width": 192,
+      "height": 123,
+      "pixelCount": 10311,
+      "sourceSha256": "bf5a9b9f77d486f50674cfe1f7178b1bde69c41ede971aba1f5577914e1cca92",
+      "oldSha256": "c645279392df9bcd9f07dd0a5fc0f1ed19169a5d0bfefc6dc6f736e5a9915e04",
+      "sha256": "953fcdf765fb8ab35207190275fd309d76b01fce71688abc954afa213e21664c"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "colorado.png",
+      "region": [
+        0,
+        0,
+        146,
+        175
+      ],
+      "bounds": [
+        17,
+        19,
+        126,
+        143
+      ],
+      "width": 118,
+      "height": 133,
+      "pixelCount": 11343,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "7bafb76c874241a9716171c715f4e63d4ed8d4f298a166575212c095d5768231",
+      "sha256": "7fe08c538414d0dda98d9a631566c9e735dc8ab8adb08af1543876f8d9da97b9"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "baltimore.png",
+      "region": [
+        146,
+        0,
+        147,
+        175
+      ],
+      "bounds": [
+        158,
+        26,
+        279,
+        145
+      ],
+      "width": 130,
+      "height": 128,
+      "pixelCount": 9811,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "95b262fb30759d8c6ec50a4f867ace8ecd84e81138f5cd26de7f621e31186661",
+      "sha256": "40fd670770525ce6370cd2afd7caf953e3e3fa1f623cb3b8e5c5d6f61409b873"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "los_angeles_a.png",
+      "region": [
+        293,
+        0,
+        147,
+        175
+      ],
+      "bounds": [
+        313,
+        12,
+        417,
+        144
+      ],
+      "width": 113,
+      "height": 141,
+      "pixelCount": 10656,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "04cf8ae56ed0d18800b9e662c2a5aefbd9e545eb0914ed586be69662934f35e8",
+      "sha256": "5b99aa6484479912e534cb128a383a9288dc697e5824e9b180da185d357c9e1d"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "new_york.png",
+      "region": [
+        440,
+        0,
+        147,
+        175
+      ],
+      "bounds": [
+        448,
+        9,
+        575,
+        144
+      ],
+      "width": 136,
+      "height": 144,
+      "pixelCount": 11034,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "9f9d205b808c9660879d17d80cc4f6bf3cef3c12caa8a073434bddc3e955f9cb",
+      "sha256": "49e3c09d42a6f00aa3a089472160a2d7d29aff8453b5b6d594ce5e924903b462"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "seattle.png",
+      "region": [
+        587,
+        0,
+        146,
+        175
+      ],
+      "bounds": [
+        601,
+        26,
+        715,
+        145
+      ],
+      "width": 123,
+      "height": 128,
+      "pixelCount": 9560,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "d620c8db774b683899d29ef61699f2ee99ee15f27085d093fa7b3f5c643343aa",
+      "sha256": "2d74b7ea1fa956f59288af4110b3eb0088bfedaa766a08d5b4d49d1fb6655a49"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "oakland.png",
+      "region": [
+        733,
+        0,
+        147,
+        175
+      ],
+      "bounds": [
+        747,
+        11,
+        862,
+        143
+      ],
+      "width": 124,
+      "height": 141,
+      "pixelCount": 11098,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "b4f7e17280b49a88b94a720af852cbb689be2b272b4a53828dea6712bd9a2afb",
+      "sha256": "abca0b051279227abf281e0a119be1274c59e5dc531c7965a9c37997ba84d60a"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "pittsburgh.png",
+      "region": [
+        0,
+        175,
+        146,
+        170
+      ],
+      "bounds": [
+        10,
+        203,
+        133,
+        323
+      ],
+      "width": 132,
+      "height": 129,
+      "pixelCount": 10152,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "0e0b3930d09739bbcc9bc851e0e4d7ab0796d257581a9a0f0581c99e5bca990f",
+      "sha256": "d21d72b2f032a113f4ec18b81283f4350a0fdd2b7a2a97b23219bfeba181fb2a"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "arizona.png",
+      "region": [
+        146,
+        175,
+        147,
+        170
+      ],
+      "bounds": [
+        154,
+        192,
+        282,
+        325
+      ],
+      "width": 137,
+      "height": 142,
+      "pixelCount": 10603,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "0a19765b12082a61e79181f16407eff40f627e18a842256aae50dba7de611a52",
+      "sha256": "892c78fce1155fc40cf0c662e4714974b9257d0c9ec666c2dda5144865646235"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "cincinnati.png",
+      "region": [
+        293,
+        175,
+        147,
+        170
+      ],
+      "bounds": [
+        317,
+        196,
+        413,
+        322
+      ],
+      "width": 105,
+      "height": 135,
+      "pixelCount": 8549,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "ad9e77e3b16ec716727e37a0d0f44b8e6d0971131c5ed29dbce09560639efeb8",
+      "sha256": "d034cf9178999366ae60a2a778dabc52069f4020e8f43180dbd5e3ab3dd44dd9"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "cleveland.png",
+      "region": [
+        440,
+        175,
+        147,
+        170
+      ],
+      "bounds": [
+        454,
+        190,
+        569,
+        326
+      ],
+      "width": 124,
+      "height": 145,
+      "pixelCount": 10067,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "72442f31d571f37cdaac725d61c9482a3d4bf7f6195dc6200211fa502490f93f",
+      "sha256": "3cb95321b1d5c9eb7c8854473181cb6c4040b6790c4b6a7fb4b9639188c17143"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "detroit.png",
+      "region": [
+        587,
+        175,
+        146,
+        170
+      ],
+      "bounds": [
+        593,
+        200,
+        723,
+        318
+      ],
+      "width": 139,
+      "height": 127,
+      "pixelCount": 11385,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "1117f2c65efe6cfa953f69d74b3a379d58ae86fe45fb21a6743afb9126d539ab",
+      "sha256": "243ac368f405136e4242cd9397b1404b4ab418afeab51868b5354e4a3902aabb"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "newyork_alt.png",
+      "region": [
+        733,
+        175,
+        147,
+        170
+      ],
+      "bounds": [
+        749,
+        192,
+        860,
+        319
+      ],
+      "width": 120,
+      "height": 136,
+      "pixelCount": 9462,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "d7dcd616c6e57c17eee55ea5268e32351a7983f5ef375aae49e9ad270b725f02",
+      "sha256": "c8f54519b56d51d7bbcb41249f01864a32b2db90ebe323a5368f37493f1ee6e8"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "saint_louis.png",
+      "region": [
+        0,
+        345,
+        146,
+        175
+      ],
+      "bounds": [
+        8,
+        375,
+        136,
+        502
+      ],
+      "width": 137,
+      "height": 136,
+      "pixelCount": 11030,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "27f6f8bc71edabeb9907963c0cc133a73f45239cbba9a5f1c574dd60c2742932",
+      "sha256": "7fd35434c1eba023e85af89f190bbeb81d18013efc42de3ddeffccb41619dd48"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "los_angeles_b.png",
+      "region": [
+        146,
+        345,
+        147,
+        175
+      ],
+      "bounds": [
+        158,
+        379,
+        279,
+        501
+      ],
+      "width": 130,
+      "height": 131,
+      "pixelCount": 9885,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "2afb7ab9906bf9c6a4f08f67406b5ea9433445736517c2fe5e0605b3608ed64a",
+      "sha256": "f693cb130d214d3712fbb0a13b957fd23fb92ec34e2b7ea386b3716822fac76c"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "minnesota.png",
+      "region": [
+        293,
+        345,
+        147,
+        175
+      ],
+      "bounds": [
+        308,
+        374,
+        422,
+        501
+      ],
+      "width": 123,
+      "height": 136,
+      "pixelCount": 9990,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "d49d97c19809ec6457bef05fc7360d4bace92457b5481d0e7526be0cba277749",
+      "sha256": "03cd09d3767ba8f4fcaf2a26855164937c746222f67bce9698ad53e3e19594fe"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "tampa_bay.png",
+      "region": [
+        440,
+        345,
+        147,
+        175
+      ],
+      "bounds": [
+        456,
+        374,
+        567,
+        498
+      ],
+      "width": 120,
+      "height": 133,
+      "pixelCount": 9744,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "e0bf56d69ca67a7974ba2f07c8e4c6a24d23898dd31b0c31522da2633ddc95f7",
+      "sha256": "e8110877afbd152e66138889882d2d7345fc286f72bf579129134e676eddf1e4"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "boston.png",
+      "region": [
+        587,
+        345,
+        146,
+        175
+      ],
+      "bounds": [
+        598,
+        366,
+        718,
+        502
+      ],
+      "width": 129,
+      "height": 145,
+      "pixelCount": 11167,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "81d4163abc8c07d12c8f93b0fa2203a7ed3befea4db990c1801fb5fe9b2d104a",
+      "sha256": "30f118e61909f3c6a1e0ecfc204cd6eb820e85fbb63c6e980020ec4998d389e7"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "kansas_city.png",
+      "region": [
+        733,
+        345,
+        147,
+        175
+      ],
+      "bounds": [
+        748,
+        373,
+        861,
+        502
+      ],
+      "width": 122,
+      "height": 138,
+      "pixelCount": 11030,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "ec68a0f56fce982d236c9aa00bb4232b5e27a25866af4be088006753e27bf5aa",
+      "sha256": "34ccd26c0937e0bbef6b1d96216b1caaba2fb43e4ec33344b2f5ed876d0fec0d"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "texas.png",
+      "region": [
+        0,
+        520,
+        146,
+        180
+      ],
+      "bounds": [
+        8,
+        547,
+        136,
+        680
+      ],
+      "width": 137,
+      "height": 142,
+      "pixelCount": 10707,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "3d3bca77d02367fccc11b65bfbec350020848253676a1e1f84748adf9320ce8a",
+      "sha256": "c5d0ff752e7cca515476c1046e2a425e3312f39d1fe5c8e12136cc37417a4681"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "milwaukee.png",
+      "region": [
+        146,
+        520,
+        147,
+        180
+      ],
+      "bounds": [
+        165,
+        551,
+        272,
+        675
+      ],
+      "width": 116,
+      "height": 133,
+      "pixelCount": 10688,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "aaa5929c9fa34ce2f6b43f70ceab74def0d38b638be313a7af3fef62eb0d6295",
+      "sha256": "33e02d8e56118fcee3025855ffd9e1911c20588e25a8d6682b18878b54c4c9b7"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "miami.png",
+      "region": [
+        293,
+        520,
+        147,
+        180
+      ],
+      "bounds": [
+        309,
+        551,
+        420,
+        676
+      ],
+      "width": 120,
+      "height": 134,
+      "pixelCount": 11572,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "4e97f0f8a0ac160c688a4543cef956c77116541a13cff8e0f9b341bbae03a1f6",
+      "sha256": "b700216ab5d89438217ae05291f39f173f305aeebe92486826a90e3aa9e9d36f"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "san_francisco.png",
+      "region": [
+        440,
+        520,
+        147,
+        180
+      ],
+      "bounds": [
+        452,
+        548,
+        571,
+        677
+      ],
+      "width": 128,
+      "height": 138,
+      "pixelCount": 11659,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "fe5ac39566ffdc918fcf9d43d625a61d1f07414a0f68908eb40ac777070b1f7c",
+      "sha256": "9a4a23d89ac1b05f899fc80899507a7b868cf97575e085cc0de7f4b8fc8a3aaf"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "san_diego.png",
+      "region": [
+        587,
+        520,
+        146,
+        180
+      ],
+      "bounds": [
+        599,
+        551,
+        717,
+        675
+      ],
+      "width": 127,
+      "height": 133,
+      "pixelCount": 11825,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "cf6e7cdba02f41d3ba74ae427a8ff4e060a4a4df4aaac3b64cdd16a6a1cfece3",
+      "sha256": "1fdb1d9c408f3fd9f684ab2ed1b7b7075f47ac72eb34f051966b5ced16014bef"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "la_field.png",
+      "region": [
+        733,
+        520,
+        147,
+        180
+      ],
+      "bounds": [
+        740,
+        552,
+        869,
+        682
+      ],
+      "width": 138,
+      "height": 139,
+      "pixelCount": 10661,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "7d63f6b04bcd2691679158479d8498289f9fe1e261b10afcbabdc34f5a05575b",
+      "sha256": "ec8816ac382f5af62a0a63972134ef06db9c7174a422bb9f7167d5c7214ff542"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "washington.png",
+      "region": [
+        0,
+        700,
+        146,
+        170
+      ],
+      "bounds": [
+        9,
+        729,
+        135,
+        857
+      ],
+      "width": 135,
+      "height": 137,
+      "pixelCount": 10518,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "846f32481b4525094ad7b604778982f2d03dff25a5af3011148fe47cdea939e4",
+      "sha256": "ce33b1fc6987dfd46d77eb9d356b8b63f7808a0c8ca69b58a5970f6b13deb3c3"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "chicago.png",
+      "region": [
+        146,
+        700,
+        147,
+        170
+      ],
+      "bounds": [
+        167,
+        729,
+        270,
+        854
+      ],
+      "width": 112,
+      "height": 134,
+      "pixelCount": 10007,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "a30edc6ea3d2988ef05bdc6843ec5df9dd786048283f9a55e5d117a3cfd67fe9",
+      "sha256": "feaf233fce163bbc8134fece7738b2373b5e0049c6cba69a23ffffd63e4bf5d3"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "atlanta.png",
+      "region": [
+        293,
+        700,
+        147,
+        170
+      ],
+      "bounds": [
+        304,
+        720,
+        426,
+        855
+      ],
+      "width": 131,
+      "height": 144,
+      "pixelCount": 11144,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "b361925d1e05470b575ab7aeba6fac8bbbfa1c677a36343bfbc6a3c691a3184f",
+      "sha256": "f715a0d6b17c2bd1d435d56ed6493cec6a1282e45b1847c93edbe6a389baa3d5"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "toronto.png",
+      "region": [
+        440,
+        700,
+        147,
+        170
+      ],
+      "bounds": [
+        451,
+        742,
+        572,
+        860
+      ],
+      "width": 130,
+      "height": 127,
+      "pixelCount": 9370,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "41166fcfb42e26195e19094f6f420bc2df5972ab6d699e8eaa8fd6911763818f",
+      "sha256": "7bf26da3ad8cb8f5ffd8c8050e99d9752222dd7bc70e06a0b39bef2426a896a4"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "houston.png",
+      "region": [
+        587,
+        700,
+        146,
+        170
+      ],
+      "bounds": [
+        598,
+        730,
+        718,
+        854
+      ],
+      "width": 129,
+      "height": 133,
+      "pixelCount": 10944,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "2bb300f6dfd2269dfe529b2f548f8a631b7b1d4d06c9581a9a7ec6a31ffa7490",
+      "sha256": "f79400c405d3134fe12c03a8c817c67cb10d3cadb4c3752ce5106632423b6b9b"
+    },
+    {
+      "sheet": "11_05.png",
+      "group": "team_logos",
+      "name": "philadelphia.png",
+      "region": [
+        733,
+        700,
+        147,
+        170
+      ],
+      "bounds": [
+        749,
+        726,
+        861,
+        852
+      ],
+      "width": 121,
+      "height": 135,
+      "pixelCount": 11098,
+      "sourceSha256": "42bf9494853a447a53e5a84bb0b58e3bef98e80d237a1c464abf62bfde9a3bac",
+      "oldSha256": "12ad6578f4d2cf437336ff640719c1ed0dbe20af53c7c9f39db35f4022da29fd",
+      "sha256": "777d380324691bbbe2bf4adca3743094a4d50f403df6cf4b5277abf0cc8f8c92"
+    },
+    {
+      "sheet": "11_06.png",
+      "group": "card_packs",
+      "name": "single_a.png",
+      "region": [
+        0,
+        0,
+        220,
+        321
+      ],
+      "bounds": [
+        8,
+        6,
+        196,
+        305
+      ],
+      "width": 197,
+      "height": 308,
+      "pixelCount": 51034,
+      "sourceSha256": "32f1f2c221745b97f9cd289e2bd4962bcb5233d8b22763b30060eae609dc8c7d",
+      "oldSha256": "7832a190c016b862b753912118ec9e27b18a6deed306396b44d55a9bcca506b8",
+      "sha256": "cb4aedf382cee813a54ec491b6d4fa6433587c4d433204eaa2d413bc21dd4445"
+    },
+    {
+      "sheet": "11_06.png",
+      "group": "card_packs",
+      "name": "double_a.png",
+      "region": [
+        220,
+        0,
+        220,
+        321
+      ],
+      "bounds": [
+        232,
+        6,
+        421,
+        305
+      ],
+      "width": 198,
+      "height": 308,
+      "pixelCount": 51071,
+      "sourceSha256": "32f1f2c221745b97f9cd289e2bd4962bcb5233d8b22763b30060eae609dc8c7d",
+      "oldSha256": "c78e97cf6c7353ebba1fbac03456c5ac0d985580ad8084aad4b5b965b44d372d",
+      "sha256": "ab1ef4b8d38801c4fbbc29882a578f4e59efbf6d53cb3f86beed2db27eb61e45"
+    },
+    {
+      "sheet": "11_06.png",
+      "group": "card_packs",
+      "name": "triple_a.png",
+      "region": [
+        440,
+        0,
+        220,
+        321
+      ],
+      "bounds": [
+        457,
+        6,
+        646,
+        305
+      ],
+      "width": 198,
+      "height": 308,
+      "pixelCount": 51071,
+      "sourceSha256": "32f1f2c221745b97f9cd289e2bd4962bcb5233d8b22763b30060eae609dc8c7d",
+      "oldSha256": "35d85e818c071daf81bd15d23c5d0941cefe67f6a886734cd291bfd80c97ff25",
+      "sha256": "26e36c1cf625c4d48c25a523b9482e3965398c3b7a76e13b859881237e796e80"
+    },
+    {
+      "sheet": "11_06.png",
+      "group": "card_packs",
+      "name": "major.png",
+      "region": [
+        660,
+        0,
+        220,
+        321
+      ],
+      "bounds": [
+        682,
+        6,
+        870,
+        305
+      ],
+      "width": 197,
+      "height": 308,
+      "pixelCount": 51032,
+      "sourceSha256": "32f1f2c221745b97f9cd289e2bd4962bcb5233d8b22763b30060eae609dc8c7d",
+      "oldSha256": "bb388f07e516747ed85ab82b2a7f627da738865d6dd4e1d7aa4dac67a5372e5e",
+      "sha256": "33472a50b3d851c3291c614f7cc8affc4c46363d2ae126b10a2dd1dc1c52c5d8"
+    },
+    {
+      "sheet": "11_06.png",
+      "group": "card_packs",
+      "name": "special_match.png",
+      "region": [
+        0,
+        321,
+        220,
+        321
+      ],
+      "bounds": [
+        8,
+        336,
+        196,
+        635
+      ],
+      "width": 197,
+      "height": 308,
+      "pixelCount": 51041,
+      "sourceSha256": "32f1f2c221745b97f9cd289e2bd4962bcb5233d8b22763b30060eae609dc8c7d",
+      "oldSha256": "e368f8f681e7c00e9b09fafac82e1d23dc743584ff6bdaf278d3f6168c4b6bd8",
+      "sha256": "89875cfbb4f69269a9b0b9d6ff2c3b08da5b8964a7179d571ffc85fe8d710683"
+    },
+    {
+      "sheet": "11_06.png",
+      "group": "card_packs",
+      "name": "national_league.png",
+      "region": [
+        220,
+        321,
+        220,
+        321
+      ],
+      "bounds": [
+        232,
+        336,
+        421,
+        635
+      ],
+      "width": 198,
+      "height": 308,
+      "pixelCount": 51071,
+      "sourceSha256": "32f1f2c221745b97f9cd289e2bd4962bcb5233d8b22763b30060eae609dc8c7d",
+      "oldSha256": "5f485ac1df0028d104055512e6a07f07904a79e4972ca90fff41b43a51122d11",
+      "sha256": "31df52342e23d30885eb58304ed398c8ea9c737bbd69562e7aff9a290fd094ae"
+    },
+    {
+      "sheet": "11_06.png",
+      "group": "card_packs",
+      "name": "american_league.png",
+      "region": [
+        440,
+        321,
+        220,
+        321
+      ],
+      "bounds": [
+        457,
+        336,
+        646,
+        635
+      ],
+      "width": 198,
+      "height": 308,
+      "pixelCount": 51071,
+      "sourceSha256": "32f1f2c221745b97f9cd289e2bd4962bcb5233d8b22763b30060eae609dc8c7d",
+      "oldSha256": "0671f02acdfbc3e0e4d3e516c5541e3e64206595f84bcb882c42419dcee18c17",
+      "sha256": "e73dbf8021265931a968598a2f7fcaac6e8391d513ad30b02155d868de2c3e81"
+    },
+    {
+      "sheet": "11_06.png",
+      "group": "card_packs",
+      "name": "heroes.png",
+      "region": [
+        660,
+        321,
+        220,
+        321
+      ],
+      "bounds": [
+        682,
+        336,
+        870,
+        635
+      ],
+      "width": 197,
+      "height": 308,
+      "pixelCount": 51033,
+      "sourceSha256": "32f1f2c221745b97f9cd289e2bd4962bcb5233d8b22763b30060eae609dc8c7d",
+      "oldSha256": "758653a9ac24507a9394664f83b2370b465e4675c1c57389cc10a39a9432e092",
+      "sha256": "4860dbf92d2b2d4042ed0c9b988cfa5b41fa3d191bac0259cc7b12d5c3282a48"
+    }
+  ]
+}

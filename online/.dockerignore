@@ -1,0 +1,8 @@
+*
+!Dockerfile
+!requirements.txt
+!server.py
+!leagues.py
+!rules.py
+!http_app.py
+!production.py

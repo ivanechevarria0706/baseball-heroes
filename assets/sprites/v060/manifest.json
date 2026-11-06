@@ -1,0 +1,38 @@
+{
+  "version": "0.6.0",
+  "assets": [
+    {
+      "file": "batter-atlas.png",
+      "sha256": "7e36a7ee192531be7c1d2e183124be3fecac82c7f318284cb3515d8880bf8ff3",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "frames": 16,
+      "origin": "New illustration generated with built-in image_gen"
+    },
+    {
+      "file": "pitcher-atlas.png",
+      "sha256": "7b5f97a1286e85b8b0b9533d2c7512d51c83b49cd31993838f58eabff0206323",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "frames": 16,
+      "origin": "New illustration generated with built-in image_gen"
+    },
+    {
+      "file": "characters-atlas.png",
+      "sha256": "6d77816d31bea353b33fb5523ffad05d8ee085670c6aa4c5d3e33910e54bb3a6",
+      "dimensions": [
+        880,
+        2321
+      ],
+      "frames": 32,
+      "origin": "User-supplied 11_09.png, unchanged"
+    }
+  ],
+  "prompts": "PROMPTS.md",
+  "frame_layout": "frame-layout.json",
+  "notes": "Runtime crops and palette changes preserve the source files. Reconstructed actors, not recovered original animations."
+}

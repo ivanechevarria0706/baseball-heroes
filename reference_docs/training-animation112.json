@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-13",
+  "observed": {
+    "RUNNING": "El héroe se ejercita junto al entrenador y aparecen indicadores de premio.",
+    "STRETCHING": "El héroe aparece a la izquierda de la entrenadora en la escena 00:17.",
+    "LIFTING": "Se ven sus ejercicios en el catálogo; la grabación no demuestra una secuencia completa de los seis."
+  },
+  "references": {
+    "running": {
+      "path": "reference_visual/nuevos_20261011/final/detail-0026.jpg",
+      "sha256": "893bcb01847f0080b1b4d6bf91e94a5057946a2560d36ccc89970ce7fd542892"
+    },
+    "stretching": {
+      "path": "reference_visual/nuevos_20261011/final/detail-0017.jpg",
+      "sha256": "1325cb245ead1c510936f5657008d5a0e11482cdd10bc2d730da96db649c1a29"
+    },
+    "lifting": {
+      "path": "reference_visual/nuevos_20261011/final/detail-0033.jpg",
+      "sha256": "c94f5243d28270d36cf9eff60fea3d13e491de2d15856a8bfe6b5504790bdd7b"
+    }
+  },
+  "reconstructed": [
+    "48 poses nuevas: cuatro por ejercicio de STRETCHING/LIFTING, creadas con image_gen; no son sprites recuperados.",
+    "RUNNING reutiliza el cuerpo ilustrado existente con cadencias, sliding y accesorios según ejercicio.",
+    "Las poses de ejercicio, máquinas, sala vacía y entrenadores recortados son reconstrucciones basadas en las referencias.",
+    "Presentación de 4.8 s con salida anticipada; su duración no pretende recuperar la cadencia exacta de las 18 acciones originales."
+  ],
+  "preserved": [
+    "La cara y el cabello proceden de BatterHead086 sin modificaciones.",
+    "Todos los archivos del modelo permanecen iguales a 0.10.11.",
+    "Precios, premios inmediatos, Mastery provisional, descansos y guardado no cambian."
+  ],
+  "pending": [
+    "Curva original de Mastery, estrellas / MASTER y condición de 5 ENERGY (siguiente punto 2).",
+    "Integración de las fichas de cartas observadas (siguiente punto 3).",
+    "Puestos de entrenamiento cuarto y quinto sin identificar; más cuadros intermedios y animaciones originales."
+  ]
+}

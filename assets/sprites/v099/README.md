@@ -1,0 +1,11 @@
+# Character creation reference — 0.9.9
+
+`volume-hair.png` is an illustrated reconstruction generated with the built-in image generation tool using the supplied original character-creation screenshot as reference. It is not recovered original game art. The alpha channel is preserved; the application normalizes the sprite once before caching its colors. It is consumed only by HeroHead. BatterHead086 and its v083 atlas remain unchanged.
+
+`reference-creator.png` preserves the user's visual reference for comparison; it is not part of the deployed web package.
+
+The discarded 4x2 atlas experiment was not integrated: it repeated the tall Volume quiff. The selected individual sprite better supports the low crown and deep fringe.
+
+## Final prompt (built-in tool)
+
+Use case: background-extraction. Asset type: transparent isolated modular HAIR sprite for a 2D Flash game. Primary reference: the BLUE hair of the full standing hero on the RIGHT of the screenshot. Extract and carefully redraw ONLY that exact hairstyle at high clarity; no change of silhouette or hairstyle design. It is called Volume. His hair is a compact round oval mass, thick flat cartoon navy-blue locks. The long diagonal fringe droops across his left eye (image left); the lowest broad fringe edge sits just above the nose. On the image right, rounded side hair reaches down to the cheek and curls inward, forming a short chin-length side tail. The forehead is completely covered. Crown is round and low; there is ONE very tiny rear tuft, never a tall spike. No quiff. NO spiky swept-up anime haircut. Preserve the three broad navy locks and thick black contours from the screenshot. Render this single isolated HAIR layer centered on genuine alpha transparency, large, full uncropped silhouette with generous transparent margins. Remove every part of face, scalp, ears, eyes, body, cap, bat, background and UI. Transparent opening where the lower face would be. Flat navy blue #17486d and simple darker shadow #10304b with thick near black ink outlines. No text, no gradient, no gloss, no texture. The result is a clean front-facing cartoon HAIR cutout, closely matching the full hero's blue hair in the screenshot, not a full head.

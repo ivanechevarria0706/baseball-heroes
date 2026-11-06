@@ -1,0 +1,227 @@
+{
+  "sourceBytesPreserved": true,
+  "approvedPairExact": true,
+  "productionBitmaps": [
+    "approved-ohtani-judge.png",
+    "players-1.png",
+    "players-2.png",
+    "players-3.png"
+  ],
+  "characters": [
+    {
+      "mlbId": 592450,
+      "full": [
+        0,
+        1051,
+        61,
+        550,
+        816
+      ],
+      "portrait": [
+        0,
+        1081,
+        61,
+        410,
+        469
+      ]
+    },
+    {
+      "mlbId": 660271,
+      "full": [
+        0,
+        226,
+        59,
+        466,
+        818
+      ],
+      "portrait": [
+        0,
+        226,
+        59,
+        452,
+        474
+      ]
+    },
+    {
+      "mlbId": 665742,
+      "full": [
+        1,
+        144,
+        29,
+        430,
+        614
+      ],
+      "portrait": [
+        1,
+        166,
+        29,
+        319,
+        365
+      ]
+    },
+    {
+      "mlbId": 665489,
+      "full": [
+        1,
+        771,
+        28,
+        331,
+        615
+      ],
+      "portrait": [
+        1,
+        770,
+        28,
+        319,
+        370
+      ]
+    },
+    {
+      "mlbId": 608070,
+      "full": [
+        1,
+        164,
+        655,
+        342,
+        577
+      ],
+      "portrait": [
+        1,
+        166,
+        655,
+        325,
+        323
+      ]
+    },
+    {
+      "mlbId": 596019,
+      "full": [
+        1,
+        781,
+        658,
+        315,
+        574
+      ],
+      "portrait": [
+        1,
+        780,
+        658,
+        311,
+        350
+      ]
+    },
+    {
+      "mlbId": 677594,
+      "full": [
+        2,
+        164,
+        12,
+        450,
+        638
+      ],
+      "portrait": [
+        2,
+        171,
+        12,
+        357,
+        377
+      ]
+    },
+    {
+      "mlbId": 663728,
+      "full": [
+        2,
+        761,
+        13,
+        351,
+        637
+      ],
+      "portrait": [
+        2,
+        760,
+        13,
+        336,
+        376
+      ]
+    },
+    {
+      "mlbId": 668227,
+      "full": [
+        2,
+        203,
+        652,
+        321,
+        599
+      ],
+      "portrait": [
+        2,
+        202,
+        652,
+        322,
+        340
+      ]
+    },
+    {
+      "mlbId": 680757,
+      "full": [
+        2,
+        747,
+        653,
+        342,
+        598
+      ],
+      "portrait": [
+        2,
+        746,
+        653,
+        341,
+        341
+      ]
+    },
+    {
+      "mlbId": 665926,
+      "full": [
+        3,
+        237,
+        51,
+        471,
+        826
+      ],
+      "portrait": [
+        3,
+        245,
+        51,
+        439,
+        474
+      ]
+    },
+    {
+      "mlbId": 670623,
+      "full": [
+        3,
+        1049,
+        59,
+        557,
+        818
+      ],
+      "portrait": [
+        3,
+        1067,
+        59,
+        422,
+        467
+      ]
+    }
+  ],
+  "rectFormat": [
+    "sheet",
+    "x",
+    "y",
+    "width",
+    "height"
+  ],
+  "rendering": "Complete illustration, uniform aspect scaling only; approved pair never mirrored, recolored, retouched, or recomposed. Portraits are windows of the same character.",
+  "generatedPlayers": 10,
+  "suppliedPlayers": 2,
+  "differentActionPoses": false
+}

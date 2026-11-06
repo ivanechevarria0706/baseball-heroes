@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Baseball Heroes · Our club</title><link rel="stylesheet" href="/style.css"><script src="/ruffle/ruffle.js" defer></script><script src="/startup.js" defer></script><script src="/game-cache.js" defer></script><script src="/recovery.js" defer></script><script src="/app.js" defer></script></head>
+<body><main>
+<header><a class="brand" href="/" aria-label="Baseball Heroes"><span class="ball">⚾</span><span>BASEBALL<br><b>HEROES</b></span></a><span class="edition"><span class="tag">WEB 1.0</span></span></header>
+<section id="welcome" class="welcome">
+<div class="intro"><div class="start-title"><p class="eyebrow">PLAY BALL!</p><h1>BASEBALL<br><span>HEROES</span></h1></div><img class="welcome-art" src="/welcome.png" alt="Baseball Heroes characters cheer on their team" width="1039" height="421"><div class="start-caption"><h2 lang="es">Tu carrera empieza aquí</h2><p lang="es">Crea tu héroe, elige tu equipo y juega tu primera temporada en ROOKIE.</p><div class="start-route"><span>1 · TEAM</span><span>2 · HERO</span><span>3 · PLAY BALL</span></div></div></div>
+<div class="login-card"><p class="eyebrow">PLAYER ACCESS</p><h2 id="form-title">Sign in</h2><form id="auth">
+<label>Username<input id="username" name="username" autocomplete="username" minlength="3" maxlength="24" pattern="[a-zA-Z0-9_]{3,24}" required></label>
+<label>Password<input id="password" name="password" type="password" autocomplete="current-password" minlength="8" maxlength="128" required></label>
+<div id="register-fields" hidden><label>Display name<input id="display-name" name="name" minlength="1" maxlength="28" autocomplete="nickname"></label><p class="small" lang="es">No necesitas código de invitación. Usa un usuario de 3 a 24 letras, números o guiones bajos y una contraseña de al menos 8 caracteres. Empiezas en nivel 1, en ROOKIE.</p></div>
+<button id="submit" class="primary">PLAY BALL <span>→</span></button><p id="auth-status" role="status" aria-live="polite"></p></form><button id="toggle-register" class="link">Create account</button><p class="small" lang="es">Tu progreso se guarda en tu cuenta. Puedes continuar desde otra computadora.</p></div></section>
+<section id="club" hidden><div class="toolbar"><span id="greeting"></span><span id="save-status" role="status" aria-live="polite">Loading save…</span><button id="retry-save" hidden>RETRY SAVE</button><button id="new-career">NEW CAREER</button><button id="import-save">IMPORT SAVE</button><input id="save-file" type="file" accept="application/json,.json" hidden><button id="fullscreen">FULLSCREEN</button><button id="logout">SIGN OUT</button></div>
+<div id="update" class="notice" hidden>A new version is available. <button id="update-button">SAVE & UPDATE</button></div>
+<div id="problem" class="notice error" hidden><p id="problem-text"></p><button id="retry-load" hidden>RETRY LOAD</button><button id="download-save">DOWNLOAD LOCAL COPY</button><button id="reload-cloud">RELOAD CLOUD SAVE</button></div>
+<div id="game-frame"><div id="loading" data-phase="download"><div class="load-card"><p class="eyebrow">BASEBALL HEROES</p><h2>LOADING YOUR CLUB</h2><img src="/welcome.png" alt="" class="load-cast" width="1039" height="421"><div class="load-steps" aria-hidden="true"><span>1 · DOWNLOAD</span><span>2 · PREPARE</span><span>3 · PLAY</span></div><p id="load-status" role="status" lang="es">Preparando la carga…</p><div id="load-progress" role="progressbar" aria-label="Game download" aria-valuemin="0" aria-valuemax="100"><span id="load-progress-bar"></span></div><p id="load-details" lang="es"></p><p class="load-tip" lang="es">La primera carga puede tardar más. Tu progreso permanece guardado.</p></div></div></div><p class="game-hint" lang="es">ESPACIO para batear · ESC para volver · MODES → RIVAL para jugar con amigos</p>
+</section>
+<dialog id="import-dialog" aria-labelledby="import-title" aria-describedby="import-tip">
+<div class="restore-heading"><p class="eyebrow">CAREER RECOVERY</p><h2 id="import-title">RESTORE CAREER</h2></div>
+<div class="restore-paper"><p class="restore-file" id="import-file"></p><p class="restore-account">ACCOUNT · <strong id="import-account"></strong></p>
+<table class="restore-table"><thead><tr><th scope="col">CAREER</th><th scope="col">CURRENT</th><th scope="col">BACKUP</th></tr></thead><tbody id="import-rows"></tbody></table>
+<p id="import-version" class="restore-format" lang="es"></p><p id="import-tip" lang="es">Se reemplazará la carrera de esta cuenta por la copia elegida. Tus amistades, retos y ligas privadas del servidor se conservan. Puedes cancelar sin cambiar nada.</p>
+<p id="import-error" role="alert" lang="es"></p><button id="import-backup-current">↓ DOWNLOAD CURRENT COPY</button><p id="import-backup-note" lang="es"></p>
+</div><div class="restore-actions"><button id="import-cancel" autofocus>CANCEL</button><button id="import-confirm" class="primary" disabled>IMPORT BACKUP →</button></div>
+</dialog>
+<footer>Personal remake · Open registration · Updates arrive here · <a href="/amigos.html" style="color:inherit" target="_blank" rel="noopener">Play with friends</a></footer></main></body></html>
+

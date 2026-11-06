@@ -1,0 +1,6 @@
+{
+  "version": "0.9.3",
+  "source": "image_gen",
+  "prompt": "Create a transparent modular BODY-ONLY sprite sheet for the provided chibi baseball video game character style. Thick black cartoon outlines, flat cel shading, royal BLUE jersey with white baseball pants, black cleats, peach skin hands and short neck stump. Absolutely NO HEAD, face, hair, helmet or hat; the game attaches its own saved head at the neckline. Six equal cells arranged 3 columns by 2 rows with ample padding, each fully contained. Top row: three running stride phases in three-quarter REAR view, looking/running to right, with arms pumping, back of blue jersey visible: left foot forward, flight with rear right leg bent, right foot forward. Bottom row: one fourth run stride REAR three-quarter, then one cheering pose REAR three-quarter both arms up, then one teammate cheering FRONT three-quarter arms out for a hug. NO bats, gloves or balls. Keep the neck stump and size consistent so a large chibi head can attach. Long narrow torso and short baseball legs consistent with Baseball Heroes game; the body should be about twice the missing head's height, not bulky. Fully transparent background, no shadows, no text. Clear separate action silhouettes, exactly 6 bodies.",
+  "characterHead": "src/com/bh/visual/BatterHead086.as unchanged"
+}
