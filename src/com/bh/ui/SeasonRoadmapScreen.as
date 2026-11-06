@@ -185,7 +185,7 @@ package com.bh.ui {
         private function onProgress(e:MouseEvent):void {select(int(e.currentTarget.name.substr(16)),true);}
         private function onPrevious(e:MouseEvent):void {settleEntrance();if(startGame>1){startGame--;renderCards();}}
         private function onNext(e:MouseEvent):void {settleEntrance();if(startGame<26){startGame++;renderCards();}}
-        private function onCurrent(e:MouseEvent):void {select(GameData.seasonGame,true);}
+        private function onCurrent(e:MouseEvent):void {onContinueClick(e);}
         private function onStandings(e:MouseEvent):void {settleEntrance();if(standings)return;standings=new SeasonStandingsOverlay(closeStandings);addChild(standings);}
         private function closeStandings():void {if(standings){standings.dispose();if(standings.parent)removeChild(standings);standings=null;}}
         public function handleEscape():Boolean {if(!standings)return false;closeStandings();return true;}
