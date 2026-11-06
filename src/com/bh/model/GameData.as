@@ -2744,14 +2744,23 @@ package com.bh.model {
                     )
                 );
 
-            var index:int =
+            // Never schedule the player's own city as the opponent:
+            // with 8 clubs the rotation used to return ST. LOUIS for
+            // games 1, 9, 17 and 25 of every ROOKIE season, so a player
+            // from St. Louis played a mirror match against himself.
+            // Rotate over the other clubs instead; cities outside the
+            // 8-club list keep the original rotation unchanged.
+            var playerIndex:int = cityNames.indexOf(teamCity);
+            var slotCount:int = playerIndex >= 0 ? teamNames.length - 1 : teamNames.length;
+            var slot:int =
                 (
                     gameNumber -
                     1 +
                     activeLeague *
                     2
                 ) %
-                teamNames.length;
+                slotCount;
+            var index:int = playerIndex >= 0 && slot >= playerIndex ? slot + 1 : slot;
 
             var rating:int =
                 64 +
